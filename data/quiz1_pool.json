@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "topic": "Văn hóa Việt Nam",
+      "question": "Áo dài truyền thống của Việt Nam được may từ bao nhiêu thân vải chính?",
+      "options": [
+        "A. 2 thân",
+        "B. 4 thân",
+        "C. 5 thân",
+        "D. 6 thân"
+      ],
+      "correct": "C",
+      "explanation": "Áo dài truyền thống Việt Nam được may từ 5 thân vải chính: 2 thân trước, 2 thân sau và 1 thân tà. Đây là thiết kế chuẩn của áo dài truyền thống từ thời Nguyễn (thế kỷ 18) và vẫn được duy trì đến ngày nay. Cấu trúc 5 thân này tạo nên đường nét thanh thoát, uyển chuyển đặc trưng của tà áo dài Việt Nam."
+    }
+  ]
+}
