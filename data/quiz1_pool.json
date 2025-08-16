@@ -1,6 +1,74 @@
 {
   "questions": [
     {
+      "topic": "Lịch sử Việt Nam",
+      "question": "Cuộc khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo diễn ra trong khoảng thời gian nào?",
+      "options": [
+        "A. 1418 - 1427",
+        "B. 1417 - 1426",
+        "C. 1416 - 1425",
+        "D. 1419 - 1428"
+      ],
+      "correct": "A",
+      "explanation": "Cuộc khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo chính thức bắt đầu vào tháng 2 năm 1418 tại Lam Sơn (Thanh Hóa) và kết thúc thắng lợi vào năm 1427 sau chiến thắng Chi Lăng - Xương Giang, đánh đuổi hoàn toàn quân Minh ra khỏi nước ta."
+    },
+    {
+      "topic": "Thể thao Việt Nam",
+      "question": "Ai là vận động viên Việt Nam đầu tiên giành được huy chương vàng Olympic?",
+      "options": [
+        "A. Hoàng Xuân Vinh",
+        "B. Trần Hiếu Ngân",
+        "C. Lê Văn Công",
+        "D. Nguyễn Thị Ánh Viên"
+      ],
+      "correct": "A",
+      "explanation": "Hoàng Xuân Vinh là vận động viên đầu tiên của Việt Nam giành huy chương vàng Olympic tại Olympic Rio 2016 ở nội dung bắn súng ngắn hơi 10m nam với 202,5 điểm. Đây là tấm huy chương vàng Olympic đầu tiên trong lịch sử thể thao Việt Nam."
+    },
+    {
+      "topic": "Ẩm thực Việt Nam",
+      "question": "Món phở truyền thống của Việt Nam bắt nguồn từ vùng nào?",
+      "options": [
+        "A. Nam Định",
+        "B. Hà Nội",
+        "C. Huế",
+        "D. Sài Gòn"
+      ],
+      "correct": "A",
+      "explanation": "Phở có nguồn gốc từ Nam Định vào đầu thế kỷ 20. Các tài liệu lịch sử và nghiên cứu ẩm thực xác nhận phở xuất phát từ làng Vân Cù, huyện Nam Trực, tỉnh Nam Định, nơi có nghề làm bánh phở và nấu phở truyền thống lâu đời. Sau đó, món ăn này được người dân Nam Định mang lên Hà Nội và dần phát triển thành món ăn đặc trưng của cả nước."
+    },
+    {
+      "topic": "Địa lý Việt Nam",
+      "question": "Đỉnh núi nào là điểm cao nhất của Việt Nam?",
+      "options": [
+        "A. Phan Xi Păng",
+        "B. Ngọc Linh",
+        "C. Phu Xai Lai Leng",
+        "D. Chư Yang Sin"
+      ],
+      "correct": "A",
+      "explanation": "Phan Xi Păng là đỉnh núi cao nhất Việt Nam với độ cao 3.143m so với mực nước biển, thuộc dãy núi Hoàng Liên Sơn, tỉnh Lào Cai. Đỉnh núi này còn được mệnh danh là 'Nóc nhà Đông Dương'."
+    },
+    {
+      "topic": "Địa lý Việt Nam",
+      "question": "Sông nào là sông dài nhất nằm hoàn toàn trong lãnh thổ Việt Nam?",
+      "options": [
+        "A. Sông Đà",
+        "B. Sông Đồng Nai",
+        "C. Sông Hồng",
+        "D. Sông Mã"
+      ],
+      "correct": "B",
+      "explanation": "Sông Đồng Nai là con sông dài nhất nằm hoàn toàn trong lãnh thổ Việt Nam với chiều dài 586 km. Các con sông khác như sông Hồng (510 km trong Việt Nam), sông Đà và sông Mã đều bắt nguồn từ nước ngoài hoặc ngắn hơn sông Đồng Nai."
+    },
+    {
+      "topic": "Ẩm thực Việt Nam",
+      "question": "Món phở truyền thống của Việt Nam có nguồn gốc từ thành phố nào?",
+      "answer": "Hà Nội",
+      "explanation": "Phở xuất hiện đầu tiên ở Hà Nội vào khoảng đầu thế kỷ 20, bắt nguồn từ ảnh hưởng của ẩm thực Pháp và Trung Hoa, sau đó phát triển thành món ăn đặc trưng của Việt Nam."
+    },
+    {
+  "questions": [
+    {
       "topic": "Văn hóa Việt Nam",
       "question": "Áo dài truyền thống của Việt Nam được may từ bao nhiêu thân vải chính?",
       "options": [
