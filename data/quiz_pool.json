@@ -59,6 +59,12 @@
       ],
       "correct": "B",
       "explanation": "Sông Đồng Nai là con sông dài nhất nằm hoàn toàn trong lãnh thổ Việt Nam với chiều dài 586 km. Các con sông khác như sông Hồng (510 km trong Việt Nam), sông Đà và sông Mã đều bắt nguồn từ nước ngoài hoặc ngắn hơn sông Đồng Nai."
+    },
+    {
+      "topic": "Ẩm thực Việt Nam",
+      "question": "Món phở truyền thống của Việt Nam có nguồn gốc từ thành phố nào?",
+      "answer": "Hà Nội",
+      "explanation": "Phở xuất hiện đầu tiên ở Hà Nội vào khoảng đầu thế kỷ 20, bắt nguồn từ ảnh hưởng của ẩm thực Pháp và Trung Hoa, sau đó phát triển thành món ăn đặc trưng của Việt Nam."
     }
   ]
 }
