@@ -9,8 +9,30 @@
     "shape": "square"
   },
   "description": "AnimeVietsub.cam - Xem anime online miễn phí",
+  "sorts": [
+    {
+      "text": "Mới nhất",
+      "type": "radio",
+      "url": "https://animevietsub.cam/anime-moi"
+    },
+    {
+      "text": "Phổ biến",
+      "type": "radio",
+      "url": "https://animevietsub.cam/anime-hot"
+    },
+    {
+      "text": "Hoàn thành",
+      "type": "radio",
+      "url": "https://animevietsub.cam/hoan-thanh"
+    },
+    {
+      "text": "Đang chiếu",
+      "type": "radio",
+      "url": "https://animevietsub.cam/dang-chieu"
+    }
+  ],
   "total_anime": 40,
-  "last_updated": "2025-08-16T18:44:30.053499",
+  "last_updated": "2025-08-16T18:57:11.387817",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -18,7 +40,10 @@
       "url": "https://animevietsub.cam/phim/yeu-than-ky-a2981/",
       "image": "https://cdn.animevietsub.cam/data/poster/2022/03/09/animevsub-YLJmLxozMf.jpg",
       "episodes": "392",
-      "scraped_at": "2025-08-16T18:43:55.951076"
+      "rating": "7.9",
+      "quality": "HD",
+      "year": "Lượt xem: 6,766,076",
+      "scraped_at": "2025-08-16T18:56:36.191095"
     },
     {
       "id": "d862ad1461",
@@ -26,7 +51,10 @@
       "url": "https://animevietsub.cam/phim/van-gioi-doc-ton-a4090/",
       "image": "https://cdn.animevietsub.cam/data/poster/2021/04/07/animevsub-LiCsWqRxto.jpg",
       "episodes": "356",
-      "scraped_at": "2025-08-16T18:43:55.952005"
+      "rating": "6.9",
+      "quality": "FHD",
+      "year": "Lượt xem: 5,978,919",
+      "scraped_at": "2025-08-16T18:56:36.193210"
     },
     {
       "id": "0069c8c1fd",
@@ -34,7 +62,10 @@
       "url": "https://animevietsub.cam/phim/luyen-khi-muoi-van-nam-a4897/",
       "image": "https://cdn.animevietsub.cam/data/poster/2023/03/07/animevsub-mWLl2jHich.jpg",
       "episodes": "268",
-      "scraped_at": "2025-08-16T18:43:55.952851"
+      "rating": "9.1",
+      "quality": "HD",
+      "year": "Lượt xem: 11,194,873",
+      "scraped_at": "2025-08-16T18:56:36.195035"
     },
     {
       "id": "b9d02f9a4b",
@@ -42,7 +73,10 @@
       "url": "https://animevietsub.cam/phim/pham-nhan-tu-tien-tinh-hai-phi-tri-a5035/",
       "image": "https://cdn.animevietsub.cam/data/poster/2023/07/30/animevsub-bDbffnCyov.jpg",
       "episodes": "84",
-      "scraped_at": "2025-08-16T18:43:55.953681"
+      "rating": "8.8",
+      "quality": "HD",
+      "year": "Lượt xem: 3,817,139",
+      "scraped_at": "2025-08-16T18:56:36.198499"
     },
     {
       "id": "ddb25f601c",
@@ -50,7 +84,10 @@
       "url": "https://animevietsub.cam/phim/nhat-the-doc-ton-a4960/",
       "image": "https://cdn.animevietsub.cam/data/poster/2023/04/26/animevsub-PlXBrxRAgj.jpg",
       "episodes": "150",
-      "scraped_at": "2025-08-16T18:43:55.954436"
+      "rating": "6.9",
+      "quality": "HD",
+      "year": "Lượt xem: 1,088,858",
+      "scraped_at": "2025-08-16T18:56:36.200297"
     },
     {
       "id": "bdcca1bbe3",
@@ -58,7 +95,10 @@
       "url": "https://animevietsub.cam/phim/tien-vo-truyen-a4932/",
       "image": "https://cdn.animevietsub.cam/data/poster/2023/03/19/animevsub-HmdytRsGnS.jpg",
       "episodes": "128",
-      "scraped_at": "2025-08-16T18:43:55.955458"
+      "rating": "7.8",
+      "quality": "HD",
+      "year": "Lượt xem: 3,806,909",
+      "scraped_at": "2025-08-16T18:56:36.202064"
     },
     {
       "id": "685ecc0af0",
@@ -66,7 +106,10 @@
       "url": "https://animevietsub.cam/phim/dau-la-dai-luc-2-tuyet-the-duong-mon-a4948/",
       "image": "https://cdn.animevietsub.cam/data/poster/2023/04/02/animevsub-b94bdBJpTP.png",
       "episodes": "114",
-      "scraped_at": "2025-08-16T18:43:55.956231"
+      "rating": "8.2",
+      "quality": "FHD",
+      "year": "Lượt xem: 7,484,282",
+      "scraped_at": "2025-08-16T18:56:36.203838"
     },
     {
       "id": "baa9f89114",
@@ -74,7 +117,10 @@
       "url": "https://animevietsub.cam/phim/trong-tong-mon-tru-ta-ra-tat-ca-deu-la-gian-diep-a5480/",
       "image": "https://cdn.animevietsub.cam/data/poster/2024/10/14/animevsub-NEgTitO2Re.jpg",
       "episodes": "93",
-      "scraped_at": "2025-08-16T18:43:55.957009"
+      "rating": "8.3",
+      "quality": "FHD",
+      "year": "Lượt xem: 689,346",
+      "scraped_at": "2025-08-16T18:56:36.205666"
     },
     {
       "id": "e0ea523ee2",
@@ -82,7 +128,10 @@
       "url": "https://animevietsub.cam/phim/lang-thien-doc-ton-a5678/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/02/animevsub-t5JR2zcGCA.jpg",
       "episodes": "17",
-      "scraped_at": "2025-08-16T18:43:55.957736"
+      "rating": "6.3",
+      "quality": "FHD",
+      "year": "Lượt xem: 84,666",
+      "scraped_at": "2025-08-16T18:56:36.207451"
     },
     {
       "id": "9f96db78ba",
@@ -90,7 +139,10 @@
       "url": "https://animevietsub.cam/phim/than-quoc-chi-thuong-a5681/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/02/animevsub-OwnlLv8TWW.jpg",
       "episodes": "12",
-      "scraped_at": "2025-08-16T18:43:55.958475"
+      "rating": "8.2",
+      "quality": "HD",
+      "year": "Lượt xem: 90,195",
+      "scraped_at": "2025-08-16T18:56:36.209265"
     },
     {
       "id": "4d736bba8d",
@@ -98,7 +150,10 @@
       "url": "https://animevietsub.cam/phim/virgin-punk-a5657/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-opjbmYCKdm.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.960540"
+      "rating": "9.7",
+      "quality": "HD",
+      "year": "Lượt xem: 86,628",
+      "scraped_at": "2025-08-16T18:56:36.212053"
     },
     {
       "id": "4f8e31e52b",
@@ -106,7 +161,10 @@
       "url": "https://animevietsub.cam/phim/yeu-nhau-den-tan-ngay-cau-bien-mat-a5643/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/05/20/animevsub-BaEirWi7Ed.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.964484"
+      "rating": "9.8",
+      "quality": "FHD",
+      "year": "Lượt xem: 208,396",
+      "scraped_at": "2025-08-16T18:56:36.214784"
     },
     {
       "id": "22af2e738a",
@@ -114,7 +172,10 @@
       "url": "https://animevietsub.cam/phim/meitantei-conan-movie-28-sekigan-no-flashback-a5538/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/20/animevsub-9faNqJZXc1.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.968691"
+      "rating": "8.4",
+      "quality": "HD",
+      "year": "Lượt xem: 341,687",
+      "scraped_at": "2025-08-16T18:56:36.218731"
     },
     {
       "id": "1dd178dc76",
@@ -122,7 +183,10 @@
       "url": "https://animevietsub.cam/phim/mot-con-quai-vat-muon-an-thit-toi-a5486/",
       "image": "https://cdn.animevietsub.cam/data/poster/2024/10/30/animevsub-y0DKf09XcU.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.970938"
+      "rating": "9.8",
+      "quality": "FHD",
+      "year": "Lượt xem: 156,328",
+      "scraped_at": "2025-08-16T18:56:36.225679"
     },
     {
       "id": "685489c301",
@@ -130,7 +194,10 @@
       "url": "https://animevietsub.cam/phim/yozakura-san-chi-no-daisakusen-2nd-season-a5475/",
       "image": "https://cdn.animevietsub.cam/data/poster/2024/10/08/animevsub-yCB1WAlI5u.jpeg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.972731"
+      "rating": "9.4",
+      "quality": "FHD",
+      "year": "Lượt xem: 277,441",
+      "scraped_at": "2025-08-16T18:56:36.228397"
     },
     {
       "id": "2415632b78",
@@ -138,7 +205,10 @@
       "url": "https://animevietsub.cam/phim/oshi-no-ko-3rd-season-a5467/",
       "image": "https://cdn.animevietsub.cam/data/poster/2024/10/06/animevsub-6F3sTNscb1.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.974652"
+      "rating": "6.3",
+      "quality": "HD",
+      "year": "Lượt xem: 214,904",
+      "scraped_at": "2025-08-16T18:56:36.231626"
     },
     {
       "id": "8921f7af41",
@@ -146,7 +216,10 @@
       "url": "https://animevietsub.cam/phim/mahou-shoujo-ni-akogarete-ss2-a5464/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/02/04/animevsub-44UJCnPsrq.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.976418"
+      "rating": "9.6",
+      "quality": "FHD",
+      "year": "Lượt xem: 226,262",
+      "scraped_at": "2025-08-16T18:56:36.234672"
     },
     {
       "id": "59a4ec17c8",
@@ -154,7 +227,10 @@
       "url": "https://animevietsub.cam/phim/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-2nd-season-a5457/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/20/animevsub-lccpnNojVI.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.978219"
+      "rating": "7.4",
+      "quality": "FHD",
+      "year": "Lượt xem: 317,719",
+      "scraped_at": "2025-08-16T18:56:36.237415"
     },
     {
       "id": "7821bcdb78",
@@ -162,7 +238,10 @@
       "url": "https://animevietsub.cam/phim/sousou-no-frieren-2nd-season-a5448/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/20/animevsub-TADYlud8mX.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.979943"
+      "rating": "9.3",
+      "quality": "FHD",
+      "year": "Lượt xem: 208,045",
+      "scraped_at": "2025-08-16T18:56:36.240145"
     },
     {
       "id": "714675203d",
@@ -170,7 +249,10 @@
       "url": "https://animevietsub.cam/phim/doraemon-movie-44-nobita-no-esekai-monogatari-a5447/",
       "image": "https://cdn.animevietsub.cam/data/poster/2024/09/28/animevsub-WB1eWP8Eqr.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.981736"
+      "rating": "9.5",
+      "quality": "FHD",
+      "year": "Lượt xem: 462,175",
+      "scraped_at": "2025-08-16T18:56:36.245061"
     },
     {
       "id": "8f3332247a",
@@ -178,7 +260,10 @@
       "url": "https://animevietsub.cam/phim/silent-witch-chinmoku-no-majo-no-kakushigoto-a5663/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-Vs9tK3BXye.jpg",
       "episodes": "07",
-      "scraped_at": "2025-08-16T18:43:55.982622"
+      "rating": "9.4",
+      "quality": "HD",
+      "year": "Lượt xem: 1,308,031",
+      "scraped_at": "2025-08-16T18:56:36.246855"
     },
     {
       "id": "6e9a35e890",
@@ -186,7 +271,10 @@
       "url": "https://animevietsub.cam/phim/dao-hai-tac-one-piece-a1/",
       "image": "https://cdn.animevietsub.cam/data/poster/2019/09/27/animevsub-sQCBqYz9ve.jpg",
       "episodes": "1139",
-      "scraped_at": "2025-08-16T18:43:55.983384"
+      "rating": "9.2",
+      "quality": "FHD",
+      "year": "Lượt xem: 221,183,851",
+      "scraped_at": "2025-08-16T18:56:36.248583"
     },
     {
       "id": "e3266712d1",
@@ -194,7 +282,10 @@
       "url": "https://animevietsub.cam/phim/kimetsu-no-yaiba-movie-mugen-jou-hen-a5343/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/25/animevsub-5avFOILEqw.jpg",
       "episodes": "?",
-      "scraped_at": "2025-08-16T18:43:55.985044"
+      "rating": "8",
+      "quality": "CAM",
+      "year": "Lượt xem: 1,841,412",
+      "scraped_at": "2025-08-16T18:56:36.251224"
     },
     {
       "id": "f3ffd7ed9f",
@@ -202,7 +293,10 @@
       "url": "https://animevietsub.cam/phim/tham-tu-lung-danh-conan-a3/",
       "image": "https://cdn.animevietsub.cam/data/poster/2019/08/26/animevsub-bGw5lnUHTC.jpg",
       "episodes": "1170",
-      "scraped_at": "2025-08-16T18:43:55.985898"
+      "rating": "9.4",
+      "quality": "HD",
+      "year": "Lượt xem: 76,208,118",
+      "scraped_at": "2025-08-16T18:56:36.255194"
     },
     {
       "id": "7ceed7d53e",
@@ -210,7 +304,10 @@
       "url": "https://animevietsub.cam/phim/tougen-anki-a5698/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/11/animevsub-AAE9axS0yZ.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.986660"
+      "rating": "9.4",
+      "quality": "HD",
+      "year": "Lượt xem: 441,394",
+      "scraped_at": "2025-08-16T18:56:36.257504"
     },
     {
       "id": "9ec9b6714c",
@@ -218,7 +315,10 @@
       "url": "https://animevietsub.cam/phim/dandadan-2nd-season-a5540/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/03/animevsub-ohdr6Xaomy.jpg",
       "episodes": "07",
-      "scraped_at": "2025-08-16T18:43:55.987452"
+      "rating": "9.7",
+      "quality": "HD",
+      "year": "Lượt xem: 1,657,479",
+      "scraped_at": "2025-08-16T18:56:36.259252"
     },
     {
       "id": "9fc5ad1f22",
@@ -226,15 +326,10 @@
       "url": "https://animevietsub.cam/phim/sat-thu-ve-vuon-a5532/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-mp7KCGFVLm.jpg",
       "episodes": "17",
-      "scraped_at": "2025-08-16T18:43:55.988204"
-    },
-    {
-      "id": "0d2afe2a12",
-      "name": "Yofukashi no Uta 2nd Season",
-      "url": "https://animevietsub.cam/phim/yofukashi-no-uta-2nd-season-a5667/",
-      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-rQ1orlhlpR.jpg",
-      "episodes": "07",
-      "scraped_at": "2025-08-16T18:43:55.989008"
+      "rating": "8.8",
+      "quality": "HD",
+      "year": "Lượt xem: 8,443,371",
+      "scraped_at": "2025-08-16T18:56:36.261054"
     },
     {
       "id": "ffce45bea0",
@@ -242,7 +337,21 @@
       "url": "https://animevietsub.cam/phim/dr-stone-4th-season-i3-a5533/",
       "image": "https://cdn.animevietsub.cam/data/poster/2024/11/30/animevsub-8tbxYXLjm5.jpg",
       "episodes": "18",
-      "scraped_at": "2025-08-16T18:43:55.989777"
+      "rating": "9.8",
+      "quality": "HD",
+      "year": "Lượt xem: 5,643,758",
+      "scraped_at": "2025-08-16T18:56:36.262761"
+    },
+    {
+      "id": "0d2afe2a12",
+      "name": "Yofukashi no Uta 2nd Season",
+      "url": "https://animevietsub.cam/phim/yofukashi-no-uta-2nd-season-a5667/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-rQ1orlhlpR.jpg",
+      "episodes": "07",
+      "rating": "9.5",
+      "quality": "HD",
+      "year": "Lượt xem: 541,812",
+      "scraped_at": "2025-08-16T18:56:36.264462"
     },
     {
       "id": "ab58e587b5",
@@ -250,7 +359,10 @@
       "url": "https://animevietsub.cam/phim/mizu-zokusei-no-mahoutsukai-a5685/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/04/animevsub-Sh2mNM6p9c.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.990536"
+      "rating": "9.3",
+      "quality": "HD",
+      "year": "Lượt xem: 911,934",
+      "scraped_at": "2025-08-16T18:56:36.268128"
     },
     {
       "id": "3e78211a6f",
@@ -258,7 +370,10 @@
       "url": "https://animevietsub.cam/phim/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season-a5669/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/09/animevsub-CjvpCy6voX.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.991724"
+      "rating": "8.7",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.270246"
     },
     {
       "id": "696897dc24",
@@ -266,7 +381,10 @@
       "url": "https://animevietsub.cam/phim/tate-no-yuusha-no-nariagari-season-4-a5378/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/09/animevsub-gLk5VwvPrm.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.992491"
+      "rating": "8.8",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.271793"
     },
     {
       "id": "ebf1255dac",
@@ -274,7 +392,10 @@
       "url": "https://animevietsub.cam/phim/kakkou-no-iinazuke-2nd-season-a5387/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/08/animevsub-RiUU2G7qtj.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.993307"
+      "rating": "7.7",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.273434"
     },
     {
       "id": "ef7ca3087f",
@@ -282,7 +403,10 @@
       "url": "https://animevietsub.cam/phim/kijin-gentoushou-a5580/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/08/04/animevsub-CZSm3VYzzg.jpg",
       "episodes": "18",
-      "scraped_at": "2025-08-16T18:43:55.994143"
+      "rating": "9.5",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.275089"
     },
     {
       "id": "f243a16e9e",
@@ -290,7 +414,10 @@
       "url": "https://animevietsub.cam/phim/gachiakuta-a5665/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/06/animevsub-UMDpPzG9JC.jpg",
       "episodes": "05",
-      "scraped_at": "2025-08-16T18:43:55.994987"
+      "rating": "9.7",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.276903"
     },
     {
       "id": "f21f169149",
@@ -298,7 +425,10 @@
       "url": "https://animevietsub.cam/phim/witch-watch-a5579/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/02/24/animevsub-axs6BjQsQB.jpg",
       "episodes": "19",
-      "scraped_at": "2025-08-16T18:43:55.995713"
+      "rating": "9.6",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.278436"
     },
     {
       "id": "b468b29778",
@@ -306,7 +436,10 @@
       "url": "https://animevietsub.cam/phim/kaoru-hana-wa-rin-to-saku-a5670/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/06/04/animevsub-ZDXj19OQA5.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.996415"
+      "rating": "9.6",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.280002"
     },
     {
       "id": "377aefd81d",
@@ -314,7 +447,10 @@
       "url": "https://animevietsub.cam/phim/koujo-denka-no-kateikyoushi-a5659/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/06/29/animevsub-9i1vXui31N.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.997177"
+      "rating": "8.1",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.283695"
     },
     {
       "id": "09c55b9b3f",
@@ -322,7 +458,10 @@
       "url": "https://animevietsub.cam/phim/sono-bisque-doll-wa-koi-wo-suru-season-2-a5672/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/05/animevsub-M6ign8tlkp.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.997892"
+      "rating": "9.3",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.285316"
     },
     {
       "id": "f60d5b19e0",
@@ -330,7 +469,10 @@
       "url": "https://animevietsub.cam/phim/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai-a5668/",
       "image": "https://cdn.animevietsub.cam/data/poster/2025/07/05/animevsub-abt38ox1S5.jpg",
       "episodes": "06",
-      "scraped_at": "2025-08-16T18:43:55.998634"
+      "rating": "9.6",
+      "quality": "",
+      "year": "",
+      "scraped_at": "2025-08-16T18:56:36.286848"
     }
   ]
 }
