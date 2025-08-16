@@ -1,0 +1,336 @@
+{
+  "name": "ANIMEVIETSUB",
+  "id": "avietsub-pvd",
+  "url": "https://animevietsub.cam",
+  "color": "#FF6B00",
+  "image": {
+    "url": "https://animevietsub.cam/logo.png",
+    "display": "cover",
+    "shape": "square"
+  },
+  "description": "AnimeVietsub.cam - Xem anime online miễn phí",
+  "total_anime": 40,
+  "last_updated": "2025-08-16T18:44:30.053499",
+  "anime_list": [
+    {
+      "id": "528ad5bce0",
+      "name": "Yêu Thần Ký",
+      "url": "https://animevietsub.cam/phim/yeu-than-ky-a2981/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2022/03/09/animevsub-YLJmLxozMf.jpg",
+      "episodes": "392",
+      "scraped_at": "2025-08-16T18:43:55.951076"
+    },
+    {
+      "id": "d862ad1461",
+      "name": "Vạn Giới Độc Tôn",
+      "url": "https://animevietsub.cam/phim/van-gioi-doc-ton-a4090/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2021/04/07/animevsub-LiCsWqRxto.jpg",
+      "episodes": "356",
+      "scraped_at": "2025-08-16T18:43:55.952005"
+    },
+    {
+      "id": "0069c8c1fd",
+      "name": "Luyện Khí Mười Vạn Năm",
+      "url": "https://animevietsub.cam/phim/luyen-khi-muoi-van-nam-a4897/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2023/03/07/animevsub-mWLl2jHich.jpg",
+      "episodes": "268",
+      "scraped_at": "2025-08-16T18:43:55.952851"
+    },
+    {
+      "id": "b9d02f9a4b",
+      "name": "Phàm Nhân Tu Tiên: Tinh Hải Phi Trì",
+      "url": "https://animevietsub.cam/phim/pham-nhan-tu-tien-tinh-hai-phi-tri-a5035/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2023/07/30/animevsub-bDbffnCyov.jpg",
+      "episodes": "84",
+      "scraped_at": "2025-08-16T18:43:55.953681"
+    },
+    {
+      "id": "ddb25f601c",
+      "name": "Nhất Thế Độc Tôn",
+      "url": "https://animevietsub.cam/phim/nhat-the-doc-ton-a4960/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2023/04/26/animevsub-PlXBrxRAgj.jpg",
+      "episodes": "150",
+      "scraped_at": "2025-08-16T18:43:55.954436"
+    },
+    {
+      "id": "bdcca1bbe3",
+      "name": "Tiên Võ Truyện",
+      "url": "https://animevietsub.cam/phim/tien-vo-truyen-a4932/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2023/03/19/animevsub-HmdytRsGnS.jpg",
+      "episodes": "128",
+      "scraped_at": "2025-08-16T18:43:55.955458"
+    },
+    {
+      "id": "685ecc0af0",
+      "name": "Đấu La Đại Lục 2: Tuyệt thế Đường Môn",
+      "url": "https://animevietsub.cam/phim/dau-la-dai-luc-2-tuyet-the-duong-mon-a4948/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2023/04/02/animevsub-b94bdBJpTP.png",
+      "episodes": "114",
+      "scraped_at": "2025-08-16T18:43:55.956231"
+    },
+    {
+      "id": "baa9f89114",
+      "name": "Trong Tông Môn Trừ Ta Ra Tất Cả Đều Là Gián Điệp",
+      "url": "https://animevietsub.cam/phim/trong-tong-mon-tru-ta-ra-tat-ca-deu-la-gian-diep-a5480/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/10/14/animevsub-NEgTitO2Re.jpg",
+      "episodes": "93",
+      "scraped_at": "2025-08-16T18:43:55.957009"
+    },
+    {
+      "id": "e0ea523ee2",
+      "name": "Lăng Thiên Độc Tôn",
+      "url": "https://animevietsub.cam/phim/lang-thien-doc-ton-a5678/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/02/animevsub-t5JR2zcGCA.jpg",
+      "episodes": "17",
+      "scraped_at": "2025-08-16T18:43:55.957736"
+    },
+    {
+      "id": "9f96db78ba",
+      "name": "Thần Quốc Chi Thượng",
+      "url": "https://animevietsub.cam/phim/than-quoc-chi-thuong-a5681/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/02/animevsub-OwnlLv8TWW.jpg",
+      "episodes": "12",
+      "scraped_at": "2025-08-16T18:43:55.958475"
+    },
+    {
+      "id": "4d736bba8d",
+      "name": "Virgin Punk",
+      "url": "https://animevietsub.cam/phim/virgin-punk-a5657/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-opjbmYCKdm.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.960540"
+    },
+    {
+      "id": "4f8e31e52b",
+      "name": "Yêu Nhau Đến Tận Ngày Cậu Biến Mất",
+      "url": "https://animevietsub.cam/phim/yeu-nhau-den-tan-ngay-cau-bien-mat-a5643/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/05/20/animevsub-BaEirWi7Ed.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.964484"
+    },
+    {
+      "id": "22af2e738a",
+      "name": "Thám Tử Lừng Danh Conan: Dư Ảnh Của Độc Nhãn",
+      "url": "https://animevietsub.cam/phim/meitantei-conan-movie-28-sekigan-no-flashback-a5538/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/20/animevsub-9faNqJZXc1.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.968691"
+    },
+    {
+      "id": "1dd178dc76",
+      "name": "Một con quái vật muốn ăn thịt tôi",
+      "url": "https://animevietsub.cam/phim/mot-con-quai-vat-muon-an-thit-toi-a5486/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/10/30/animevsub-y0DKf09XcU.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.970938"
+    },
+    {
+      "id": "685489c301",
+      "name": "Yozakura-san Chi no Daisakusen 2nd Season",
+      "url": "https://animevietsub.cam/phim/yozakura-san-chi-no-daisakusen-2nd-season-a5475/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/10/08/animevsub-yCB1WAlI5u.jpeg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.972731"
+    },
+    {
+      "id": "2415632b78",
+      "name": "Oshi no Ko 3rd Season",
+      "url": "https://animevietsub.cam/phim/oshi-no-ko-3rd-season-a5467/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/10/06/animevsub-6F3sTNscb1.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.974652"
+    },
+    {
+      "id": "8921f7af41",
+      "name": "Mahou Shoujo ni Akogarete 2nd Season",
+      "url": "https://animevietsub.cam/phim/mahou-shoujo-ni-akogarete-ss2-a5464/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/02/04/animevsub-44UJCnPsrq.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.976418"
+    },
+    {
+      "id": "59a4ec17c8",
+      "name": "Tokidoki Bosotto Russia-go de Dereru Tonari no Alya-san 2nd Season",
+      "url": "https://animevietsub.cam/phim/tokidoki-bosotto-russia-go-de-dereru-tonari-no-alya-san-2nd-season-a5457/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/20/animevsub-lccpnNojVI.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.978219"
+    },
+    {
+      "id": "7821bcdb78",
+      "name": "Sousou no Frieren 2nd Season",
+      "url": "https://animevietsub.cam/phim/sousou-no-frieren-2nd-season-a5448/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/20/animevsub-TADYlud8mX.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.979943"
+    },
+    {
+      "id": "714675203d",
+      "name": "Doraemon Movie 44: Nobita no Esekai Monogatari",
+      "url": "https://animevietsub.cam/phim/doraemon-movie-44-nobita-no-esekai-monogatari-a5447/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/09/28/animevsub-WB1eWP8Eqr.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.981736"
+    },
+    {
+      "id": "8f3332247a",
+      "name": "Bí Mật Của Phù Thủy Tĩnh Lặng",
+      "url": "https://animevietsub.cam/phim/silent-witch-chinmoku-no-majo-no-kakushigoto-a5663/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-Vs9tK3BXye.jpg",
+      "episodes": "07",
+      "scraped_at": "2025-08-16T18:43:55.982622"
+    },
+    {
+      "id": "6e9a35e890",
+      "name": "One Piece - Đảo Hải Tặc",
+      "url": "https://animevietsub.cam/phim/dao-hai-tac-one-piece-a1/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2019/09/27/animevsub-sQCBqYz9ve.jpg",
+      "episodes": "1139",
+      "scraped_at": "2025-08-16T18:43:55.983384"
+    },
+    {
+      "id": "e3266712d1",
+      "name": "Thanh Gươm Diệt Quỷ: Vô Hạn Thành",
+      "url": "https://animevietsub.cam/phim/kimetsu-no-yaiba-movie-mugen-jou-hen-a5343/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/25/animevsub-5avFOILEqw.jpg",
+      "episodes": "?",
+      "scraped_at": "2025-08-16T18:43:55.985044"
+    },
+    {
+      "id": "f3ffd7ed9f",
+      "name": "Thám Tử Lừng Danh Conan",
+      "url": "https://animevietsub.cam/phim/tham-tu-lung-danh-conan-a3/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2019/08/26/animevsub-bGw5lnUHTC.jpg",
+      "episodes": "1170",
+      "scraped_at": "2025-08-16T18:43:55.985898"
+    },
+    {
+      "id": "7ceed7d53e",
+      "name": "Tougen Anki",
+      "url": "https://animevietsub.cam/phim/tougen-anki-a5698/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/11/animevsub-AAE9axS0yZ.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.986660"
+    },
+    {
+      "id": "9ec9b6714c",
+      "name": "Dandadan 2nd Season",
+      "url": "https://animevietsub.cam/phim/dandadan-2nd-season-a5540/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/03/animevsub-ohdr6Xaomy.jpg",
+      "episodes": "07",
+      "scraped_at": "2025-08-16T18:43:55.987452"
+    },
+    {
+      "id": "9fc5ad1f22",
+      "name": "Sát Thủ Về Vườn",
+      "url": "https://animevietsub.cam/phim/sat-thu-ve-vuon-a5532/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-mp7KCGFVLm.jpg",
+      "episodes": "17",
+      "scraped_at": "2025-08-16T18:43:55.988204"
+    },
+    {
+      "id": "0d2afe2a12",
+      "name": "Yofukashi no Uta 2nd Season",
+      "url": "https://animevietsub.cam/phim/yofukashi-no-uta-2nd-season-a5667/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-rQ1orlhlpR.jpg",
+      "episodes": "07",
+      "scraped_at": "2025-08-16T18:43:55.989008"
+    },
+    {
+      "id": "ffce45bea0",
+      "name": "Dr. Stone 4th Season",
+      "url": "https://animevietsub.cam/phim/dr-stone-4th-season-i3-a5533/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/11/30/animevsub-8tbxYXLjm5.jpg",
+      "episodes": "18",
+      "scraped_at": "2025-08-16T18:43:55.989777"
+    },
+    {
+      "id": "ab58e587b5",
+      "name": "Mizu Zokusei no Mahoutsukai",
+      "url": "https://animevietsub.cam/phim/mizu-zokusei-no-mahoutsukai-a5685/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/04/animevsub-Sh2mNM6p9c.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.990536"
+    },
+    {
+      "id": "3e78211a6f",
+      "name": "Chuyển Sinh Thành Đệ Thất Hoàng Tử, Tôi Quyết Định Trau Dồi Ma Thuật Mùa 2",
+      "url": "https://animevietsub.cam/phim/tensei-shitara-dainana-ouji-datta-node-kimama-ni-majutsu-wo-kiwamemasu-2nd-season-a5669/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/09/animevsub-CjvpCy6voX.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.991724"
+    },
+    {
+      "id": "696897dc24",
+      "name": "Tate no Yuusha no Nariagari Season 4",
+      "url": "https://animevietsub.cam/phim/tate-no-yuusha-no-nariagari-season-4-a5378/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/09/animevsub-gLk5VwvPrm.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.992491"
+    },
+    {
+      "id": "ebf1255dac",
+      "name": "Kakkou no Iinazuke 2nd Season",
+      "url": "https://animevietsub.cam/phim/kakkou-no-iinazuke-2nd-season-a5387/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/08/animevsub-RiUU2G7qtj.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.993307"
+    },
+    {
+      "id": "ef7ca3087f",
+      "name": "Thanh Kiếm Của Thợ Săn Quỷ",
+      "url": "https://animevietsub.cam/phim/kijin-gentoushou-a5580/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/08/04/animevsub-CZSm3VYzzg.jpg",
+      "episodes": "18",
+      "scraped_at": "2025-08-16T18:43:55.994143"
+    },
+    {
+      "id": "f243a16e9e",
+      "name": "Gachiakuta",
+      "url": "https://animevietsub.cam/phim/gachiakuta-a5665/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/06/animevsub-UMDpPzG9JC.jpg",
+      "episodes": "05",
+      "scraped_at": "2025-08-16T18:43:55.994987"
+    },
+    {
+      "id": "f21f169149",
+      "name": "Witch Watch",
+      "url": "https://animevietsub.cam/phim/witch-watch-a5579/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/02/24/animevsub-axs6BjQsQB.jpg",
+      "episodes": "19",
+      "scraped_at": "2025-08-16T18:43:55.995713"
+    },
+    {
+      "id": "b468b29778",
+      "name": "Hoa Thơm Kiêu Hãnh",
+      "url": "https://animevietsub.cam/phim/kaoru-hana-wa-rin-to-saku-a5670/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/04/animevsub-ZDXj19OQA5.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.996415"
+    },
+    {
+      "id": "377aefd81d",
+      "name": "Gia Sư Của Công Tước Tiểu Thư",
+      "url": "https://animevietsub.cam/phim/koujo-denka-no-kateikyoushi-a5659/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/29/animevsub-9i1vXui31N.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.997177"
+    },
+    {
+      "id": "09c55b9b3f",
+      "name": "Sono Bisque Doll wa Koi wo Suru Season 2",
+      "url": "https://animevietsub.cam/phim/sono-bisque-doll-wa-koi-wo-suru-season-2-a5672/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/05/animevsub-M6ign8tlkp.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.997892"
+    },
+    {
+      "id": "f60d5b19e0",
+      "name": "Seishun Buta Yarou wa Santa Claus no Yume wo Minai",
+      "url": "https://animevietsub.cam/phim/seishun-buta-yarou-wa-santa-claus-no-yume-wo-minai-a5668/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/05/animevsub-abt38ox1S5.jpg",
+      "episodes": "06",
+      "scraped_at": "2025-08-16T18:43:55.998634"
+    }
+  ]
+}
