@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 43,
-  "last_updated": "2025-08-16T23:00:08.592938",
+  "total_anime": 45,
+  "last_updated": "2025-08-17T00:00:52.661960",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -506,6 +506,28 @@
       "quality": "FHD",
       "year": "Lượt xem: 98,782",
       "scraped_at": "2025-08-16T19:57:20.851379"
+    },
+    {
+      "id": "3715364cd5",
+      "name": "Fermat no Ryouri",
+      "url": "https://animevietsub.cam/phim/fermat-no-ryouri-a5652/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/04/animevsub-HmrcDjMVUS.jpg",
+      "episodes": "06",
+      "rating": "9.2",
+      "quality": "HD",
+      "year": "Lượt xem: 122,827",
+      "scraped_at": "2025-08-17T00:00:17.791401"
+    },
+    {
+      "id": "99ef02bc43",
+      "name": "Kaijuu 8-gou 2nd Season",
+      "url": "https://animevietsub.cam/phim/kaijuu-8-gou-2nd-season-a5671/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/19/animevsub-77ufbOSIlj.jpg",
+      "episodes": "05",
+      "rating": "9.7",
+      "quality": "HD",
+      "year": "Lượt xem: 1,772,776",
+      "scraped_at": "2025-08-17T00:00:17.794872"
     }
   ]
 }
