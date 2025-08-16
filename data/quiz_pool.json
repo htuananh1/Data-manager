@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "topic": "Lịch sử Việt Nam",
+      "question": "Cuộc khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo diễn ra trong khoảng thời gian nào?",
+      "options": [
+        "A. 1418 - 1427",
+        "B. 1417 - 1426",
+        "C. 1416 - 1425",
+        "D. 1419 - 1428"
+      ],
+      "correct": "A",
+      "explanation": "Cuộc khởi nghĩa Lam Sơn do Lê Lợi lãnh đạo chính thức bắt đầu vào tháng 2 năm 1418 tại Lam Sơn (Thanh Hóa) và kết thúc thắng lợi vào năm 1427 sau chiến thắng Chi Lăng - Xương Giang, đánh đuổi hoàn toàn quân Minh ra khỏi nước ta."
+    }
+  ]
+}
