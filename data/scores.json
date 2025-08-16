@@ -27,6 +27,13 @@
       "game_type": "taixiu",
       "score": 100,
       "timestamp": "2025-08-16T02:32:16.017455"
+    },
+    {
+      "user_id": 2026797305,
+      "username": "cuocdoivandep",
+      "game_type": "guessnumber",
+      "score": 750,
+      "timestamp": "2025-08-16T03:19:43.571711"
     }
   ]
 }
