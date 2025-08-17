@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 58,
-  "last_updated": "2025-08-17T18:14:15.824239",
+  "total_anime": 59,
+  "last_updated": "2025-08-17T19:15:01.062599",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -671,6 +671,17 @@
       "quality": "HD",
       "year": "Lượt xem: 18,883,906",
       "scraped_at": "2025-08-17T17:12:54.880748"
+    },
+    {
+      "id": "a79f394aeb",
+      "name": "Puniru wa Kawaii Slime 2nd Season",
+      "url": "https://animevietsub.cam/phim/puniru-wa-kawaii-slime-2nd-season-a5397/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/06/animevsub-RtSlyVNFm5.jpg",
+      "episodes": "07",
+      "rating": "8.7",
+      "quality": "FHD",
+      "year": "Lượt xem: 94,706",
+      "scraped_at": "2025-08-17T19:14:25.703731"
     }
   ]
 }
