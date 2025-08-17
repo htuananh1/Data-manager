@@ -35,5 +35,17 @@
       "score": 750,
       "timestamp": "2025-08-16T03:19:43.571711"
     }
-  ]
+  ],
+  "users": {
+    "2026797305": {
+      "user_id": 2026797305,
+      "username": "cuocdoivandep",
+      "balance": 1300,
+      "total_earned": 300,
+      "games_played": {
+        "quiz1": 1
+      },
+      "last_updated": "2025-08-17T16:20:35.780485"
+    }
+  }
 }
