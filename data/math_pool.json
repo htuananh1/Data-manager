@@ -7,6 +7,14 @@
     {
       "question": "A store sells shirts for $24 each. If you buy 5 shirts and have a $20 discount coupon, what is the total cost?",
       "answer": 100
+    },
+    {
+      "question": "Tính giá trị của biểu thức: (125 × 8 - 75) ÷ 5 + 36 × 4 - √(9 × 16)",
+      "answer": 175,
+      "difficulty": "hard",
+      "created_at": "2025-08-17T17:51:10.515950"
     }
-  ]
+  ],
+  "total": 3,
+  "last_updated": "2025-08-17T17:51:28.380200"
 }
