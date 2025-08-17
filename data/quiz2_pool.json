@@ -5,6 +5,15 @@
       "question": "Loại áo dài truyền thống của phụ nữ Việt Nam có nguồn gốc từ triều đại nào?",
       "answer": "Triều Nguyễn",
       "explanation": "Áo dài hiện đại được cải tiến từ áo ngũ thân thời Nguyễn vào đầu thế kỷ 20, dưới thời vua Nguyễn Phúc Minh Mạng và trở thành trang phục truyền thống của phụ nữ Việt Nam."
+    },
+    {
+      "topic": "Thể thao Việt Nam",
+      "question": "Ai là vận động viên Việt Nam đầu tiên giành huy chương vàng Olympic?",
+      "answer": "Hoàng Xuân Vinh",
+      "explanation": "Hoàng Xuân Vinh là vận động viên bắn súng đầu tiên của Việt Nam giành huy chương vàng Olympic tại Olympic Rio 2016 ở nội dung súng ngắn 10m nam.",
+      "created_at": "2025-08-17T17:54:43.764975"
     }
-  ]
+  ],
+  "total": 2,
+  "last_updated": "2025-08-17T17:55:31.766569"
 }
