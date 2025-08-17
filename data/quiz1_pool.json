@@ -48,8 +48,21 @@
       "correct": "C",
       "explanation": "GS. Hoàng Tụy là nhà toán học Việt Nam đầu tiên được bầu làm viện sĩ của Viện Hàn lâm Khoa học Pháp vào năm 2011. Ông là người có nhiều đóng góp quan trọng trong lĩnh vực tối ưu hóa phi tuyến và lý thuyết tối ưu toàn cục.",
       "created_at": "2025-08-17T17:53:08.186170"
+    },
+    {
+      "topic": "Lịch sử Việt Nam",
+      "question": "Hiệp định Genève chia tạm thời Việt Nam thành hai miền Nam - Bắc tại vĩ tuyến nào và được ký kết vào năm nào?",
+      "options": [
+        "A. Vĩ tuyến 16, năm 1954",
+        "B. Vĩ tuyến 17, năm 1954",
+        "C. Vĩ tuyến 17, năm 1956",
+        "D. Vĩ tuyến 18, năm 1954"
+      ],
+      "correct": "B",
+      "explanation": "Hiệp định Genève được ký kết vào ngày 21 tháng 7 năm 1954, quy định việc chia tạm thời Việt Nam thành hai miền Nam - Bắc tại vĩ tuyến 17 (sông Bến Hải, tỉnh Quảng Trị). Hiệp định này cũng quy định sẽ tổ chức tổng tuyển cử thống nhất đất nước vào năm 1956, nhưng điều này đã không được thực hiện.",
+      "created_at": "2025-08-17T18:01:14.812220"
     }
   ],
-  "total": 4,
-  "last_updated": "2025-08-17T17:53:30.046885"
+  "total": 5,
+  "last_updated": "2025-08-17T18:01:33.524004"
 }
