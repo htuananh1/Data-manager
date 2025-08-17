@@ -3,6 +3,10 @@
     {
       "question": "(385 × 24) - (127 × 15) + 842",
       "answer": 8132
+    },
+    {
+      "question": "A store sells shirts for $24 each. If you buy 5 shirts and have a $20 discount coupon, what is the total cost?",
+      "answer": 100
     }
   ]
 }
