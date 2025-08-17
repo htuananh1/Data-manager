@@ -23,6 +23,18 @@
       ],
       "correct": "A",
       "explanation": "Phan Xi Păng là đỉnh núi cao nhất Việt Nam với độ cao 3.143m so với mực nước biển, thuộc dãy núi Hoàng Liên Sơn, nằm trên địa phận tỉnh Lào Cai. Đỉnh núi này còn được mệnh danh là 'Nóc nhà Đông Dương'."
+    },
+    {
+      "topic": "Ẩm thực Việt Nam",
+      "question": "Phở truyền thống của Hà Nội được làm từ loại bánh phở nào?",
+      "options": [
+        "A. Bánh phở gạo tẻ",
+        "B. Bánh phở gạo nếp",
+        "C. Bánh phở bột mì",
+        "D. Bánh phở gạo lứt"
+      ],
+      "correct": "A",
+      "explanation": "Phở Hà Nội truyền thống luôn được làm từ bánh phở gạo tẻ (gạo trắng thường). Bánh phở được làm từ gạo tẻ xay mịn, tráng mỏng thành tờ rồi cắt thành sợi. Đây là nguyên liệu không thể thiếu tạo nên độ dai mềm đặc trưng của phở Hà Nội."
     }
   ]
 }
