@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 65,
-  "last_updated": "2025-08-17T23:17:59.935380",
+  "total_anime": 67,
+  "last_updated": "2025-08-18T00:18:43.384350",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -748,6 +748,28 @@
       "quality": "HD",
       "year": "Lượt xem: 773,725",
       "scraped_at": "2025-08-17T23:17:22.797680"
+    },
+    {
+      "id": "b10d0adcc2",
+      "name": "Tu Bian Yingxiong X",
+      "url": "https://animevietsub.cam/phim/tu-bian-yingxiong-x-a5610/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/04/06/animevsub-rtuNzgtAWH.jpg",
+      "episodes": "20",
+      "rating": "9.3",
+      "quality": "FHD",
+      "year": "Lượt xem: 638,620",
+      "scraped_at": "2025-08-18T00:18:08.778555"
+    },
+    {
+      "id": "66a5aa7e99",
+      "name": "Busamen Gachi Fighter",
+      "url": "https://animevietsub.cam/phim/busamen-gachi-fighter-a5692/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/06/animevsub-zDTAHnrMnQ.jpg",
+      "episodes": "07",
+      "rating": "8.8",
+      "quality": "HD",
+      "year": "Lượt xem: 317,943",
+      "scraped_at": "2025-08-18T00:18:08.780260"
     }
   ]
 }
