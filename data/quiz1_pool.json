@@ -35,6 +35,21 @@
       ],
       "correct": "A",
       "explanation": "Phở Hà Nội truyền thống luôn được làm từ bánh phở gạo tẻ (gạo trắng thường). Bánh phở được làm từ gạo tẻ xay mịn, tráng mỏng thành tờ rồi cắt thành sợi. Đây là nguyên liệu không thể thiếu tạo nên độ dai mềm đặc trưng của phở Hà Nội."
+    },
+    {
+      "topic": "Khoa học Việt Nam",
+      "question": "Ai là người Việt Nam đầu tiên được bầu làm viện sĩ của Viện Hàn lâm Khoa học Pháp?",
+      "options": [
+        "A. Ngô Bảo Châu",
+        "B. Lê Văn Thiêm",
+        "C. Hoàng Tụy",
+        "D. Nguyễn Văn Hiệu"
+      ],
+      "correct": "C",
+      "explanation": "GS. Hoàng Tụy là nhà toán học Việt Nam đầu tiên được bầu làm viện sĩ của Viện Hàn lâm Khoa học Pháp vào năm 2011. Ông là người có nhiều đóng góp quan trọng trong lĩnh vực tối ưu hóa phi tuyến và lý thuyết tối ưu toàn cục.",
+      "created_at": "2025-08-17T17:53:08.186170"
     }
-  ]
+  ],
+  "total": 4,
+  "last_updated": "2025-08-17T17:53:30.046885"
 }
