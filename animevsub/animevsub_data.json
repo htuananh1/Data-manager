@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 61,
-  "last_updated": "2025-08-17T22:17:13.416189",
+  "total_anime": 65,
+  "last_updated": "2025-08-17T23:17:59.935380",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -704,6 +704,50 @@
       "quality": "FHD",
       "year": "Lượt xem: 3,416,702",
       "scraped_at": "2025-08-17T22:16:39.868728"
+    },
+    {
+      "id": "c3f49b08d4",
+      "name": "Dekin no Mogura",
+      "url": "https://animevietsub.cam/phim/dekin-no-mogura-a5646/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-FWQHZl17Nc.jpg",
+      "episodes": "07",
+      "rating": "9.1",
+      "quality": "HD",
+      "year": "Lượt xem: 150,629",
+      "scraped_at": "2025-08-17T23:17:22.792464"
+    },
+    {
+      "id": "1edd080fa9",
+      "name": "Nyaight of the Living Cat",
+      "url": "https://animevietsub.cam/phim/nyaight-of-the-living-cat-a5691/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/06/animevsub-RKlRHYquPh.jpg",
+      "episodes": "07",
+      "rating": "8.8",
+      "quality": "HD",
+      "year": "Lượt xem: 83,005",
+      "scraped_at": "2025-08-17T23:17:22.794299"
+    },
+    {
+      "id": "c291090d6f",
+      "name": "Khải Huyền Dị Giới Mynoghra: Chinh Phục Thế Giới Từ Nền Văn Minh Suy Tàn",
+      "url": "https://animevietsub.cam/phim/isekai-mokushiroku-mynoghra-hametsu-no-bunmei-de-hajimeru-sekai-seifuku-a5666/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/06/animevsub-UL2CGd08nr.jpg",
+      "episodes": "07",
+      "rating": "9.3",
+      "quality": "HD",
+      "year": "Lượt xem: 693,950",
+      "scraped_at": "2025-08-17T23:17:22.795972"
+    },
+    {
+      "id": "9f751b210c",
+      "name": "Jibaku Shounen Hanako-kun 2",
+      "url": "https://animevietsub.cam/phim/jibaku-shounen-hanako-kun-2-a5516/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/20/animevsub-7UJGsDkuey.jpg",
+      "episodes": "19",
+      "rating": "9.7",
+      "quality": "HD",
+      "year": "Lượt xem: 773,725",
+      "scraped_at": "2025-08-17T23:17:22.797680"
     }
   ]
 }
