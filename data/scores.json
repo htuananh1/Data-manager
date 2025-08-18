@@ -3,15 +3,15 @@
     "2026797305": {
       "user_id": 2026797305,
       "username": "cuocdoivandep",
-      "balance": 1000000002099,
-      "total_earned": 1000002099,
+      "balance": 1000000002399,
+      "total_earned": 1000002399,
       "games_played": {
         "quiz2": 4,
-        "quiz1": 4,
+        "quiz1": 5,
         "math": 1
       },
       "created_at": "2025-08-17T18:01:33.524004",
-      "last_updated": "2025-08-18T15:29:13.321446"
+      "last_updated": "2025-08-18T15:30:17.361651"
     }
   }
 }
