@@ -101,8 +101,22 @@
       "explanation": "Đây là một câu đố dân gian truyền thống của Việt Nam với đáp án là: 'Cây kim, ngôi mộ, người chết'. Cây kim là cây không có lá; ngôi mộ là nhà không có người ở (chỉ có người nằm yên); và người chết là người không còn bụng dạ (không còn suy nghĩ, cảm xúc). Câu đố này thể hiện sự tinh tế trong cách người Việt xưa quan sát và liên tưởng về sự vật hiện tượng xung quanh, đồng thời chứa đựng triết lý sâu sắc về sự sống và cái chết.",
       "difficulty": "khó",
       "created_at": "2025-08-18T06:02:57.048879"
+    },
+    {
+      "topic": "Thể thao Olympic",
+      "question": "Tại Olympic Tokyo 2020 (tổ chức năm 2021), vận động viên Karsten Warholm của Na Uy đã phá kỷ lục thế giới ở nội dung 400m rào nam với thành tích bao nhiêu giây?",
+      "options": [
+        "A. 45.94 giây",
+        "B. 46.70 giây",
+        "C. 47.08 giây",
+        "D. 45.07 giây"
+      ],
+      "correct": "A",
+      "explanation": "Tại Olympic Tokyo 2020 (tổ chức năm 2021), Karsten Warholm đã tạo nên một trong những khoảnh khắc đáng nhớ nhất của Thế vận hội khi phá vỡ kỷ lục thế giới của chính mình trong nội dung 400m rào nam với thành tích 45.94 giây. Đây là một thành tích phi thường, vì trước đó vào tháng 7/2021, anh mới phá kỷ lục thế giới 29 năm tuổi của Kevin Young (46.78 giây) với thành tích 46.70 giây. Trong trận chung kết Olympic, Warholm không chỉ giành HCV mà còn cải thiện kỷ lục của mình thêm 0.76 giây - một bước tiến vượt bậc trong môn điền kinh.",
+      "difficulty": "khó",
+      "created_at": "2025-08-18T07:36:11.067607"
     }
   ],
-  "total": 8,
-  "last_updated": "2025-08-18T06:03:18.417401"
+  "total": 9,
+  "last_updated": "2025-08-18T07:36:58.319666"
 }
