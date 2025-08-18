@@ -74,8 +74,21 @@
       "correct": "A",
       "explanation": "Hoàng Xuân Vinh là vận động viên đầu tiên của Việt Nam giành huy chương vàng Olympic khi chiến thắng ở nội dung bắn súng ngắn hơi 10m nam tại Olympic Rio 2016 với 202,5 điểm, phá kỷ lục Olympic.",
       "created_at": "2025-08-17T18:11:44.725669"
+    },
+    {
+      "topic": "Khoa học Việt Nam",
+      "question": "Ai là nhà toán học Việt Nam đầu tiên được trao Giải thưởng Toán học Ramanujan vào năm 2019?",
+      "options": [
+        "A. Ngô Bảo Châu",
+        "B. Phạm Minh Hoàng",
+        "C. Hoàng Tụy",
+        "D. Nguyễn Tiến Zũng"
+      ],
+      "correct": "D",
+      "explanation": "GS. Nguyễn Tiến Zũng là nhà toán học Việt Nam đầu tiên được trao Giải thưởng Toán học Ramanujan vào năm 2019 cho những đóng góp xuất sắc của ông trong lĩnh vực hình học đại số và hệ động lực. Giải thưởng Ramanujan được trao bởi Trung tâm Nghiên cứu Toán học Quốc tế (ICTP) cho các nhà toán học dưới 45 tuổi từ các nước đang phát triển.",
+      "created_at": "2025-08-18T03:47:09.522531"
     }
   ],
-  "total": 6,
-  "last_updated": "2025-08-17T18:11:53.003708"
+  "total": 7,
+  "last_updated": "2025-08-18T03:47:33.235348"
 }
