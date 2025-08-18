@@ -37,8 +37,14 @@
       "answer": 30,
       "difficulty": "hard",
       "created_at": "2025-08-18T07:05:07.747046"
+    },
+    {
+      "question": "25 + 15 - 11",
+      "answer": 29,
+      "difficulty": "hard",
+      "created_at": "2025-08-18T07:30:58.057172"
     }
   ],
-  "total": 7,
-  "last_updated": "2025-08-18T07:05:51.120184"
+  "total": 8,
+  "last_updated": "2025-08-18T07:31:56.520769"
 }
