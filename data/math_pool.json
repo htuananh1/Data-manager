@@ -49,8 +49,14 @@
       "answer": 38,
       "difficulty": "hard",
       "created_at": "2025-08-18T07:41:17.353862"
+    },
+    {
+      "question": "160 ÷ 8 + 37",
+      "answer": 57,
+      "difficulty": "hard",
+      "created_at": "2025-08-18T08:35:16.021461"
     }
   ],
-  "total": 9,
-  "last_updated": "2025-08-18T07:42:00.113081"
+  "total": 10,
+  "last_updated": "2025-08-18T08:35:26.995330"
 }
