@@ -92,8 +92,16 @@
       "explanation": "Người đàn ông là người gác hải đăng. Khi anh ta tắt đèn hải đăng vào ban đêm, một tàu đã bị đắm. Sáng hôm sau, anh ta đọc báo và biết được hậu quả của việc mình tắt đèn hải đăng, nên đã tự tử vì cảm giác tội lỗi.",
       "difficulty": "khó",
       "created_at": "2025-08-18T06:44:30.365031"
+    },
+    {
+      "topic": "Công nghệ hiện đại",
+      "question": "Công nghệ lượng tử nào sử dụng trạng thái chồng chất để thực hiện các phép tính song song, vượt trội so với máy tính thông thường?",
+      "answer": "Điện toán lượng tử",
+      "explanation": "Điện toán lượng tử (Quantum Computing) sử dụng qubit có khả năng tồn tại đồng thời ở nhiều trạng thái (chồng chất lượng tử), cho phép thực hiện nhiều phép tính song song và giải quyết các bài toán phức tạp nhanh hơn máy tính truyền thống.",
+      "difficulty": "khó",
+      "created_at": "2025-08-18T06:49:45.588597"
     }
   ],
-  "total": 12,
-  "last_updated": "2025-08-18T06:44:45.753212"
+  "total": 13,
+  "last_updated": "2025-08-18T06:49:47.542499"
 }
