@@ -36,8 +36,16 @@
       "explanation": "Machine Learning (Học máy) là một nhánh của trí tuệ nhân tạo cho phép hệ thống tự động học hỏi và cải thiện từ kinh nghiệm mà không cần được lập trình cụ thể. Nó sử dụng các thuật toán để phân tích dữ liệu, học từ đó và đưa ra dự đoán hoặc quyết định.",
       "difficulty": "khó",
       "created_at": "2025-08-18T05:59:41.342121"
+    },
+    {
+      "topic": "Khoa học vũ trụ",
+      "question": "Hiện tượng thiên văn nào được đặt tên theo nhà vật lý người Séc đã dự đoán nó vào năm 1968, liên quan đến việc trích xuất năng lượng từ lỗ đen quay?",
+      "answer": "Quá trình Penrose",
+      "explanation": "Quá trình Penrose (Penrose process) được đặt tên theo nhà vật lý Roger Penrose, người đã đề xuất cơ chế này vào năm 1968. Đây là một cơ chế lý thuyết cho phép trích xuất năng lượng quay từ lỗ đen Kerr (lỗ đen quay). Quá trình này xảy ra trong ergosphere của lỗ đen, nơi không-thời gian bị kéo theo chiều quay của lỗ đen.",
+      "difficulty": "cực khó",
+      "created_at": "2025-08-18T06:01:46.834663"
     }
   ],
-  "total": 5,
-  "last_updated": "2025-08-18T06:00:12.660185"
+  "total": 6,
+  "last_updated": "2025-08-18T06:02:16.325412"
 }
