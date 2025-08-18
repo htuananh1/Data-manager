@@ -84,8 +84,16 @@
       "explanation": "Điện toán lượng tử (Quantum Computing) là công nghệ sử dụng các bit lượng tử (qubits) có thể tồn tại ở nhiều trạng thái đồng thời nhờ hiện tượng chồng chất lượng tử, khác với bit nhị phân chỉ có thể ở trạng thái 0 hoặc 1.",
       "difficulty": "khó",
       "created_at": "2025-08-18T06:39:13.012567"
+    },
+    {
+      "topic": "Câu đố logic",
+      "question": "Một người đàn ông không thể ngủ nên bật đèn đọc sách. Sau khi đọc một lúc, anh ta tắt đèn và ngủ ngay lập tức. Sáng hôm sau, khi đọc báo, anh ta tự tử. Tại sao?",
+      "answer": "Người gác hải đăng",
+      "explanation": "Người đàn ông là người gác hải đăng. Khi anh ta tắt đèn hải đăng vào ban đêm, một tàu đã bị đắm. Sáng hôm sau, anh ta đọc báo và biết được hậu quả của việc mình tắt đèn hải đăng, nên đã tự tử vì cảm giác tội lỗi.",
+      "difficulty": "khó",
+      "created_at": "2025-08-18T06:44:30.365031"
     }
   ],
-  "total": 11,
-  "last_updated": "2025-08-18T06:39:43.921367"
+  "total": 12,
+  "last_updated": "2025-08-18T06:44:45.753212"
 }
