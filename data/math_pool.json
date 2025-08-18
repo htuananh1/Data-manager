@@ -31,8 +31,14 @@
       "answer": 38,
       "difficulty": "hard",
       "created_at": "2025-08-18T06:18:20.124274"
+    },
+    {
+      "question": "42 ÷ 7 + 24",
+      "answer": 30,
+      "difficulty": "hard",
+      "created_at": "2025-08-18T07:05:07.747046"
     }
   ],
-  "total": 6,
-  "last_updated": "2025-08-18T06:18:25.778352"
+  "total": 7,
+  "last_updated": "2025-08-18T07:05:51.120184"
 }
