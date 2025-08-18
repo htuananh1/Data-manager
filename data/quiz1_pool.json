@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "topic": "[Bóng đá thế giới]",
+      "question": "Đội tuyển nào đã vô địch Giải vô địch bóng đá thế giới (World Cup) năm 2018?",
+      "options": [
+        "A. Brazil",
+        "B. Đức",
+        "C. Pháp",
+        "D. Argentina"
+      ],
+      "correct": "C",
+      "explanation": "Giải vô địch bóng đá thế giới 2018 được tổ chức tại Nga, và đội tuyển Pháp đã giành chức vô địch sau khi thắng đội tuyển Croatia với tỷ số 4–2 trong trận chung kết. Đây là lần thứ hai trong lịch sử Pháp vô địch World Cup, sau lần đầu tiên vào năm 1998. Brazil bị loại ở tứ kết, Đức bị loại ngay từ vòng bảng, còn Argentina dừng bước ở vòng 16 đội. Vì vậy, chỉ có Pháp là đội giành được chức vô địch năm 2018.",
+      "created_at": "2025-08-18T15:56:03.948643"
+    }
+  ],
+  "total": 1,
+  "last_updated": "2025-08-18T15:56:48.280452"
+}
