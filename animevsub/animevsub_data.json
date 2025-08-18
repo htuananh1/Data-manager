@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 80,
-  "last_updated": "2025-08-19T00:36:28.261649",
+  "total_anime": 81,
+  "last_updated": "2025-08-19T01:37:14.717697",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -913,6 +913,17 @@
       "quality": "HD",
       "year": "Lượt xem: 122,270",
       "scraped_at": "2025-08-18T22:34:28.339634"
+    },
+    {
+      "id": "30e2e2305e",
+      "name": "Grand Blue 2nd Season",
+      "url": "https://animevietsub.cam/phim/grand-blue-2nd-season-a5450/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/03/animevsub-Ln5xqR6f08.jpg",
+      "episodes": "07",
+      "rating": "9.7",
+      "quality": "HD",
+      "year": "Lượt xem: 1,314,815",
+      "scraped_at": "2025-08-19T01:36:41.006128"
     }
   ]
 }
