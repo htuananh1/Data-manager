@@ -13,8 +13,14 @@
       "answer": 175,
       "difficulty": "hard",
       "created_at": "2025-08-17T17:51:10.515950"
+    },
+    {
+      "question": "60 ÷ 5 + 35",
+      "answer": 47,
+      "difficulty": "hard",
+      "created_at": "2025-08-18T05:52:35.832081"
     }
   ],
-  "total": 3,
-  "last_updated": "2025-08-17T17:51:28.380200"
+  "total": 4,
+  "last_updated": "2025-08-18T05:53:05.414962"
 }
