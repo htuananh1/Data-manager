@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 76,
-  "last_updated": "2025-08-18T17:31:16.726652",
+  "total_anime": 77,
+  "last_updated": "2025-08-18T18:32:02.221065",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -869,6 +869,17 @@
       "quality": "HD",
       "year": "Lượt xem: 41,797",
       "scraped_at": "2025-08-18T17:30:41.580204"
+    },
+    {
+      "id": "2508f4c8ec",
+      "name": "Vô Thượng Thần Đế",
+      "url": "https://animevietsub.cam/phim/vo-thuong-than-de-a3821/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2020/09/05/animevsub-bBwWl7ZXel.jpg",
+      "episodes": "518",
+      "rating": "6.8",
+      "quality": "HD",
+      "year": "Lượt xem: 6,758,463",
+      "scraped_at": "2025-08-18T18:31:27.338219"
     }
   ]
 }
