@@ -140,8 +140,20 @@
       "explanation": "Hố đen là vùng không-thời gian có lực hấp dẫn cực mạnh đến mức không có gì, kể cả ánh sáng, có thể thoát ra khỏi nó một khi đã vượt qua chân trời sự kiện.",
       "difficulty": "trung bình",
       "created_at": "2025-08-18T08:21:21.128305"
+    },
+    {
+      "topic": "Câu đố logic",
+      "question": "Một người đàn ông không thể ngủ vì có ánh sáng. Anh ta tắt đèn và đi ngủ. Sáng hôm sau, anh ta xem tin tức và tự tử. Tại sao?",
+      "answer": "Người giữ hải đăng",
+      "aliases": [
+        "người trông hải đăng",
+        "nhân viên hải đăng"
+      ],
+      "explanation": "Người đàn ông là người giữ hải đăng. Khi anh ta tắt đèn hải đăng vào ban đêm, đã gây ra tai nạn tàu thuyền. Sáng hôm sau, khi biết tin về thảm họa mình gây ra, anh ta đã tự tử vì cảm giác tội lỗi.",
+      "difficulty": "trung bình",
+      "created_at": "2025-08-18T12:14:59.556198"
     }
   ],
-  "total": 18,
-  "last_updated": "2025-08-18T08:21:25.149889"
+  "total": 19,
+  "last_updated": "2025-08-18T12:15:29.768239"
 }
