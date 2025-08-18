@@ -76,8 +76,16 @@
       "explanation": "Câu đố dựa trên cách chơi chữ: 'Soi gương thấy lối ra' (Look and see). Khi anh ta nhìn vào gương, anh ta sẽ thấy cách mình nhìn vấn đề (thấy lối ra). Đây là câu đố logic dựa trên cách diễn giải ngôn ngữ.",
       "difficulty": "khó",
       "created_at": "2025-08-18T06:34:02.321571"
+    },
+    {
+      "topic": "Công nghệ hiện đại",
+      "question": "Công nghệ nào sử dụng các bit lượng tử (qubits) thay vì bit nhị phân truyền thống để xử lý thông tin?",
+      "answer": "Điện toán lượng tử",
+      "explanation": "Điện toán lượng tử (Quantum Computing) là công nghệ sử dụng các bit lượng tử (qubits) có thể tồn tại ở nhiều trạng thái đồng thời nhờ hiện tượng chồng chất lượng tử, khác với bit nhị phân chỉ có thể ở trạng thái 0 hoặc 1.",
+      "difficulty": "khó",
+      "created_at": "2025-08-18T06:39:13.012567"
     }
   ],
-  "total": 10,
-  "last_updated": "2025-08-18T06:34:42.104507"
+  "total": 11,
+  "last_updated": "2025-08-18T06:39:43.921367"
 }
