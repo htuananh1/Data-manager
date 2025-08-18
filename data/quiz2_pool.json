@@ -100,8 +100,16 @@
       "explanation": "Điện toán lượng tử (Quantum Computing) sử dụng qubit có khả năng tồn tại đồng thời ở nhiều trạng thái (chồng chất lượng tử), cho phép thực hiện nhiều phép tính song song và giải quyết các bài toán phức tạp nhanh hơn máy tính truyền thống.",
       "difficulty": "khó",
       "created_at": "2025-08-18T06:49:45.588597"
+    },
+    {
+      "topic": "Động vật và thực vật",
+      "question": "Loài cây nào được mệnh danh là 'cây ma' vì có khả năng phát sáng trong đêm tối?",
+      "answer": "Nấm dạ quang",
+      "explanation": "Nấm dạ quang (Foxfire mushroom) có khả năng phát ra ánh sáng sinh học trong bóng tối nhờ phản ứng hóa học từ enzyme luciferase, tạo hiệu ứng phát sáng xanh nhạt trong đêm tối.",
+      "difficulty": "trung bình",
+      "created_at": "2025-08-18T06:54:55.686404"
     }
   ],
-  "total": 13,
-  "last_updated": "2025-08-18T06:49:47.542499"
+  "total": 14,
+  "last_updated": "2025-08-18T06:55:49.298655"
 }
