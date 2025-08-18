@@ -132,8 +132,16 @@
       "explanation": "Người đàn ông đọc sách vào ban ngày, nên khi tắt đèn, phòng vẫn sáng nhờ ánh sáng tự nhiên. Anh ta không cần đèn để nhìn thấy đường đi đến giường.",
       "difficulty": "trung bình",
       "created_at": "2025-08-18T07:46:27.979401"
+    },
+    {
+      "topic": "Khoa học vũ trụ",
+      "question": "Hiện tượng ánh sáng không thể thoát ra khỏi lực hấp dẫn của một vật thể vũ trụ được gọi là gì?",
+      "answer": "Hố đen",
+      "explanation": "Hố đen là vùng không-thời gian có lực hấp dẫn cực mạnh đến mức không có gì, kể cả ánh sáng, có thể thoát ra khỏi nó một khi đã vượt qua chân trời sự kiện.",
+      "difficulty": "trung bình",
+      "created_at": "2025-08-18T08:21:21.128305"
     }
   ],
-  "total": 17,
-  "last_updated": "2025-08-18T07:47:01.958523"
+  "total": 18,
+  "last_updated": "2025-08-18T08:21:25.149889"
 }
