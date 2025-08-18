@@ -19,8 +19,14 @@
       "answer": 47,
       "difficulty": "hard",
       "created_at": "2025-08-18T05:52:35.832081"
+    },
+    {
+      "question": "37 - 25",
+      "answer": 12,
+      "difficulty": "easy",
+      "created_at": "2025-08-18T06:08:03.342963"
     }
   ],
-  "total": 4,
-  "last_updated": "2025-08-18T05:53:05.414962"
+  "total": 5,
+  "last_updated": "2025-08-18T06:08:22.201933"
 }
