@@ -52,8 +52,16 @@
       "explanation": "Machine Learning (Học máy) là một nhánh của trí tuệ nhân tạo cho phép hệ thống tự động học hỏi và cải thiện từ kinh nghiệm mà không cần được lập trình cụ thể. Nó sử dụng thuật toán để phân tích dữ liệu, học từ đó và đưa ra quyết định hoặc dự đoán.",
       "difficulty": "khó",
       "created_at": "2025-08-18T06:13:13.850020"
+    },
+    {
+      "topic": "Khoa học vũ trụ",
+      "question": "Hiện tượng mà một ngôi sao bị kéo dãn và phá hủy khi đi quá gần lỗ đen được gọi là gì?",
+      "answer": "Thủy triều phân rã",
+      "explanation": "Thủy triều phân rã (Tidal disruption event) xảy ra khi lực hấp dẫn của lỗ đen tạo ra sự chênh lệch lực quá lớn giữa phần gần và xa của ngôi sao, khiến ngôi sao bị kéo dãn và cuối cùng bị xé nát, tạo thành đĩa vật chất xoay quanh lỗ đen.",
+      "difficulty": "khó",
+      "created_at": "2025-08-18T06:23:37.439377"
     }
   ],
-  "total": 7,
-  "last_updated": "2025-08-18T06:13:24.018909"
+  "total": 8,
+  "last_updated": "2025-08-18T06:23:37.793696"
 }
