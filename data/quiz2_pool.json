@@ -28,8 +28,16 @@
       "explanation": "Spaghettification (hay hiện tượng mì ống hóa) là quá trình vật thể bị kéo dài và nén mỏng như sợi mì khi rơi vào hố đen, do lực hấp dẫn cực mạnh tác động không đều lên các phần của vật thể.",
       "difficulty": "cực khó",
       "created_at": "2025-08-18T05:58:54.359518"
+    },
+    {
+      "topic": "Công nghệ hiện đại",
+      "question": "Thuật ngữ nào mô tả công nghệ cho phép máy tính mô phỏng quá trình suy luận của con người, học từ dữ liệu và tự cải thiện mà không cần lập trình cụ thể?",
+      "answer": "Machine Learning",
+      "explanation": "Machine Learning (Học máy) là một nhánh của trí tuệ nhân tạo cho phép hệ thống tự động học hỏi và cải thiện từ kinh nghiệm mà không cần được lập trình cụ thể. Nó sử dụng các thuật toán để phân tích dữ liệu, học từ đó và đưa ra dự đoán hoặc quyết định.",
+      "difficulty": "khó",
+      "created_at": "2025-08-18T05:59:41.342121"
     }
   ],
-  "total": 4,
-  "last_updated": "2025-08-18T05:59:08.882499"
+  "total": 5,
+  "last_updated": "2025-08-18T06:00:12.660185"
 }
