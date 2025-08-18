@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "topic": "Lịch sử thế giới",
+      "question": "Sự kiện nào được xem là khởi điểm của Chiến tranh Lạnh giữa hai siêu cường Mỹ và Liên Xô sau Thế chiến thứ hai?",
+      "options": [
+        "A. Cuộc chiến tranh Triều Tiên nổ ra năm 1950",
+        "B. Việc Mỹ thả bom nguyên tử xuống Hiroshima và Nagasaki",
+        "C. Bài phát biểu \"Tường sắt\" của Winston Churchill năm 1946",
+        "D. Sự thành lập khối NATO năm 1949"
+      ],
+      "correct": "C",
+      "explanation": "Mặc dù Chiến tranh Lạnh chính thức diễn ra trong nhiều năm sau Thế chiến thứ hai, sự kiện được xem là khởi điểm tinh thần của cuộc đối đầu này là bài phát biểu \"Tường sắt\" (Iron Curtain) của cựu Thủ tướng Anh Winston Churchill vào tháng 3 năm 1946 tại Fulton, Missouri. Trong bài phát biểu, Churchill cảnh báo về sự chia cắt châu Âu bởi \"một bức màn sắt\" do Liên Xô kéo xuống, từ đó làm rõ sự đối lập giữa phương Tây tự do và khối Xô viết. Dù không phải là hành động quân sự hay liên minh chính thức, bài phát biểu này đã đánh dấu sự công khai hóa mâu thuẫn ý thức hệ và địa chính trị giữa hai phe, mở đầu cho thời kỳ Chiến tranh Lạnh. Các lựa chọn khác như thành lập NATO hay chiến tranh Triều Tiên là hệ quả sau đó của căng thẳng này.",
+      "created_at": "2025-08-18T15:54:59.428512"
+    }
+  ],
+  "total": 1,
+  "last_updated": "2025-08-18T15:55:44.426945"
+}
