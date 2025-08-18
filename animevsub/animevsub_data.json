@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 69,
-  "last_updated": "2025-08-18T16:30:31.735517",
+  "total_anime": 76,
+  "last_updated": "2025-08-18T17:31:16.726652",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -792,6 +792,83 @@
       "quality": "HD",
       "year": "Lượt xem: 125,327",
       "scraped_at": "2025-08-18T01:18:52.173366"
+    },
+    {
+      "id": "4b3feca66e",
+      "name": "Nghịch Thiên Chí Tôn",
+      "url": "https://animevietsub.cam/phim/nghich-thien-chi-ton-a4194/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2021/07/17/animevsub-tJWxR8WuKy.png",
+      "episodes": "437",
+      "rating": "6.9",
+      "quality": "HD",
+      "year": "Lượt xem: 6,320,178",
+      "scraped_at": "2025-08-18T17:30:41.567261"
+    },
+    {
+      "id": "f20fb165cd",
+      "name": "Lục Địa Kiện Tiên",
+      "url": "https://animevietsub.cam/phim/luc-dia-kien-tien-a5336/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/06/28/animevsub-KdsAcHPKJD.jpg",
+      "episodes": "144",
+      "rating": "6.2",
+      "quality": "undefined",
+      "year": "Lượt xem: 429,742",
+      "scraped_at": "2025-08-18T17:30:41.570971"
+    },
+    {
+      "id": "a70d5d7244",
+      "name": "Linh Võ Đại Lục",
+      "url": "https://animevietsub.cam/phim/linh-vo-dai-luc-a5386/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/07/26/animevsub-n9CcZUwcGK.jpeg",
+      "episodes": "101",
+      "rating": "7.4",
+      "quality": "FHD",
+      "year": "Lượt xem: 440,333",
+      "scraped_at": "2025-08-18T17:30:41.572762"
+    },
+    {
+      "id": "83f3c737c8",
+      "name": "Thái Cổ Chiến Hồn",
+      "url": "https://animevietsub.cam/phim/thai-co-chien-hon-a5636/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/04/26/animevsub-fHZqnUYPBy.jpg",
+      "episodes": "39",
+      "rating": "7",
+      "quality": "FHD",
+      "year": "Lượt xem: 132,259",
+      "scraped_at": "2025-08-18T17:30:41.574670"
+    },
+    {
+      "id": "1c6ff86d24",
+      "name": "Tiểu Tiên Chi Dao",
+      "url": "https://animevietsub.cam/phim/tieu-tien-chi-dao-a5635/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/04/21/animevsub-6oJTGmiVHv.jpg",
+      "episodes": "38",
+      "rating": "6.5",
+      "quality": "FHD",
+      "year": "Lượt xem: 95,539",
+      "scraped_at": "2025-08-18T17:30:41.576428"
+    },
+    {
+      "id": "80d4312785",
+      "name": "Thôn Thiên Ký",
+      "url": "https://animevietsub.cam/phim/thon-thien-ky-a5645/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/05/23/animevsub-3hF9l1pruQ.jpg",
+      "episodes": "35",
+      "rating": "7.2",
+      "quality": "FHD",
+      "year": "Lượt xem: 121,635",
+      "scraped_at": "2025-08-18T17:30:41.578203"
+    },
+    {
+      "id": "6b734def4b",
+      "name": "Vạn Kiếm Vương Toạ",
+      "url": "https://animevietsub.cam/phim/van-kiem-vuong-toa-a5712/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/08/07/animevsub-obEHAstXrQ.jpg",
+      "episodes": "09",
+      "rating": "6.6",
+      "quality": "HD",
+      "year": "Lượt xem: 41,797",
+      "scraped_at": "2025-08-18T17:30:41.580204"
     }
   ]
 }
