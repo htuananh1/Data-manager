@@ -87,8 +87,22 @@
       "correct": "D",
       "explanation": "GS. Nguyễn Tiến Zũng là nhà toán học Việt Nam đầu tiên được trao Giải thưởng Toán học Ramanujan vào năm 2019 cho những đóng góp xuất sắc của ông trong lĩnh vực hình học đại số và hệ động lực. Giải thưởng Ramanujan được trao bởi Trung tâm Nghiên cứu Toán học Quốc tế (ICTP) cho các nhà toán học dưới 45 tuổi từ các nước đang phát triển.",
       "created_at": "2025-08-18T03:47:09.522531"
+    },
+    {
+      "topic": "Câu đố dân gian và logic",
+      "question": "Trong câu đố dân gian Việt Nam có câu: 'Một cây không lá, một nhà không người, một người không bụng'. Đây là câu đố nói về cái gì?",
+      "options": [
+        "A. Cây kim, ngôi mộ, người chết",
+        "B. Cây nến, nhà hoang, người đói",
+        "C. Cây kim, nhà tù, người chết",
+        "D. Cây nến, ngôi mộ, người đói"
+      ],
+      "correct": "A",
+      "explanation": "Đây là một câu đố dân gian truyền thống của Việt Nam với đáp án là: 'Cây kim, ngôi mộ, người chết'. Cây kim là cây không có lá; ngôi mộ là nhà không có người ở (chỉ có người nằm yên); và người chết là người không còn bụng dạ (không còn suy nghĩ, cảm xúc). Câu đố này thể hiện sự tinh tế trong cách người Việt xưa quan sát và liên tưởng về sự vật hiện tượng xung quanh, đồng thời chứa đựng triết lý sâu sắc về sự sống và cái chết.",
+      "difficulty": "khó",
+      "created_at": "2025-08-18T06:02:57.048879"
     }
   ],
-  "total": 7,
-  "last_updated": "2025-08-18T03:47:33.235348"
+  "total": 8,
+  "last_updated": "2025-08-18T06:03:18.417401"
 }
