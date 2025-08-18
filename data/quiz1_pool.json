@@ -115,8 +115,22 @@
       "explanation": "Tại Olympic Tokyo 2020 (tổ chức năm 2021), Karsten Warholm đã tạo nên một trong những khoảnh khắc đáng nhớ nhất của Thế vận hội khi phá vỡ kỷ lục thế giới của chính mình trong nội dung 400m rào nam với thành tích 45.94 giây. Đây là một thành tích phi thường, vì trước đó vào tháng 7/2021, anh mới phá kỷ lục thế giới 29 năm tuổi của Kevin Young (46.78 giây) với thành tích 46.70 giây. Trong trận chung kết Olympic, Warholm không chỉ giành HCV mà còn cải thiện kỷ lục của mình thêm 0.76 giây - một bước tiến vượt bậc trong môn điền kinh.",
       "difficulty": "khó",
       "created_at": "2025-08-18T07:36:11.067607"
+    },
+    {
+      "topic": "Nghệ thuật và giải trí",
+      "question": "Bộ phim 'Parasite' (Ký sinh trùng) của đạo diễn Bong Joon-ho đã làm nên lịch sử tại lễ trao giải Oscar 2020 khi:",
+      "options": [
+        "A. Trở thành phim châu Á đầu tiên được đề cử giải Phim hay nhất",
+        "B. Trở thành phim không nói tiếng Anh đầu tiên giành giải Phim hay nhất",
+        "C. Giành được nhiều giải Oscar nhất trong lịch sử điện ảnh Hàn Quốc",
+        "D. Là bộ phim đầu tiên của đạo diễn Bong Joon-ho được công chiếu quốc tế"
+      ],
+      "correct": "B",
+      "explanation": "'Parasite' (Ký sinh trùng) đã làm nên lịch sử khi trở thành bộ phim không nói tiếng Anh đầu tiên giành giải Oscar cho Phim hay nhất (Best Picture) trong 92 năm lịch sử của giải thưởng. Bộ phim cũng giành thêm 3 giải Oscar khác: Đạo diễn xuất sắc, Kịch bản gốc xuất sắc và Phim quốc tế xuất sắc. Trước 'Parasite', đã có nhiều phim châu Á và phim không nói tiếng Anh được đề cử giải Phim hay nhất, nhưng chưa có phim nào giành chiến thắng ở hạng mục danh giá này.",
+      "difficulty": "trung bình",
+      "created_at": "2025-08-18T08:02:03.008525"
     }
   ],
-  "total": 9,
-  "last_updated": "2025-08-18T07:36:58.319666"
+  "total": 10,
+  "last_updated": "2025-08-18T08:02:04.022352"
 }
