@@ -60,8 +60,16 @@
       "explanation": "Thủy triều phân rã (Tidal disruption event) xảy ra khi lực hấp dẫn của lỗ đen tạo ra sự chênh lệch lực quá lớn giữa phần gần và xa của ngôi sao, khiến ngôi sao bị kéo dãn và cuối cùng bị xé nát, tạo thành đĩa vật chất xoay quanh lỗ đen.",
       "difficulty": "khó",
       "created_at": "2025-08-18T06:23:37.439377"
+    },
+    {
+      "topic": "Động vật và thực vật",
+      "question": "Loài thực vật nào có khả năng tạo ra nhiệt để duy trì nhiệt độ nội bộ cao hơn môi trường xung quanh, tương tự như động vật máu nóng?",
+      "answer": "Skunk cabbage",
+      "explanation": "Skunk cabbage (Symplocarpus foetidus) là một trong số ít loài thực vật có khả năng điều hòa nhiệt nội sinh (endothermic), có thể tạo nhiệt để duy trì nhiệt độ cao hơn môi trường xung quanh đến 15-35°C, giúp nó nở hoa ngay cả khi tuyết còn phủ trên mặt đất.",
+      "difficulty": "cực khó",
+      "created_at": "2025-08-18T06:28:51.089412"
     }
   ],
-  "total": 8,
-  "last_updated": "2025-08-18T06:23:37.793696"
+  "total": 9,
+  "last_updated": "2025-08-18T06:29:39.824770"
 }
