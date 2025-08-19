@@ -116,8 +116,21 @@
       "correct": "C",
       "explanation": "Gấu nâu (Ursus arctos) là loài động vật điển hình có khả năng ngủ đông kéo dài từ 5 đến 7 tháng tùy theo vùng phân bố. Trong thời gian này, gấu không ăn, không uống, không đi vệ sinh, và các chức năng sinh lý như nhịp tim giảm mạnh – từ khoảng 40–80 lần/phút xuống còn 8–19 lần/phút (ở một số nghiên cứu ghi nhận có thể xuống 4–5 lần/phút). Điều này giúp chúng tiết kiệm năng lượng trong mùa đông khắc nghiệt. Trong khi sóc đất cũng ngủ đông, nhưng thời gian và mức độ giảm nhịp tim không sâu và kéo dài như ở gấu nâu. Gấu trúc không ngủ đông thực sự, chúng chỉ di chuyển xuống vùng thấp ấm hơn. Hải ly không ngủ đông mà vẫn hoạt động suốt mùa đông. Vì vậy, đáp án đúng là C – Gấu nâu.",
       "created_at": "2025-08-19T01:27:47.847167"
+    },
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào sau đây được biết đến với khả năng ngủ đông kéo dài tới 6-7 tháng mỗi năm để thích nghi với mùa đông khắc nghiệt?",
+      "options": [
+        "A. Gấu nâu",
+        "B. Sóc đất",
+        "C. Chồn hương",
+        "D. Cú tuyết"
+      ],
+      "correct": "B",
+      "explanation": "Sóc đất (hay còn gọi là sóc bụng trắng, tên tiếng Anh là groundhog) là loài động vật có vú thuộc họ sóc, sống chủ yếu ở Bắc Mỹ. Chúng nổi tiếng với khả năng ngủ đông kéo dài từ 6 đến 7 tháng mỗi năm, thường bắt đầu từ cuối thu đến đầu xuân. Trong thời gian này, nhiệt độ cơ thể, nhịp tim và tốc độ trao đổi chất của chúng giảm mạnh để tiết kiệm năng lượng. Khả năng này giúp chúng sống sót qua mùa đông khi thức ăn khan hiếm. Gấu nâu cũng ngủ đông nhưng thường ngắn hơn và chập chờn hơn, có thể thức dậy giữa chừng. Chồn hương và cú tuyết không ngủ đông mà vẫn hoạt động trong mùa đông. Vì vậy, đáp án đúng là B. Sóc đất.",
+      "created_at": "2025-08-19T01:38:00.011671"
     }
   ],
-  "total": 9,
-  "last_updated": "2025-08-19T01:28:26.175349"
+  "total": 10,
+  "last_updated": "2025-08-19T01:38:28.125891"
 }
