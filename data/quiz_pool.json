@@ -25,8 +25,21 @@
       "correct": "C",
       "explanation": "Tháp Eiffel tọa lạc tại thủ đô Paris, Pháp. Được xây dựng vào năm 1889 nhân dịp Hội chợ Thế giới, tháp trở thành biểu tượng văn hóa và điểm du lịch nổi tiếng bậc nhất thế giới. London (Anh), Rome (Ý), và Berlin (Đức) đều là các thủ đô châu Âu khác nhưng không phải nơi đặt Tháp Eiffel. Do đó, đáp án đúng là C. Paris.",
       "created_at": "2025-08-19T00:33:31.744789"
+    },
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào dưới đây được biết đến với khả năng thay đổi màu da để ngụy trang, điều chỉnh nhiệt độ cơ thể và thể hiện cảm xúc, nhờ vào các tế bào sắc tố đặc biệt gọi là chromatophores?",
+      "options": [
+        "A. Tắc kè hoa",
+        "B. Mực ống",
+        "C. Bạch tuộc",
+        "D. Tôm hùm"
+      ],
+      "correct": "C",
+      "explanation": "Bạch tuộc sở hữu các tế bào sắc tố gọi là chromatophores nằm dưới da, cho phép chúng thay đổi màu sắc và hoa văn một cách nhanh chóng. Cơ chế này không chỉ giúp ngụy trang trước kẻ thù mà còn dùng để giao tiếp và điều chỉnh nhiệt độ cơ thể. Trong khi mực ống và một số loài khác cũng có khả năng tương tự, bạch tuộc là loài phát triển kỹ năng này ở mức độ cao nhất, linh hoạt và chính xác hơn cả. Tắc kè hoa thay đổi màu da nhưng chủ yếu do yếu tố môi trường và ánh sáng, không dựa trên hệ thống chromatophores phức tạp như ở bạch tuộc. Tôm hùm không có khả năng thay đổi màu sắc theo cách này. Do đó, đáp án đúng là C.",
+      "created_at": "2025-08-19T00:36:48.143104"
     }
   ],
-  "total": 2,
-  "last_updated": "2025-08-19T00:34:11.912997"
+  "total": 3,
+  "last_updated": "2025-08-19T00:37:15.546006"
 }
