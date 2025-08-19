@@ -179,8 +179,26 @@
       "difficulty": "hard",
       "translated_at": "2025-08-19T06:07:43.008015",
       "created_at": "2025-08-19T06:07:43.008026"
+    },
+    {
+      "topic": "Địa lý (Khó)",
+      "question": "Tên gọi của ngư trường giàu có trước đây ngoài khơi đảo Newfoundland, Canada là gì?",
+      "options": [
+        "A. Rạn san hô Great Barrier",
+        "B. Rãnh Mariana",
+        "C. Vịnh Hudson",
+        "D. Grand Banks"
+      ],
+      "correct": "D",
+      "explanation": "Grand Banks là một khu vực thềm lục địa nông ngoài khơi bờ biển Newfoundland, Canada, nổi tiếng là một trong những ngư trường phong phú nhất thế giới.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "What is the name of the formerly rich fishing grounds off the island of Newfoundland, Canada?",
+      "original_category": "Geography",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T06:17:51.761235",
+      "created_at": "2025-08-19T06:17:51.761247"
     }
   ],
-  "total": 10,
-  "last_updated": "2025-08-19T06:08:30.733173"
+  "total": 11,
+  "last_updated": "2025-08-19T06:18:32.559179"
 }
