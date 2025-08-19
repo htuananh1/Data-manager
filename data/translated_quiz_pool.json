@@ -1,0 +1,24 @@
+{
+  "questions": [
+    {
+      "topic": "Giải trí: Phim ảnh (Khó)",
+      "question": "Bộ phim nào là bộ phim đầu tiên sử dụng tiếng hét Wilhelm?",
+      "options": [
+        "A. Treasure of the Sierra Madre",
+        "B. Distant Drums",
+        "C. The Charge at Feather River",
+        "D. Indiana Jones"
+      ],
+      "correct": "B",
+      "explanation": "Tiếng hét Wilhelm lần đầu tiên xuất hiện trong bộ phim 'Distant Drums' năm 1951.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "What was the first movie to ever use a Wilhelm Scream?",
+      "original_category": "Entertainment: Film",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T05:45:50.485463",
+      "created_at": "2025-08-19T05:45:50.485474"
+    }
+  ],
+  "total": 1,
+  "last_updated": "2025-08-19T05:46:14.464551"
+}
