@@ -197,8 +197,62 @@
       "difficulty": "hard",
       "translated_at": "2025-08-19T06:17:51.761235",
       "created_at": "2025-08-19T06:17:51.761247"
+    },
+    {
+      "topic": "Giải trí: Âm nhạc (Trung bình)",
+      "question": "Nghệ sĩ nào sau đây KHÔNG đến từ Pháp?",
+      "options": [
+        "A. Air",
+        "B. The Chemical Brothers",
+        "C. Justice",
+        "D. Daft Punk"
+      ],
+      "correct": "B",
+      "explanation": "The Chemical Brothers là bộ đôi nhạc điện tử đến từ Anh Quốc.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "Which of these artists do NOT originate from France?",
+      "original_category": "Entertainment: Music",
+      "difficulty": "medium",
+      "translated_at": "2025-08-19T06:19:50.211618",
+      "created_at": "2025-08-19T06:19:50.211629"
+    },
+    {
+      "topic": "Nghệ thuật (Khó)",
+      "question": "Albrecht Dürer đã vẽ bức tranh \"Chú Thỏ Con\" vào năm nào?",
+      "options": [
+        "A. 1702",
+        "B. 1502",
+        "C. 1402",
+        "D. 1602"
+      ],
+      "correct": "B",
+      "explanation": "Bức tranh \"Chú Thỏ Con\" nổi tiếng của Albrecht Dürer được hoàn thành vào năm 1502.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "What year did Albrecht Dürer create the painting \"The Young Hare\"?",
+      "original_category": "Art",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T06:20:12.875986",
+      "created_at": "2025-08-19T06:20:12.875999"
+    },
+    {
+      "topic": "Giải trí: Âm nhạc (Khó)",
+      "question": "Lời bài hát nào nói về giọng ca chính của Red Hot Chili Peppers, Anthony Kiedis?",
+      "options": [
+        "A. \"Fly away on, my zephyr / I feel it more than ever\"",
+        "B. \"A rainy Lithuanian / Is dancing as an Indian\"",
+        "C. \"You used to be so warm and affectionate...but now you're quick to get into your regret\"",
+        "D. \"And I liked the dimple in your chin / Your pale blue eyes\""
+      ],
+      "correct": "B",
+      "explanation": "Lời bài hát này được cho là ám chỉ đến Anthony Kiedis, người có mẹ là người gốc Litva và ông thường biểu diễn với phong cách giống người da đỏ.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "Which lyric is about Red Hot Chili Peppers frontman Anthony Kiedis?",
+      "original_category": "Entertainment: Music",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T06:20:34.120871",
+      "created_at": "2025-08-19T06:20:34.120882"
     }
   ],
-  "total": 11,
-  "last_updated": "2025-08-19T06:19:34.384515"
+  "total": 14,
+  "last_updated": "2025-08-19T06:20:36.183681"
 }
