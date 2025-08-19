@@ -71,8 +71,26 @@
       "difficulty": "hard",
       "translated_at": "2025-08-19T05:57:33.344489",
       "created_at": "2025-08-19T05:57:33.344499"
+    },
+    {
+      "topic": "Giải trí: Anime & Manga Nhật Bản (Trung bình)",
+      "question": "Ai là nhân vật chính trong One Piece?",
+      "options": [
+        "A. Zoro",
+        "B. Luffy",
+        "C. Smoker",
+        "D. Shanks"
+      ],
+      "correct": "B",
+      "explanation": "Luffy là thuyền trưởng của băng Mũ Rơm và là nhân vật trung tâm của câu chuyện One Piece.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "Who is the main character in One Piece?",
+      "original_category": "Entertainment: Japanese Anime &amp; Manga",
+      "difficulty": "medium",
+      "translated_at": "2025-08-19T05:59:22.188616",
+      "created_at": "2025-08-19T05:59:22.188627"
     }
   ],
-  "total": 4,
-  "last_updated": "2025-08-19T05:58:21.651255"
+  "total": 5,
+  "last_updated": "2025-08-19T05:59:23.406631"
 }
