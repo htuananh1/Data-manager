@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 85,
-  "last_updated": "2025-08-19T18:50:21.831717",
+  "total_anime": 87,
+  "last_updated": "2025-08-19T19:51:05.123258",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -968,6 +968,28 @@
       "quality": "HD",
       "year": "Lượt xem: 7,281,118",
       "scraped_at": "2025-08-19T12:45:35.580085"
+    },
+    {
+      "id": "801de85ca4",
+      "name": "Già Thiên",
+      "url": "https://animevietsub.cam/phim/gia-thien-a4963/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2023/05/03/animevsub-WFeIeVSDyv.jpg",
+      "episodes": "123",
+      "rating": "8.6",
+      "quality": "HD",
+      "year": "Lượt xem: 6,335,310",
+      "scraped_at": "2025-08-19T19:50:31.512697"
+    },
+    {
+      "id": "a981eaf9ee",
+      "name": "Tử Xuyên Phần 2",
+      "url": "https://animevietsub.cam/phim/tu-xuyen-phan-2-a5713/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/08/07/animevsub-iAkcfAu61d.jpg",
+      "episodes": "?",
+      "rating": "7.7",
+      "quality": "",
+      "year": "Lượt xem: 29,501",
+      "scraped_at": "2025-08-19T19:50:31.515407"
     }
   ]
 }
