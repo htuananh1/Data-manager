@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 82,
-  "last_updated": "2025-08-19T11:44:51.502704",
+  "total_anime": 85,
+  "last_updated": "2025-08-19T12:45:49.604378",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -935,6 +935,39 @@
       "quality": "HD",
       "year": "Lượt xem: 476,428",
       "scraped_at": "2025-08-19T11:44:16.724405"
+    },
+    {
+      "id": "c992f336ea",
+      "name": "Tuyệt Thế Chiến Hồn",
+      "url": "https://animevietsub.cam/phim/tuyet-the-chien-hon-a5297/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2024/06/01/animevsub-JnXb7wzIFu.jpeg",
+      "episodes": "137",
+      "rating": "7.9",
+      "quality": "FHD",
+      "year": "Lượt xem: 1,263,602",
+      "scraped_at": "2025-08-19T12:45:00.636300"
+    },
+    {
+      "id": "3be0b9a8cd",
+      "name": "Người Chơi Khắc Kim",
+      "url": "https://animevietsub.cam/phim/nguoi-choi-khac-kim-a5680/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/07/02/animevsub-luCCeC0jtU.jpg",
+      "episodes": "12",
+      "rating": "7.6",
+      "quality": "FHD",
+      "year": "Lượt xem: 67,388",
+      "scraped_at": "2025-08-19T12:45:00.638341"
+    },
+    {
+      "id": "10b500a0bd",
+      "name": "Linh Kiếm Tôn",
+      "url": "https://animevietsub.cam/phim/linh-kiem-ton-a3396/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2019/01/15/animevsub-oDJnM8xrdd.jpg",
+      "episodes": "623",
+      "rating": "7.3",
+      "quality": "HD",
+      "year": "Lượt xem: 7,281,118",
+      "scraped_at": "2025-08-19T12:45:35.580085"
     }
   ]
 }
