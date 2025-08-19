@@ -103,8 +103,21 @@
       "correct": "B",
       "explanation": "Tháp Eiffel được hoàn thành vào năm 1889 và được xây dựng chủ yếu để trở thành cổng chào cho Hội chợ Thế giới năm 1889 (Exposition Universelle), tổ chức tại Paris nhằm kỷ niệm 100 năm ngày bắt đầu Cách mạng Pháp. Mặc dù có liên hệ với sự kiện cách mạng, nhưng nó không được xây dựng cho lễ kỷ niệm 100 năm (đáp án C), mà là cho hội chợ quốc tế. Đáp án A và D sai vì Thế vận hội 1900 và Hội nghị Paris 1919 diễn ra sau khi tháp đã được xây xong. Do đó, đáp án đúng là B.",
       "created_at": "2025-08-19T01:17:36.686904"
+    },
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào sau đây được biết đến với khả năng ngủ đông kéo dài tới 6-7 tháng mỗi năm, trong đó nhịp tim giảm từ khoảng 80 lần/phút xuống còn 4-5 lần/phút?",
+      "options": [
+        "A. Gấu trúc",
+        "B. Sóc đất (gopher)",
+        "C. Gấu nâu",
+        "D. Hải ly"
+      ],
+      "correct": "C",
+      "explanation": "Gấu nâu (Ursus arctos) là loài động vật điển hình có khả năng ngủ đông kéo dài từ 5 đến 7 tháng tùy theo vùng phân bố. Trong thời gian này, gấu không ăn, không uống, không đi vệ sinh, và các chức năng sinh lý như nhịp tim giảm mạnh – từ khoảng 40–80 lần/phút xuống còn 8–19 lần/phút (ở một số nghiên cứu ghi nhận có thể xuống 4–5 lần/phút). Điều này giúp chúng tiết kiệm năng lượng trong mùa đông khắc nghiệt. Trong khi sóc đất cũng ngủ đông, nhưng thời gian và mức độ giảm nhịp tim không sâu và kéo dài như ở gấu nâu. Gấu trúc không ngủ đông thực sự, chúng chỉ di chuyển xuống vùng thấp ấm hơn. Hải ly không ngủ đông mà vẫn hoạt động suốt mùa đông. Vì vậy, đáp án đúng là C – Gấu nâu.",
+      "created_at": "2025-08-19T01:27:47.847167"
     }
   ],
-  "total": 8,
-  "last_updated": "2025-08-19T01:18:24.495347"
+  "total": 9,
+  "last_updated": "2025-08-19T01:28:26.175349"
 }
