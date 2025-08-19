@@ -143,8 +143,26 @@
       "difficulty": "hard",
       "translated_at": "2025-08-19T06:00:01.458884",
       "created_at": "2025-08-19T06:00:01.458897"
+    },
+    {
+      "topic": "Giải trí: Âm nhạc (Trung bình)",
+      "question": "Shirley Bassey đến từ quốc gia nào?",
+      "options": [
+        "A. Canada",
+        "B. Anh",
+        "C. Wales",
+        "D. Mỹ"
+      ],
+      "correct": "C",
+      "explanation": "Shirley Bassey là một ca sĩ người xứ Wales.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "What country did Shirley Bassey originate from?",
+      "original_category": "Entertainment: Music",
+      "difficulty": "medium",
+      "translated_at": "2025-08-19T06:01:20.165250",
+      "created_at": "2025-08-19T06:01:20.165263"
     }
   ],
-  "total": 8,
-  "last_updated": "2025-08-19T06:00:25.157534"
+  "total": 9,
+  "last_updated": "2025-08-19T06:01:28.974775"
 }
