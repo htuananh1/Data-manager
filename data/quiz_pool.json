@@ -77,8 +77,34 @@
       "correct": "B",
       "explanation": "Sư tử (Panthera leo) là loài duy nhất trong họ nhà mèo (Felidae) sống theo bầy đàn, gọi là \"đàn sư tử\" (pride). Đàn này thường bao gồm các con cái họ hàng, con non và một vài con đực trưởng thành bảo vệ lãnh thổ. Trong khi đó, các loài mèo hoang khác như báo gấm, báo đốm hay mèo rừng đều mang tính lãnh thổ và sống đơn độc. Cáo đỏ không phải là loài mèo, mà thuộc họ chó (Canidae), nên không thuộc phạm vi so sánh. Vì vậy, chỉ có sư tử mới thỏa mãn điều kiện là loài mèo sống theo bầy.",
       "created_at": "2025-08-19T01:07:20.228384"
+    },
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào sau đây được biết đến với khả năng ngủ đông kéo dài tới 6-7 tháng mỗi năm, trong đó nhịp tim giảm xuống còn khoảng 5 lần/phút?",
+      "options": [
+        "A. Gấu trúc",
+        "B. Gấu nâu",
+        "C. Sóc đất (gopher)",
+        "D. Gấu ngựa (gấu Mỹ)"
+      ],
+      "correct": "D",
+      "explanation": "Gấu ngựa (Ursus americanus), còn gọi là gấu Mỹ, là loài gấu có khả năng ngủ đông kéo dài từ 5 đến 7 tháng mỗi năm, tùy theo điều kiện khí hậu. Trong thời gian ngủ đông, trao đổi chất của chúng giảm mạnh, nhịp tim giảm từ khoảng 40–50 xuống còn chỉ 8–10 lần/phút, thậm chí có thể thấp hơn 5 lần/phút trong một số trường hợp. Gấu ngựa không ăn, uống, đi vệ sinh suốt quá trình này. Trong khi gấu nâu (B) cũng ngủ đông, thời gian và mức độ giảm nhịp tim không sâu bằng gấu ngựa. Gấu trúc (A) không ngủ đông, và sóc đất (C) tuy ngủ đông nhưng không phải là loài có nhịp tim giảm sâu đến mức 5 lần/phút trong thời gian dài như gấu ngựa. Do đó, đáp án đúng là D.",
+      "created_at": "2025-08-19T01:17:31.131505"
+    },
+    {
+      "topic": "[Địa danh nổi tiếng thế giới]",
+      "question": "Tháp Eiffel, một trong những biểu tượng nổi tiếng nhất của nước Pháp, được xây dựng lần đầu tiên để phục vụ cho sự kiện nào?",
+      "options": [
+        "A. Thế vận hội Mùa hè 1900",
+        "B. Hội chợ Thế giới năm 1889",
+        "C. Lễ kỷ niệm 100 năm Cách mạng Pháp",
+        "D. Hội nghị Hòa bình Paris 1919"
+      ],
+      "correct": "B",
+      "explanation": "Tháp Eiffel được hoàn thành vào năm 1889 và được xây dựng chủ yếu để trở thành cổng chào cho Hội chợ Thế giới năm 1889 (Exposition Universelle), tổ chức tại Paris nhằm kỷ niệm 100 năm ngày bắt đầu Cách mạng Pháp. Mặc dù có liên hệ với sự kiện cách mạng, nhưng nó không được xây dựng cho lễ kỷ niệm 100 năm (đáp án C), mà là cho hội chợ quốc tế. Đáp án A và D sai vì Thế vận hội 1900 và Hội nghị Paris 1919 diễn ra sau khi tháp đã được xây xong. Do đó, đáp án đúng là B.",
+      "created_at": "2025-08-19T01:17:36.686904"
     }
   ],
-  "total": 6,
-  "last_updated": "2025-08-19T01:07:22.801173"
+  "total": 8,
+  "last_updated": "2025-08-19T01:18:24.495347"
 }
