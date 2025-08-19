@@ -161,8 +161,26 @@
       "difficulty": "medium",
       "translated_at": "2025-08-19T06:01:20.165250",
       "created_at": "2025-08-19T06:01:20.165263"
+    },
+    {
+      "topic": "Kiến thức tổng quát (Khó)",
+      "question": "Sciophobia là nỗi sợ hãi về điều gì?",
+      "options": [
+        "A. Ánh sáng chói",
+        "B. Bóng tối",
+        "C. Ăn uống",
+        "D. Di chuyển"
+      ],
+      "correct": "B",
+      "explanation": "Sciophobia là nỗi sợ hãi bóng tối.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "Sciophobia is the fear of what?",
+      "original_category": "General Knowledge",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T06:07:43.008015",
+      "created_at": "2025-08-19T06:07:43.008026"
     }
   ],
-  "total": 9,
-  "last_updated": "2025-08-19T06:01:28.974775"
+  "total": 10,
+  "last_updated": "2025-08-19T06:08:30.733173"
 }
