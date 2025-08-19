@@ -1,0 +1,19 @@
+{
+  "questions": [
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào dưới đây được biết đến với khả năng thay đổi màu da để ngụy trang, điều chỉnh nhiệt độ cơ thể và giao tiếp với các cá thể khác?",
+      "options": [
+        "A. Tê giác",
+        "B. Mực ống",
+        "C. Tắc kè hoa",
+        "D. Gấu trúc"
+      ],
+      "correct": "C",
+      "explanation": "Tắc kè hoa (chameleon) là loài thằn lằn nổi tiếng với khả năng thay đổi màu da nhờ vào các tế bào sắc tố đặc biệt dưới da. Chúng sử dụng khả năng này để ngụy trang trước kẻ thù, điều chỉnh nhiệt độ cơ thể (sẫm màu hơn khi cần hấp thụ nhiệt, sáng hơn khi cần phản xạ ánh sáng) và giao tiếp với các cá thể khác (ví dụ: thể hiện lãnh thổ hoặc trạng thái sinh sản). Trong khi mực ống cũng có thể thay đổi màu sắc, nhưng câu hỏi nhấn mạnh \"thay đổi màu da để ngụy trang, điều chỉnh nhiệt độ và giao tiếp\" — đặc điểm nổi bật và phổ biến nhất ở tắc kè hoa trong môi trường cạn. Tê giác và gấu trúc không có khả năng này.",
+      "created_at": "2025-08-19T00:32:16.238089"
+    }
+  ],
+  "total": 1,
+  "last_updated": "2025-08-19T00:33:10.035274"
+}
