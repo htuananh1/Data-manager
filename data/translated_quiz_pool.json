@@ -89,8 +89,62 @@
       "difficulty": "medium",
       "translated_at": "2025-08-19T05:59:22.188616",
       "created_at": "2025-08-19T05:59:22.188627"
+    },
+    {
+      "topic": "Nghệ thuật (Khó)",
+      "question": "Nhà điêu khắc người Pháp nào đã thiết kế Tượng Nữ thần Tự do?",
+      "options": [
+        "A. Auguste Rodin",
+        "B. Frédéric Auguste Bartholdi",
+        "C. Henri Matisse",
+        "D. Jean-Léon Gérôme"
+      ],
+      "correct": "B",
+      "explanation": "Frédéric Auguste Bartholdi là kiến trúc sư và nhà điêu khắc người Pháp, nổi tiếng với việc thiết kế Tượng Nữ thần Tự do.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "What French sculptor designed the Statue of Liberty? ",
+      "original_category": "Art",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T05:59:32.467045",
+      "created_at": "2025-08-19T05:59:32.467055"
+    },
+    {
+      "topic": "Giải trí: Anime & Manga Nhật Bản (Khó)",
+      "question": "Trong \"Hunter x Hunter\", các thành viên trong gia đình Killua nổi tiếng với nghề gì?",
+      "options": [
+        "A. Sát thủ",
+        "B. Cướp biển",
+        "C. Thợ săn",
+        "D. Ninja"
+      ],
+      "correct": "A",
+      "explanation": "Gia đình Zoldyck, quê hương của Killua, là một gia tộc sát thủ khét tiếng.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "In \"Hunter x Hunter\", what are members in Killua's family known for being?",
+      "original_category": "Entertainment: Japanese Anime &amp; Manga",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T05:59:47.009993",
+      "created_at": "2025-08-19T05:59:47.010011"
+    },
+    {
+      "topic": "Lịch sử (Khó)",
+      "question": "Phần Lan kỷ niệm 100 năm độc lập vào năm nào?",
+      "options": [
+        "A. 2016",
+        "B. 2018",
+        "C. 2017",
+        "D. 2015"
+      ],
+      "correct": "C",
+      "explanation": "Phần Lan tuyên bố độc lập vào ngày 6 tháng 12 năm 1917, vì vậy năm 2017 đánh dấu 100 năm độc lập của quốc gia này.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "When was Finland's 100th year of being independent?",
+      "original_category": "History",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T06:00:01.458884",
+      "created_at": "2025-08-19T06:00:01.458897"
     }
   ],
-  "total": 5,
-  "last_updated": "2025-08-19T05:59:23.406631"
+  "total": 8,
+  "last_updated": "2025-08-19T06:00:25.157534"
 }
