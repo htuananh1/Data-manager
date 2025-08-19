@@ -7,7 +7,24 @@
     {
       "role": "assistant",
       "content": "Vãi à? Có gì muốn nói hay cần mình giúp không! 🌼"
+    },
+    {
+      "role": "user",
+      "content": "Chào"
+    },
+    {
+      "role": "assistant",
+      "content": "Chào bạn! Bạn có khỏe không? Mình là Linh nè! 😊"
+    },
+    {
+      "role": "user",
+      "content": "Bạn phản hồi nhanh nhỉ"
+    },
+    {
+      "role": "assistant",
+      "content": "Hehe, mình thích nói chuyện với bạn nên phản hồi nhanh lắm đó! Có gì vui kể mình nghe với nha! 😉"
     }
   ],
-  "updated": "2025-08-16T17:06:04.508295"
+  "chat_id": 2026797305,
+  "saved_at": "2025-08-19T09:35:34.707028"
 }
