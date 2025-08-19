@@ -51,8 +51,21 @@
       "correct": "C",
       "explanation": "Giải vô địch bóng đá thế giới 2018 được tổ chức tại Nga. Trong trận chung kết diễn ra vào ngày 15 tháng 7 năm 2018, đội tuyển Pháp đã đánh bại đội tuyển Croatia với tỷ số 4–2 để giành chức vô địch World Cup lần thứ hai trong lịch sử (lần đầu tiên là năm 1998). Brazil bị loại ở tứ kết, Đức bị loại ngay từ vòng bảng, còn Argentina bị loại ở vòng 16 đội. Vì vậy, chỉ có Pháp là đội vô địch đúng trong năm 2018.",
       "created_at": "2025-08-19T00:46:58.791016"
+    },
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào dưới đây được biết đến là loài duy nhất trong họ nhà mèo (Felidae) sống theo bầy, có khả năng hợp tác săn mồi như chó sói?",
+      "options": [
+        "A. Hổ",
+        "B. Báo đốm",
+        "C. Sư tử",
+        "D. Báo gê-pa"
+      ],
+      "correct": "C",
+      "explanation": "Sư tử (Panthera leo) là loài mèo duy nhất sống theo bầy, thường được gọi là \"đàn sư tử\", bao gồm nhiều con cái, con non và một vài con đực. Khác với các loài mèo hoang dã khác như hổ, báo đốm hay báo gê-pa – vốn sống đơn độc – sư tử thể hiện hành vi xã hội cao, cùng nhau săn mồi, bảo vệ lãnh thổ và nuôi dạy con non. Đây là đặc điểm nổi bật khiến sư tử khác biệt trong họ nhà mèo.",
+      "created_at": "2025-08-19T00:57:08.859873"
     }
   ],
-  "total": 4,
-  "last_updated": "2025-08-19T00:47:19.277773"
+  "total": 5,
+  "last_updated": "2025-08-19T00:57:20.992056"
 }
