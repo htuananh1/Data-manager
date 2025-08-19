@@ -53,8 +53,26 @@
       "difficulty": "medium",
       "translated_at": "2025-08-19T05:47:23.382926",
       "created_at": "2025-08-19T05:47:23.382955"
+    },
+    {
+      "topic": "Lịch sử (Khó)",
+      "question": "Số hiệu thân tàu của tàu khu trục lớp Fletcher, Fletcher là gì?",
+      "options": [
+        "A. DD-444",
+        "B. DD-445",
+        "C. DD-992",
+        "D. DD-446"
+      ],
+      "correct": "B",
+      "explanation": "Tàu khu trục lớp Fletcher, Fletcher có số hiệu thân tàu là DD-445.",
+      "source": "OpenTDB + Gemini",
+      "original_question": "Which is the hull NO. of the Fletcher class destroyer Fletcher?",
+      "original_category": "History",
+      "difficulty": "hard",
+      "translated_at": "2025-08-19T05:57:33.344489",
+      "created_at": "2025-08-19T05:57:33.344499"
     }
   ],
-  "total": 3,
-  "last_updated": "2025-08-19T05:48:19.903743"
+  "total": 4,
+  "last_updated": "2025-08-19T05:58:21.651255"
 }
