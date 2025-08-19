@@ -64,8 +64,21 @@
       "correct": "C",
       "explanation": "Sư tử (Panthera leo) là loài mèo duy nhất sống theo bầy, thường được gọi là \"đàn sư tử\", bao gồm nhiều con cái, con non và một vài con đực. Khác với các loài mèo hoang dã khác như hổ, báo đốm hay báo gê-pa – vốn sống đơn độc – sư tử thể hiện hành vi xã hội cao, cùng nhau săn mồi, bảo vệ lãnh thổ và nuôi dạy con non. Đây là đặc điểm nổi bật khiến sư tử khác biệt trong họ nhà mèo.",
       "created_at": "2025-08-19T00:57:08.859873"
+    },
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào sau đây được biết đến là loài duy nhất trong họ nhà mèo có khả năng sống theo bầy, thay vì sống đơn độc như các loài mèo hoang khác?",
+      "options": [
+        "A. Báo gấm",
+        "B. Sư tử",
+        "C. Báo đốm",
+        "D. Cáo đỏ"
+      ],
+      "correct": "B",
+      "explanation": "Sư tử (Panthera leo) là loài duy nhất trong họ nhà mèo (Felidae) sống theo bầy đàn, gọi là \"đàn sư tử\" (pride). Đàn này thường bao gồm các con cái họ hàng, con non và một vài con đực trưởng thành bảo vệ lãnh thổ. Trong khi đó, các loài mèo hoang khác như báo gấm, báo đốm hay mèo rừng đều mang tính lãnh thổ và sống đơn độc. Cáo đỏ không phải là loài mèo, mà thuộc họ chó (Canidae), nên không thuộc phạm vi so sánh. Vì vậy, chỉ có sư tử mới thỏa mãn điều kiện là loài mèo sống theo bầy.",
+      "created_at": "2025-08-19T01:07:20.228384"
     }
   ],
-  "total": 5,
-  "last_updated": "2025-08-19T00:57:20.992056"
+  "total": 6,
+  "last_updated": "2025-08-19T01:07:22.801173"
 }
