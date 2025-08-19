@@ -129,8 +129,21 @@
       "correct": "B",
       "explanation": "Sóc đất (hay còn gọi là sóc bụng trắng, tên tiếng Anh là groundhog) là loài động vật có vú thuộc họ sóc, sống chủ yếu ở Bắc Mỹ. Chúng nổi tiếng với khả năng ngủ đông kéo dài từ 6 đến 7 tháng mỗi năm, thường bắt đầu từ cuối thu đến đầu xuân. Trong thời gian này, nhiệt độ cơ thể, nhịp tim và tốc độ trao đổi chất của chúng giảm mạnh để tiết kiệm năng lượng. Khả năng này giúp chúng sống sót qua mùa đông khi thức ăn khan hiếm. Gấu nâu cũng ngủ đông nhưng thường ngắn hơn và chập chờn hơn, có thể thức dậy giữa chừng. Chồn hương và cú tuyết không ngủ đông mà vẫn hoạt động trong mùa đông. Vì vậy, đáp án đúng là B. Sóc đất.",
       "created_at": "2025-08-19T01:38:00.011671"
+    },
+    {
+      "topic": "[Động vật và thực vật]",
+      "question": "Loài động vật nào sau đây được biết đến là loài duy nhất trong họ nhà mèo (Felidae) có khả năng sống theo bầy đàn một cách ổn định?",
+      "options": [
+        "A. Sư tử",
+        "B. Báo đốm",
+        "C. Báo gê-pa",
+        "D. Mèo rừng"
+      ],
+      "correct": "A",
+      "explanation": "Sư tử (Panthera leo) là loài duy nhất trong họ nhà mèo có cấu trúc xã hội sống theo bầy đàn, còn gọi là \"đàn sư tử\" (pride). Một đàn thường bao gồm các con cái có quan hệ huyết thống, con non và một vài con đực trưởng thành bảo vệ lãnh thổ. Trong khi đó, các loài như báo đốm, báo gê-pa và mèo rừng đều là động vật sống đơn độc, chỉ gặp nhau trong mùa sinh sản. Vì vậy, sư tử là đáp án đúng duy nhất.",
+      "created_at": "2025-08-19T01:48:10.240825"
     }
   ],
-  "total": 10,
-  "last_updated": "2025-08-19T01:38:28.125891"
+  "total": 11,
+  "last_updated": "2025-08-19T01:48:29.893921"
 }
