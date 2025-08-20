@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 89,
-  "last_updated": "2025-08-20T12:03:06.998700",
+  "total_anime": 90,
+  "last_updated": "2025-08-20T13:03:49.972611",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -1012,6 +1012,17 @@
       "quality": "HD",
       "year": "Lượt xem: 601,926",
       "scraped_at": "2025-08-19T23:53:37.757050"
+    },
+    {
+      "id": "90dfdda1ab",
+      "name": "Necronomico no Cosmic Horror Show",
+      "url": "https://animevietsub.cam/phim/necronomico-no-cosmic-horror-show-a5677/",
+      "image": "https://cdn.myanimelist.net/images/anime/1845/150343.jpg",
+      "episodes": "08",
+      "rating": "8.8",
+      "quality": "FHD",
+      "year": "Lượt xem: 115,346",
+      "scraped_at": "2025-08-20T13:03:16.396717"
     }
   ]
 }
