@@ -31,8 +31,8 @@
       "url": "https://animevietsub.cam/dang-chieu"
     }
   ],
-  "total_anime": 90,
-  "last_updated": "2025-08-20T13:03:49.972611",
+  "total_anime": 92,
+  "last_updated": "2025-08-20T14:04:33.735051",
   "anime_list": [
     {
       "id": "528ad5bce0",
@@ -1023,6 +1023,28 @@
       "quality": "FHD",
       "year": "Lượt xem: 115,346",
       "scraped_at": "2025-08-20T13:03:16.396717"
+    },
+    {
+      "id": "44b08b26f5",
+      "name": "Song Sinh Võ Hồn",
+      "url": "https://animevietsub.cam/phim/song-sinh-vo-hon-a5711/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/08/07/animevsub-AePTUVeEFT.jpg",
+      "episodes": "17",
+      "rating": "7.8",
+      "quality": "HD",
+      "year": "Lượt xem: 39,170",
+      "scraped_at": "2025-08-20T14:03:59.173736"
+    },
+    {
+      "id": "d14a64515a",
+      "name": "Quân Hữu Vân Phần 2",
+      "url": "https://animevietsub.cam/phim/quan-huu-van-phan-2-a5674/",
+      "image": "https://cdn.animevietsub.cam/data/poster/2025/06/04/animevsub-ERzSEiscYI.jpg",
+      "episodes": "15",
+      "rating": "7.4",
+      "quality": "HD",
+      "year": "Lượt xem: 52,688",
+      "scraped_at": "2025-08-20T14:03:59.175513"
     }
   ]
 }
