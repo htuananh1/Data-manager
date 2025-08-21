@@ -702,5 +702,5 @@
     {"question":"Điểm nào trên Trái Đất có tốc độ tự quay (vận tốc dài) cao nhất do sự tự quay quanh trục, và vì sao?","options":["A. Cực Bắc – vì ở xa tâm Trái Đất nhất","B. Vòng cực – do ảnh hưởng của lực Coriolis","C. Xích đạo – vì có bán kính quay lớn nhất","D. Chí tuyến – do độ nghiêng của trục Trái Đất"],"correct":"C","correct_answer":"C. Xích đạo – vì có bán kính quay lớn nhất","explanation":"Tốc độ tự quay (vận tốc dài) của Trái Đất đạt cực đại tại xích đạo (khoảng 1670 km/h) do bán kính quay lớn nhất ở vĩ độ 0°. Càng về hai cực, bán kính quay giảm dần về 0, nên vận tốc dài cũng giảm. Đây là hệ quả của chuyển động quay hình cầu và công thức v = ω × r.","topic":"Địa lý (Khó)","source":"Qwen AI","difficulty":"khó","created_at":"2025-08-21T21:30:39.318362+07:00","generated":true}
   ],
   "total": 700,
-  "last_updated": "2025-08-21T21:30:39.318644+07:00"
+  "last_updated": "2025-08-21T21:30:42.038674+07:00"
 }
