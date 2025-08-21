@@ -867,5 +867,5 @@
     {"question":"Tại sao tháp Eiffel ở Paris lại cao hơn vào mùa hè, theo góc nhìn địa lý vật lý?","options":["A. Do hiện tượng giãn nở nhiệt của kim loại","B. Do mực nước biển dâng ảnh hưởng đến nền đất","C. Do sự dịch chuyển của mảng Á-Âu","D. Do sai số đo đạc vệ tinh GPS"],"correct":"A","correct_answer":"Do hiện tượng giãn nở nhiệt của kim loại","explanation":"Tháp Eiffel làm bằng sắt, khi nhiệt độ tăng vào mùa hè, kim loại giãn nở do nhiệt, khiến chiều cao tháp tăng lên khoảng 15 cm. Đây là hiện tượng vật lý xảy ra trong môi trường địa lý, thể hiện mối liên hệ giữa khí hậu và vật chất đô thị — một góc nhìn liên ngành ít được chú ý trong địa lý học truyền thống.","topic":"Địa lý (Cực Khó)","source":"Qwen AI","difficulty":"cực khó","created_at":"2025-08-21T21:50:05.615218+07:00","generated":true}
   ],
   "total": 865,
-  "last_updated": "2025-08-21T21:50:05.615460+07:00"
+  "last_updated": "2025-08-21T21:50:11.785099+07:00"
 }
