@@ -74,5 +74,5 @@
     {"question":"Nếu bạn đứng tại cực Bắc địa lý và đi thẳng về hướng Đông, bạn sẽ di chuyển theo hướng nào?","options":["A. Về phía Đông","B. Về phía Tây","C. Không di chuyển theo hướng nào cả","D. Quay vòng tại chỗ"],"correct":"C","correct_answer":"Không di chuyển theo hướng nào cả","explanation":"Tại cực Bắc, mọi hướng đều là phía Nam. Vì vậy, dù bạn định đi về hướng Đông, bạn vẫn chỉ đứng tại một điểm và không thể di chuyển theo hướng Đông thực sự – mọi chuyển động đều là đi về phía Nam. Do đó, về mặt địa lý, bạn không thể 'đi về hướng Đông' khi đang đứng đúng tại cực Bắc.","topic":"Địa lý (Bình Thường)","source":"Qwen AI","difficulty":"bình thường","created_at":"2025-08-21T22:08:53.489470+07:00","generated":true}
   ],
   "total": 72,
-  "last_updated": "2025-08-21T22:08:53.489689+07:00"
+  "last_updated": "2025-08-21T22:08:57.974674+07:00"
 }
