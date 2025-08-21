@@ -937,5 +937,5 @@
     {"question":"Loài động vật nào dưới đây có khả năng tái tạo tim nguyên khối mà không để lại sẹo, nhờ vào sự hoạt động của tế bào mang tên 'tế bào cơ tim nguyên thủy'?","options":["A. Cá ngựa","B. Cá zebrafish (Danio rerio)","C. Kỳ nhông Axolotl","D. Rết khổng lồ"],"correct":"B","correct_answer":"Cá zebrafish (Danio rerio)","explanation":"Cá zebrafish có khả năng tái tạo tim hoàn chỉnh sau tổn thương nhờ vào sự khôi phục và biệt hóa của các tế bào cơ tim nguyên thủy (cardiomyocyte dedifferentiation), một cơ chế hiếm gặp ở động vật có vú. Đây là chủ đề nghiên cứu quan trọng trong y học tái tạo, vì người và hầu hết động vật có vú không có khả năng này. Kỳ nhông Axolotl tuy nổi tiếng với tái tạo chi và nội quan, nhưng không tái tạo tim theo cùng cơ chế đặc trưng như ở cá zebrafish.","topic":"Động vật (Khó)","source":"Qwen AI","difficulty":"khó","created_at":"2025-08-21T21:59:07.461219+07:00","generated":true}
   ],
   "total": 935,
-  "last_updated": "2025-08-21T21:59:07.461457+07:00"
+  "last_updated": "2025-08-21T21:59:12.601508+07:00"
 }
