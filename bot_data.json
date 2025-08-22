@@ -1,15 +1,15 @@
 {
   "2026797305": {
     "username": "Hoàng",
-    "coins": 177,
-    "exp": 22,
+    "coins": 2267,
+    "exp": 42,
     "level": 1,
-    "fishing_count": 6,
-    "win_count": 6,
+    "fishing_count": 7,
+    "win_count": 7,
     "lose_count": 0,
     "treasures_found": 0,
-    "total_multiplier": 6,
-    "best_multiplier": 1,
+    "total_multiplier": 20,
+    "best_multiplier": 14,
     "inventory": {
       "rod": "basic",
       "baits": {
@@ -21,7 +21,8 @@
       "fish": {
         "🐡 Cá nóc": 1,
         "🐟 Cá nhỏ": 1,
-        "🐠 Cá vàng": 2
+        "🐠 Cá vàng": 2,
+        "🦈 Cá mập": 1
       }
     },
     "daily_claimed": null,
