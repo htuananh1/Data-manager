@@ -1,7 +1,7 @@
 {
   "2026797305": {
     "username": "Hoàng",
-    "coins": 2267,
+    "coins": 2380,
     "exp": 42,
     "level": 1,
     "fishing_count": 7,
@@ -13,7 +13,7 @@
     "inventory": {
       "rod": "basic",
       "baits": {
-        "worm": 9,
+        "worm": 24,
         "shrimp": 0,
         "special": 0,
         "golden": 0
@@ -25,7 +25,7 @@
         "🦈 Cá mập": 1
       }
     },
-    "daily_claimed": null,
+    "daily_claimed": "2025-08-22T06:58:43.868089",
     "created_at": "2025-08-22T05:48:33.910315"
   }
 }
