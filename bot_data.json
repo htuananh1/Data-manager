@@ -1,19 +1,19 @@
 {
   "2026797305": {
     "username": "Hoàng",
-    "coins": 100,
-    "exp": 0,
+    "coins": 97,
+    "exp": 2,
     "level": 1,
-    "fishing_count": 0,
-    "win_count": 0,
+    "fishing_count": 2,
+    "win_count": 2,
     "lose_count": 0,
     "treasures_found": 0,
-    "total_multiplier": 0,
-    "best_multiplier": 0,
+    "total_multiplier": 2,
+    "best_multiplier": 1,
     "inventory": {
       "rod": "basic",
       "baits": {
-        "worm": 10,
+        "worm": 9,
         "shrimp": 0,
         "special": 0,
         "golden": 0
