@@ -1206,7 +1206,7 @@
       "bonus": 1.0,
       "exp_bonus": 1.0,
       "coin_multiplier": 1.0,
-      "desc": "Mặc định"
+      "desc": "x1.0 xu, x1.0 exp"
     },
     {
       "id": "2",
@@ -1228,7 +1228,7 @@
       "bonus": 1.5,
       "exp_bonus": 2.0,
       "coin_multiplier": 1.5,
-      "desc": "x1.5 xu, x2 exp"
+      "desc": "x1.5 xu, x2.0 exp"
     },
     {
       "id": "4",
@@ -1239,7 +1239,7 @@
       "bonus": 2.0,
       "exp_bonus": 3.0,
       "coin_multiplier": 2.0,
-      "desc": "x2 xu, x3 exp"
+      "desc": "x2.0 xu, x3.0 exp"
     },
     {
       "id": "5",
@@ -1250,7 +1250,7 @@
       "bonus": 3.0,
       "exp_bonus": 5.0,
       "coin_multiplier": 3.0,
-      "desc": "x3 xu, x5 exp"
+      "desc": "x3.0 xu, x5.0 exp"
     },
     {
       "id": "6",
@@ -1261,7 +1261,7 @@
       "bonus": 5.0,
       "exp_bonus": 8.0,
       "coin_multiplier": 5.0,
-      "desc": "x5 xu, x8 exp"
+      "desc": "x5.0 xu, x8.0 exp"
     },
     {
       "id": "7",
@@ -1272,7 +1272,7 @@
       "bonus": 8.0,
       "exp_bonus": 12.0,
       "coin_multiplier": 8.0,
-      "desc": "x8 xu, x12 exp"
+      "desc": "x8.0 xu, x12.0 exp"
     },
     {
       "id": "8",
@@ -1283,7 +1283,7 @@
       "bonus": 12.0,
       "exp_bonus": 18.0,
       "coin_multiplier": 12.0,
-      "desc": "x12 xu, x18 exp"
+      "desc": "x12.0 xu, x18.0 exp"
     },
     {
       "id": "9",
@@ -1294,7 +1294,7 @@
       "bonus": 18.0,
       "exp_bonus": 25.0,
       "coin_multiplier": 18.0,
-      "desc": "x18 xu, x25 exp"
+      "desc": "x18.0 xu, x25.0 exp"
     },
     {
       "id": "10",
@@ -1305,7 +1305,7 @@
       "bonus": 25.0,
       "exp_bonus": 35.0,
       "coin_multiplier": 25.0,
-      "desc": "x25 xu, x35 exp"
+      "desc": "x25.0 xu, x35.0 exp"
     },
     {
       "id": "11",
@@ -1316,7 +1316,7 @@
       "bonus": 35.0,
       "exp_bonus": 50.0,
       "coin_multiplier": 35.0,
-      "desc": "x35 xu, x50 exp"
+      "desc": "x35.0 xu, x50.0 exp"
     },
     {
       "id": "12",
@@ -1327,7 +1327,7 @@
       "bonus": 50.0,
       "exp_bonus": 70.0,
       "coin_multiplier": 50.0,
-      "desc": "x50 xu, x70 exp"
+      "desc": "x50.0 xu, x70.0 exp"
     },
     {
       "id": "13",
@@ -1338,7 +1338,7 @@
       "bonus": 70.0,
       "exp_bonus": 100.0,
       "coin_multiplier": 70.0,
-      "desc": "x70 xu, x100 exp"
+      "desc": "x70.0 xu, x100.0 exp"
     },
     {
       "id": "14",
@@ -1349,7 +1349,7 @@
       "bonus": 90.0,
       "exp_bonus": 130.0,
       "coin_multiplier": 90.0,
-      "desc": "x90 xu, x130 exp"
+      "desc": "x90.0 xu, x130.0 exp"
     },
     {
       "id": "15",
@@ -1357,10 +1357,10 @@
       "price": 10000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 110.0,
-      "exp_bonus": 160.0,
-      "coin_multiplier": 110.0,
-      "desc": "x110 xu, x160 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "16",
@@ -1368,10 +1368,10 @@
       "price": 50000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 130.0,
-      "exp_bonus": 190.0,
-      "coin_multiplier": 130.0,
-      "desc": "x130 xu, x190 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "17",
@@ -1379,10 +1379,10 @@
       "price": 200000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 150.0,
-      "exp_bonus": 220.0,
-      "coin_multiplier": 150.0,
-      "desc": "x150 xu, x220 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "18",
@@ -1390,10 +1390,10 @@
       "price": 1000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 170.0,
-      "exp_bonus": 250.0,
-      "coin_multiplier": 170.0,
-      "desc": "x170 xu, x250 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "19",
@@ -1401,10 +1401,10 @@
       "price": 5000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 190.0,
-      "exp_bonus": 250,
-      "coin_multiplier": 190.0,
-      "desc": "x190 xu, x280 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "20",
@@ -1412,10 +1412,10 @@
       "price": 20000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x210 xu, x310 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "21",
@@ -1423,10 +1423,10 @@
       "price": 80000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x225 xu, x330 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "22",
@@ -1434,10 +1434,10 @@
       "price": 350000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x240 xu, x350 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "23",
@@ -1445,10 +1445,10 @@
       "price": 1500000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x250 xu, x365 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "24",
@@ -1456,10 +1456,10 @@
       "price": 6000000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x260 xu, x375 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "25",
@@ -1467,10 +1467,10 @@
       "price": 25000000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x270 xu, x385 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "26",
@@ -1478,10 +1478,10 @@
       "price": 100000000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x280 xu, x390 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "27",
@@ -1489,10 +1489,10 @@
       "price": 400000000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x285 xu, x395 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "28",
@@ -1500,10 +1500,10 @@
       "price": 1600000000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x290 xu, x397 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "29",
@@ -1511,10 +1511,10 @@
       "price": 6500000000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x295 xu, x399 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "30",
@@ -1522,10 +1522,10 @@
       "price": 25000000000000000000,
       "speed": 0.8,
       "auto_speed": 1.5,
-      "bonus": 200,
-      "exp_bonus": 250,
-      "coin_multiplier": 200,
-      "desc": "x300 xu MAX, x400 exp MAX"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "31",
@@ -1533,10 +1533,10 @@
       "price": 100000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 205,
-      "exp_bonus": 255,
-      "coin_multiplier": 205,
-      "desc": "x205 xu, x255 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "32",
@@ -1544,10 +1544,10 @@
       "price": 400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 210,
-      "exp_bonus": 260,
-      "coin_multiplier": 210,
-      "desc": "x210 xu, x260 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "33",
@@ -1555,10 +1555,10 @@
       "price": 1600000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 215,
-      "exp_bonus": 265,
-      "coin_multiplier": 215,
-      "desc": "x215 xu, x265 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "34",
@@ -1566,10 +1566,10 @@
       "price": 6400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 220,
-      "exp_bonus": 270,
-      "coin_multiplier": 220,
-      "desc": "x220 xu, x270 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "35",
@@ -1577,10 +1577,10 @@
       "price": 25600000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 225,
-      "exp_bonus": 275,
-      "coin_multiplier": 225,
-      "desc": "x225 xu, x275 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "36",
@@ -1588,10 +1588,10 @@
       "price": 102400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 230,
-      "exp_bonus": 280,
-      "coin_multiplier": 230,
-      "desc": "x230 xu, x280 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "37",
@@ -1599,10 +1599,10 @@
       "price": 409600000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 235,
-      "exp_bonus": 285,
-      "coin_multiplier": 235,
-      "desc": "x235 xu, x285 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "38",
@@ -1610,10 +1610,10 @@
       "price": 1638400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 240,
-      "exp_bonus": 290,
-      "coin_multiplier": 240,
-      "desc": "x240 xu, x290 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "39",
@@ -1621,10 +1621,10 @@
       "price": 6553600000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 245,
-      "exp_bonus": 295,
-      "coin_multiplier": 245,
-      "desc": "x245 xu, x295 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "40",
@@ -1632,10 +1632,10 @@
       "price": 26214400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 250,
-      "exp_bonus": 300,
-      "coin_multiplier": 250,
-      "desc": "x250 xu, x300 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "41",
@@ -1643,10 +1643,10 @@
       "price": 104857600000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 250,
-      "exp_bonus": 300,
-      "coin_multiplier": 250,
-      "desc": "x250 xu, x300 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "42",
@@ -1654,10 +1654,10 @@
       "price": 419430400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 250,
-      "exp_bonus": 300,
-      "coin_multiplier": 250,
-      "desc": "x250 xu, x300 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "43",
@@ -1665,10 +1665,10 @@
       "price": 1677721600000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 250,
-      "exp_bonus": 300,
-      "coin_multiplier": 250,
-      "desc": "x250 xu, x300 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "44",
@@ -1676,10 +1676,10 @@
       "price": 6710886400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 250,
-      "exp_bonus": 300,
-      "coin_multiplier": 250,
-      "desc": "x250 xu, x300 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "45",
@@ -1687,10 +1687,10 @@
       "price": 26843545600000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 250,
-      "exp_bonus": 300,
-      "coin_multiplier": 250,
-      "desc": "x250 xu, x300 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     },
     {
       "id": "46",
@@ -1698,10 +1698,10 @@
       "price": 107374182400000000000000000000,
       "speed": 0.7,
       "auto_speed": 1.5,
-      "bonus": 250,
-      "exp_bonus": 300,
-      "coin_multiplier": 250,
-      "desc": "x250 xu, x300 exp"
+      "bonus": 100,
+      "exp_bonus": 150,
+      "coin_multiplier": 100,
+      "desc": "x100 xu, x150 exp"
     }
   ]
 }
