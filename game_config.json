@@ -1,1707 +1,208 @@
 {
   "FISH_RANKS": [
-    {
-      "id": "1",
-      "name": "🐣 Ngư Tân Binh",
-      "exp_required": 0,
-      "coin_bonus": 1,
-      "fish_bonus": 1,
-      "luck_bonus": 1
-    },
-    {
-      "id": "2",
-      "name": "🎣 Ngư Khai Phá",
-      "exp_required": 10000,
-      "coin_bonus": 3,
-      "fish_bonus": 1.5,
-      "luck_bonus": 2
-    },
-    {
-      "id": "3",
-      "name": "🪱 Ngư Thực Tập",
-      "exp_required": 50000,
-      "coin_bonus": 6,
-      "fish_bonus": 2,
-      "luck_bonus": 4
-    },
-    {
-      "id": "4",
-      "name": "🐟 Ngư Chiến Binh",
-      "exp_required": 200000,
-      "coin_bonus": 10,
-      "fish_bonus": 3,
-      "luck_bonus": 7
-    },
-    {
-      "id": "5",
-      "name": "🦑 Ngư Du Hiệp",
-      "exp_required": 800000,
-      "coin_bonus": 15,
-      "fish_bonus": 4,
-      "luck_bonus": 10
-    },
-    {
-      "id": "6",
-      "name": "🦀 Ngư Hộ Vệ",
-      "exp_required": 3000000,
-      "coin_bonus": 22,
-      "fish_bonus": 5.5,
-      "luck_bonus": 14
-    },
-    {
-      "id": "7",
-      "name": "🐠 Ngư Đại Tướng",
-      "exp_required": 10000000,
-      "coin_bonus": 30,
-      "fish_bonus": 7,
-      "luck_bonus": 18
-    },
-    {
-      "id": "8",
-      "name": "🐡 Ngư Vương Giả",
-      "exp_required": 30000000,
-      "coin_bonus": 40,
-      "fish_bonus": 9,
-      "luck_bonus": 23
-    },
-    {
-      "id": "9",
-      "name": "🐬 Ngư Thánh Giả",
-      "exp_required": 80000000,
-      "coin_bonus": 52,
-      "fish_bonus": 11,
-      "luck_bonus": 28
-    },
-    {
-      "id": "10",
-      "name": "🦈 Ngư Thần Vương",
-      "exp_required": 200000000,
-      "coin_bonus": 65,
-      "fish_bonus": 13.5,
-      "luck_bonus": 34
-    },
-    {
-      "id": "11",
-      "name": "🐋 Ngư Đế Quân",
-      "exp_required": 500000000,
-      "coin_bonus": 80,
-      "fish_bonus": 16,
-      "luck_bonus": 40
-    },
-    {
-      "id": "12",
-      "name": "🧜‍♂️ Ngư Hải Thần",
-      "exp_required": 1200000000,
-      "coin_bonus": 95,
-      "fish_bonus": 19,
-      "luck_bonus": 46
-    },
-    {
-      "id": "13",
-      "name": "🌊 Ngư Vũ Giả",
-      "exp_required": 3000000000,
-      "coin_bonus": 112,
-      "fish_bonus": 22,
-      "luck_bonus": 52
-    },
-    {
-      "id": "14",
-      "name": "⚓ Ngư Thủy Hoàng",
-      "exp_required": 8000000000,
-      "coin_bonus": 130,
-      "fish_bonus": 25,
-      "luck_bonus": 58
-    },
-    {
-      "id": "15",
-      "name": "🐉 Ngư Long Tộc",
-      "exp_required": 20000000000,
-      "coin_bonus": 150,
-      "fish_bonus": 28,
-      "luck_bonus": 64
-    },
-    {
-      "id": "16",
-      "name": "🔱 Ngư Hải Vương",
-      "exp_required": 50000000000,
-      "coin_bonus": 170,
-      "fish_bonus": 31,
-      "luck_bonus": 70
-    },
-    {
-      "id": "17",
-      "name": "🌠 Ngư Tinh Vương",
-      "exp_required": 120000000000,
-      "coin_bonus": 190,
-      "fish_bonus": 34,
-      "luck_bonus": 75
-    },
-    {
-      "id": "18",
-      "name": "🏆 Ngư Thần Tướng",
-      "exp_required": 300000000000,
-      "coin_bonus": 210,
-      "fish_bonus": 37,
-      "luck_bonus": 80
-    },
-    {
-      "id": "19",
-      "name": "👑 Ngư Vương Tộc",
-      "exp_required": 800000000000,
-      "coin_bonus": 230,
-      "fish_bonus": 40,
-      "luck_bonus": 85
-    },
-    {
-      "id": "20",
-      "name": "🔥 Ngư Hỏa Đế",
-      "exp_required": 2000000000000,
-      "coin_bonus": 250,
-      "fish_bonus": 42,
-      "luck_bonus": 89
-    },
-    {
-      "id": "21",
-      "name": "⚡ Ngư Lôi Thần",
-      "exp_required": 5000000000000,
-      "coin_bonus": 265,
-      "fish_bonus": 44,
-      "luck_bonus": 92
-    },
-    {
-      "id": "22",
-      "name": "🌌 Ngư Vũ Trụ",
-      "exp_required": 10000000000000,
-      "coin_bonus": 275,
-      "fish_bonus": 45.5,
-      "luck_bonus": 94
-    },
-    {
-      "id": "23",
-      "name": "🎭 Ngư Ảo Ảnh",
-      "exp_required": 25000000000000,
-      "coin_bonus": 282,
-      "fish_bonus": 46.5,
-      "luck_bonus": 95.5
-    },
-    {
-      "id": "24",
-      "name": "🌸 Ngư Linh Hoa",
-      "exp_required": 60000000000000,
-      "coin_bonus": 287,
-      "fish_bonus": 47.5,
-      "luck_bonus": 97
-    },
-    {
-      "id": "25",
-      "name": "🎪 Ngư Huyễn Sư",
-      "exp_required": 150000000000000,
-      "coin_bonus": 291,
-      "fish_bonus": 48,
-      "luck_bonus": 98
-    },
-    {
-      "id": "26",
-      "name": "🌺 Ngư Tiên Tộc",
-      "exp_required": 400000000000000,
-      "coin_bonus": 294,
-      "fish_bonus": 48.5,
-      "luck_bonus": 98.5
-    },
-    {
-      "id": "27",
-      "name": "🏵️ Ngư Pháp Sư",
-      "exp_required": 1000000000000000,
-      "coin_bonus": 296,
-      "fish_bonus": 49,
-      "luck_bonus": 99
-    },
-    {
-      "id": "28",
-      "name": "🪷 Ngư Giác Giả",
-      "exp_required": 2500000000000000,
-      "coin_bonus": 297,
-      "fish_bonus": 49.3,
-      "luck_bonus": 99.3
-    },
-    {
-      "id": "29",
-      "name": "☯️ Ngư Đạo Giả",
-      "exp_required": 6000000000000000,
-      "coin_bonus": 298,
-      "fish_bonus": 49.6,
-      "luck_bonus": 99.6
-    },
-    {
-      "id": "30",
-      "name": "🕉️ Ngư Hồng Hoang",
-      "exp_required": 15000000000000000,
-      "coin_bonus": 299,
-      "fish_bonus": 49.8,
-      "luck_bonus": 99.8
-    },
-    {
-      "id": "31",
-      "name": "♾️ Ngư Vô Cực",
-      "exp_required": 40000000000000000,
-      "coin_bonus": 299.5,
-      "fish_bonus": 49.9,
-      "luck_bonus": 99.9
-    },
-    {
-      "id": "32",
-      "name": "🌀 Ngư Bất Tử",
-      "exp_required": 100000000000000000,
-      "coin_bonus": 300,
-      "fish_bonus": 50,
-      "luck_bonus": 100
-    },
-    {
-      "id": "33",
-      "name": "🌌 Ngư Thiên Hà",
-      "exp_required": 250000000000000000,
-      "coin_bonus": 302,
-      "fish_bonus": 50.5,
-      "luck_bonus": 101.5
-    },
-    {
-      "id": "34",
-      "name": "🔮 Ngư Ma Ảo",
-      "exp_required": 625000000000000000,
-      "coin_bonus": 306,
-      "fish_bonus": 51.5,
-      "luck_bonus": 104.5
-    },
-    {
-      "id": "35",
-      "name": "♾️ Ngư Vô Tận",
-      "exp_required": 1562500000000000000,
-      "coin_bonus": 312,
-      "fish_bonus": 53.0,
-      "luck_bonus": 109.0
-    },
-    {
-      "id": "36",
-      "name": "🕳️ Ngư Hắc Vũ",
-      "exp_required": 3906250000000000000,
-      "coin_bonus": 320,
-      "fish_bonus": 55.0,
-      "luck_bonus": 115.0
-    },
-    {
-      "id": "37",
-      "name": "💠 Ngư Tuyệt Đối",
-      "exp_required": 9765625000000000000,
-      "coin_bonus": 330,
-      "fish_bonus": 57.5,
-      "luck_bonus": 120
-    },
-    {
-      "id": "38",
-      "name": "🔥 Ngư Viêm Long",
-      "exp_required": 24414062499999997952,
-      "coin_bonus": 342,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "39",
-      "name": "❄️ Ngư Băng Tâm",
-      "exp_required": 61035156249999998976,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "40",
-      "name": "⚡ Ngư Lôi Đế",
-      "exp_required": 152587890624999981056,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "41",
-      "name": "🌈 Ngư Ảo Quang",
-      "exp_required": 381469726562499952640,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "42",
-      "name": "☄️ Ngư Sao Băng",
-      "exp_required": 1144409179687499857920,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "43",
-      "name": "🌠 Ngư Tinh Vân",
-      "exp_required": 3433227539062499573760,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "44",
-      "name": "🪐 Ngư Hành Tinh",
-      "exp_required": 10299682617187498721280,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "45",
-      "name": "👑 Ngư Chí Tôn",
-      "exp_required": 30899047851562496163840,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "46",
-      "name": "🏆 Ngư Vinh Quang",
-      "exp_required": 92697143554687488491520,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "47",
-      "name": "🌀 Ngư Thời Không",
-      "exp_required": 278091430664062465474560,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "48",
-      "name": "🛡️ Ngư Thánh Hộ",
-      "exp_required": 834274291992187396423680,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "49",
-      "name": "⚔️ Ngư Chiến Thần",
-      "exp_required": 2502822875976562189271040,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "50",
-      "name": "🌑 Ngư Hắc Ám",
-      "exp_required": 7508468627929686567813120,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "51",
-      "name": "🌟 Ngư Thiên Sứ",
-      "exp_required": 22525405883789059703439360,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    },
-    {
-      "id": "52",
-      "name": "♾️ Ngư Vĩnh Hằng",
-      "exp_required": 67576217651367179110318080,
-      "coin_bonus": 350,
-      "fish_bonus": 60,
-      "luck_bonus": 120
-    }
-  ],
+{"id":"1","name":"🐣 Ngư Tân Binh","exp_required":0,"coin_bonus":1,"fish_bonus":1,"luck_bonus":1}
+{"id":"2","name":"🎣 Ngư Khai Phá","exp_required":10000,"coin_bonus":3,"fish_bonus":1.5,"luck_bonus":2}
+{"id":"3","name":"🪱 Ngư Thực Tập","exp_required":50000,"coin_bonus":6,"fish_bonus":2,"luck_bonus":4}
+{"id":"4","name":"🐟 Ngư Chiến Binh","exp_required":200000,"coin_bonus":10,"fish_bonus":3,"luck_bonus":7}
+{"id":"5","name":"🦑 Ngư Du Hiệp","exp_required":800000,"coin_bonus":15,"fish_bonus":4,"luck_bonus":10}
+{"id":"6","name":"🦀 Ngư Hộ Vệ","exp_required":3000000,"coin_bonus":22,"fish_bonus":5.5,"luck_bonus":14}
+{"id":"7","name":"🐠 Ngư Đại Tướng","exp_required":10000000,"coin_bonus":30,"fish_bonus":7,"luck_bonus":18}
+{"id":"8","name":"🐡 Ngư Vương Giả","exp_required":30000000,"coin_bonus":40,"fish_bonus":9,"luck_bonus":23}
+{"id":"9","name":"🐬 Ngư Thánh Giả","exp_required":80000000,"coin_bonus":52,"fish_bonus":11,"luck_bonus":28}
+{"id":"10","name":"🦈 Ngư Thần Vương","exp_required":200000000,"coin_bonus":65,"fish_bonus":13.5,"luck_bonus":34}
+{"id":"11","name":"🐋 Ngư Đế Quân","exp_required":500000000,"coin_bonus":80,"fish_bonus":16,"luck_bonus":40}
+{"id":"12","name":"🧜‍♂️ Ngư Hải Thần","exp_required":1200000000,"coin_bonus":95,"fish_bonus":19,"luck_bonus":46}
+{"id":"13","name":"🌊 Ngư Vũ Giả","exp_required":3000000000,"coin_bonus":112,"fish_bonus":22,"luck_bonus":52}
+{"id":"14","name":"⚓ Ngư Thủy Hoàng","exp_required":8000000000,"coin_bonus":130,"fish_bonus":25,"luck_bonus":58}
+{"id":"15","name":"🐉 Ngư Long Tộc","exp_required":20000000000,"coin_bonus":150,"fish_bonus":28,"luck_bonus":64}
+{"id":"16","name":"🔱 Ngư Hải Vương","exp_required":50000000000,"coin_bonus":170,"fish_bonus":31,"luck_bonus":70}
+{"id":"17","name":"🌠 Ngư Tinh Vương","exp_required":120000000000,"coin_bonus":190,"fish_bonus":34,"luck_bonus":75}
+{"id":"18","name":"🏆 Ngư Thần Tướng","exp_required":300000000000,"coin_bonus":210,"fish_bonus":37,"luck_bonus":80}
+{"id":"19","name":"👑 Ngư Vương Tộc","exp_required":800000000000,"coin_bonus":230,"fish_bonus":40,"luck_bonus":85}
+{"id":"20","name":"🔥 Ngư Hỏa Đế","exp_required":2000000000000,"coin_bonus":250,"fish_bonus":42,"luck_bonus":89}
+{"id":"21","name":"⚡ Ngư Lôi Thần","exp_required":5000000000000,"coin_bonus":265,"fish_bonus":44,"luck_bonus":92}
+{"id":"22","name":"🌌 Ngư Vũ Trụ","exp_required":10000000000000,"coin_bonus":275,"fish_bonus":45.5,"luck_bonus":94}
+{"id":"23","name":"🎭 Ngư Ảo Ảnh","exp_required":25000000000000,"coin_bonus":282,"fish_bonus":46.5,"luck_bonus":95.5}
+{"id":"24","name":"🌸 Ngư Linh Hoa","exp_required":60000000000000,"coin_bonus":287,"fish_bonus":47.5,"luck_bonus":97}
+{"id":"25","name":"🎪 Ngư Huyễn Sư","exp_required":150000000000000,"coin_bonus":291,"fish_bonus":48,"luck_bonus":98}
+{"id":"26","name":"🌺 Ngư Tiên Tộc","exp_required":400000000000000,"coin_bonus":294,"fish_bonus":48.5,"luck_bonus":98.5}
+{"id":"27","name":"🏵️ Ngư Pháp Sư","exp_required":1000000000000000,"coin_bonus":296,"fish_bonus":49,"luck_bonus":99}
+{"id":"28","name":"🪷 Ngư Giác Giả","exp_required":2500000000000000,"coin_bonus":297,"fish_bonus":49.3,"luck_bonus":99.3}
+{"id":"29","name":"☯️ Ngư Đạo Giả","exp_required":6000000000000000,"coin_bonus":298,"fish_bonus":49.6,"luck_bonus":99.6}
+{"id":"30","name":"🕉️ Ngư Hồng Hoang","exp_required":15000000000000000,"coin_bonus":299,"fish_bonus":49.8,"luck_bonus":99.8}
+{"id":"31","name":"♾️ Ngư Vô Cực","exp_required":40000000000000000,"coin_bonus":299.5,"fish_bonus":49.9,"luck_bonus":99.9}
+{"id":"32","name":"🌀 Ngư Bất Tử","exp_required":100000000000000000,"coin_bonus":300,"fish_bonus":50,"luck_bonus":100}
+{"id":"33","name":"🌌 Ngư Thiên Hà","exp_required":250000000000000000,"coin_bonus":302,"fish_bonus":50.5,"luck_bonus":101.5}
+{"id":"34","name":"🔮 Ngư Ma Ảo","exp_required":625000000000000000,"coin_bonus":306,"fish_bonus":51.5,"luck_bonus":104.5}
+{"id":"35","name":"♾️ Ngư Vô Tận","exp_required":1562500000000000000,"coin_bonus":312,"fish_bonus":53.0,"luck_bonus":109.0}
+{"id":"36","name":"🕳️ Ngư Hắc Vũ","exp_required":3906250000000000000,"coin_bonus":320,"fish_bonus":55.0,"luck_bonus":115.0}
+{"id":"37","name":"💠 Ngư Tuyệt Đối","exp_required":9765625000000000000,"coin_bonus":330,"fish_bonus":57.5,"luck_bonus":120}
+{"id":"38","name":"🔥 Ngư Viêm Long","exp_required":24414062499999997952,"coin_bonus":342,"fish_bonus":60,"luck_bonus":120}
+{"id":"39","name":"❄️ Ngư Băng Tâm","exp_required":61035156249999998976,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"40","name":"⚡ Ngư Lôi Đế","exp_required":152587890624999981056,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"41","name":"🌈 Ngư Ảo Quang","exp_required":381469726562499952640,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"42","name":"☄️ Ngư Sao Băng","exp_required":1144409179687499857920,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"43","name":"🌠 Ngư Tinh Vân","exp_required":3433227539062499573760,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"44","name":"🪐 Ngư Hành Tinh","exp_required":10299682617187498721280,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"45","name":"👑 Ngư Chí Tôn","exp_required":30899047851562496163840,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"46","name":"🏆 Ngư Vinh Quang","exp_required":92697143554687488491520,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"47","name":"🌀 Ngư Thời Không","exp_required":278091430664062465474560,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"48","name":"🛡️ Ngư Thánh Hộ","exp_required":834274291992187396423680,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"49","name":"⚔️ Ngư Chiến Thần","exp_required":2502822875976562189271040,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"50","name":"🌑 Ngư Hắc Ám","exp_required":7508468627929686567813120,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"51","name":"🌟 Ngư Thiên Sứ","exp_required":22525405883789059703439360,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+{"id":"52","name":"♾️ Ngư Vĩnh Hằng","exp_required":67576217651367179110318080,"coin_bonus":350,"fish_bonus":60,"luck_bonus":120}
+],
   "FISH_TYPES": [
-    {
-      "name": "🍤 Cá Tép Dân Dã",
-      "value": 5,
-      "chance": 25.0,
-      "exp": 1,
-      "rarity": "C"
-    },
-    {
-      "name": "🦐 Cá Tôm Đỏ",
-      "value": 10,
-      "chance": 24.0,
-      "exp": 2,
-      "rarity": "C"
-    },
-    {
-      "name": "🐟 Cá Nhi Đồng",
-      "value": 20,
-      "chance": 23.0,
-      "exp": 3,
-      "rarity": "C"
-    },
-    {
-      "name": "🐠 Cá Kim Hoa",
-      "value": 40,
-      "chance": 22.0,
-      "exp": 5,
-      "rarity": "C"
-    },
-    {
-      "name": "🦀 Cua Giáp Ngọc",
-      "value": 35,
-      "chance": 21.5,
-      "exp": 4,
-      "rarity": "C"
-    },
-    {
-      "name": "🦴 Cá Xương Trắng",
-      "value": 80,
-      "chance": 20.0,
-      "exp": 8,
-      "rarity": "C"
-    },
-    {
-      "name": "🐚 Cá Vỏ Ngọc",
-      "value": 65,
-      "chance": 19.0,
-      "exp": 7,
-      "rarity": "C"
-    },
-    {
-      "name": "🐡 Cá Độc Tố",
-      "value": 120,
-      "chance": 16.0,
-      "exp": 10,
-      "rarity": "U"
-    },
-    {
-      "name": "🦑 Cá Mực Đêm",
-      "value": 150,
-      "chance": 15.0,
-      "exp": 12,
-      "rarity": "U"
-    },
-    {
-      "name": "🦪 Cá Ngọc Trai",
-      "value": 250,
-      "chance": 13.0,
-      "exp": 15,
-      "rarity": "U"
-    },
-    {
-      "name": "🦈 Cá Mập Biển",
-      "value": 300,
-      "chance": 12.0,
-      "exp": 18,
-      "rarity": "U"
-    },
-    {
-      "name": "🦐 Cá Hổ Phách",
-      "value": 450,
-      "chance": 11.0,
-      "exp": 22,
-      "rarity": "U"
-    },
-    {
-      "name": "🦑 Cá Ống Mực",
-      "value": 500,
-      "chance": 10.0,
-      "exp": 25,
-      "rarity": "U"
-    },
-    {
-      "name": "🐢 Cá Quy Thủy",
-      "value": 800,
-      "chance": 9.0,
-      "exp": 30,
-      "rarity": "U"
-    },
-    {
-      "name": "🦭 Cá Hải Hồn",
-      "value": 700,
-      "chance": 8.5,
-      "exp": 28,
-      "rarity": "U"
-    },
-    {
-      "name": "🐙 Cá Bạch Ma",
-      "value": 1000,
-      "chance": 8.0,
-      "exp": 35,
-      "rarity": "U"
-    },
-    {
-      "name": "🦞 Cá Hùm Biển",
-      "value": 1500,
-      "chance": 6.0,
-      "exp": 45,
-      "rarity": "R"
-    },
-    {
-      "name": "🐋 Cá Voi Thần",
-      "value": 1600,
-      "chance": 5.5,
-      "exp": 55,
-      "rarity": "R"
-    },
-    {
-      "name": "🦦 Cá Linh Hoạt",
-      "value": 2000,
-      "chance": 5.0,
-      "exp": 50,
-      "rarity": "R"
-    },
-    {
-      "name": "🦩 Cá Hạc Hồng",
-      "value": 3000,
-      "chance": 4.0,
-      "exp": 65,
-      "rarity": "R"
-    },
-    {
-      "name": "🦢 Cá Thiên Nga",
-      "value": 5000,
-      "chance": 3.0,
-      "exp": 80,
-      "rarity": "R"
-    },
-    {
-      "name": "🐊 Cá Ngạc Long",
-      "value": 6000,
-      "chance": 2.8,
-      "exp": 95,
-      "rarity": "R"
-    },
-    {
-      "name": "🐉 Cá Thần Long",
-      "value": 7500,
-      "chance": 2.5,
-      "exp": 100,
-      "rarity": "R"
-    },
-    {
-      "name": "💎 Cá Kim Cương",
-      "value": 10000,
-      "chance": 2.0,
-      "exp": 120,
-      "rarity": "R"
-    },
-    {
-      "name": "🦜 Cá Vẹt Biển",
-      "value": 14000,
-      "chance": 1.6,
-      "exp": 170,
-      "rarity": "E"
-    },
-    {
-      "name": "🐠 Cá Thiên Tiên",
-      "value": 15000,
-      "chance": 1.5,
-      "exp": 150,
-      "rarity": "E"
-    },
-    {
-      "name": "👑 Cá Hải Vương",
-      "value": 20000,
-      "chance": 1.0,
-      "exp": 200,
-      "rarity": "E"
-    },
-    {
-      "name": "🔱 Cá Thủy Thần",
-      "value": 32000,
-      "chance": 0.9,
-      "exp": 300,
-      "rarity": "E"
-    },
-    {
-      "name": "🌟 Cá Thần Thoại",
-      "value": 35000,
-      "chance": 0.8,
-      "exp": 350,
-      "rarity": "E"
-    },
-    {
-      "name": "⚡ Cá Lôi Long",
-      "value": 50000,
-      "chance": 0.5,
-      "exp": 500,
-      "rarity": "E"
-    },
-    {
-      "name": "🔥 Cá Hỏa Phụng",
-      "value": 80000,
-      "chance": 0.4,
-      "exp": 800,
-      "rarity": "E"
-    },
-    {
-      "name": "❄️ Cá Băng Kỳ Lân",
-      "value": 120000,
-      "chance": 0.25,
-      "exp": 1200,
-      "rarity": "E"
-    },
-    {
-      "name": "🌊 Cá Hải Hoàng",
-      "value": 100000,
-      "chance": 0.2,
-      "exp": 1000,
-      "rarity": "E"
-    },
-    {
-      "name": "💫 Cá Tinh Vân",
-      "value": 250000,
-      "chance": 0.12,
-      "exp": 2400,
-      "rarity": "L"
-    },
-    {
-      "name": "🌌 Cá Vũ Trụ",
-      "value": 250000,
-      "chance": 0.1,
-      "exp": 2500,
-      "rarity": "L"
-    },
-    {
-      "name": "♾️ Cá Vô Cực",
-      "value": 450000,
-      "chance": 0.06,
-      "exp": 4500,
-      "rarity": "L"
-    },
-    {
-      "name": "🔮 Cá Hư Không",
-      "value": 500000,
-      "chance": 0.05,
-      "exp": 5000,
-      "rarity": "L"
-    },
-    {
-      "name": "⭐ Cá Sáng Tạo",
-      "value": 900000,
-      "chance": 0.03,
-      "exp": 9000,
-      "rarity": "L"
-    },
-    {
-      "name": "👑 Cá Chúa Tể",
-      "value": 1000000,
-      "chance": 0.02,
-      "exp": 10000,
-      "rarity": "L"
-    },
-    {
-      "name": "🏆 Cá Tối Thượng",
-      "value": 1800000,
-      "chance": 0.015,
-      "exp": 18000,
-      "rarity": "M"
-    },
-    {
-      "name": "💠 Cá Vĩnh Hằng",
-      "value": 2500000,
-      "chance": 0.01,
-      "exp": 25000,
-      "rarity": "M"
-    },
-    {
-      "name": "♾️ Cá Hư Không",
-      "value": 3600000,
-      "chance": 0.008,
-      "exp": 36000,
-      "rarity": "M"
-    },
-    {
-      "name": "♾️ Cá Vô Cực",
-      "value": 5000000,
-      "chance": 0.005,
-      "exp": 50000,
-      "rarity": "M"
-    },
-    {
-      "name": "♾️ Cá Tối Hậu",
-      "value": 7200000,
-      "chance": 0.004,
-      "exp": 72000,
-      "rarity": "M"
-    },
-    {
-      "name": "🔮 Cá Ma Pháp",
-      "value": 10000000,
-      "chance": 0.002,
-      "exp": 100000,
-      "rarity": "M"
-    },
-    {
-      "name": "🔮 Cá Bí Ẩn",
-      "value": 15000000,
-      "chance": 0.002,
-      "exp": 150000,
-      "rarity": "S"
-    },
-    {
-      "name": "🏆 Cá Tuyệt Đỉnh",
-      "value": 25000000,
-      "chance": 0.001,
-      "exp": 250000,
-      "rarity": "S"
-    },
-    {
-      "name": "👑 Cá Tối Thượng",
-      "value": 30000000,
-      "chance": 0.001,
-      "exp": 300000,
-      "rarity": "S"
-    },
-    {
-      "name": "💫 Cá Thần Quang",
-      "value": 50000000,
-      "chance": 0.0005,
-      "exp": 500000,
-      "rarity": "S"
-    },
-    {
-      "name": "🌑 Cá Bóng Ma",
-      "value": 60000000,
-      "chance": 0.0005,
-      "exp": 600000,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 51",
-      "value": 100000000,
-      "chance": 0.0002,
-      "exp": 1000000,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 52",
-      "value": 120000000,
-      "chance": 0.0002,
-      "exp": 1200000,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 53",
-      "value": 250000000,
-      "chance": 0.0001,
-      "exp": 2500000,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 54",
-      "value": 240000000,
-      "chance": 0.0001,
-      "exp": 2400000,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 55",
-      "value": 500000000,
-      "chance": 5e-05,
-      "exp": 5000000,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 56",
-      "value": 500000000,
-      "chance": 5e-05,
-      "exp": 5000000,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 57",
-      "value": 1000000000,
-      "chance": 2e-05,
-      "exp": 10000000,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 58",
-      "value": 1000000000,
-      "chance": 2e-05,
-      "exp": 10000000,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 59",
-      "value": 2500000000,
-      "chance": 1e-05,
-      "exp": 25000000,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 60",
-      "value": 5000000000,
-      "chance": 5e-06,
-      "exp": 50000000,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 61",
-      "value": 10000000000,
-      "chance": 1e-06,
-      "exp": 100000000,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 62",
-      "value": 1000,
-      "chance": 6.0,
-      "exp": 50,
-      "rarity": "C"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 63",
-      "value": 4000,
-      "chance": 5.0,
-      "exp": 200,
-      "rarity": "U"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 64",
-      "value": 9000,
-      "chance": 4.285714285714286,
-      "exp": 450,
-      "rarity": "R"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 65",
-      "value": 16000,
-      "chance": 3.75,
-      "exp": 800,
-      "rarity": "E"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 66",
-      "value": 25000,
-      "chance": 3.3333333333333335,
-      "exp": 1250,
-      "rarity": "L"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 67",
-      "value": 36000,
-      "chance": 3.0,
-      "exp": 1800,
-      "rarity": "M"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 68",
-      "value": 49000,
-      "chance": 2.727272727272727,
-      "exp": 2450,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 69",
-      "value": 64000,
-      "chance": 0.16666666666666666,
-      "exp": 3200,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 70",
-      "value": 81000,
-      "chance": 0.15384615384615385,
-      "exp": 4050,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 71",
-      "value": 10000,
-      "chance": 2.142857142857143,
-      "exp": 500,
-      "rarity": "C"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 72",
-      "value": 22000,
-      "chance": 2.0,
-      "exp": 1100,
-      "rarity": "U"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 73",
-      "value": 36000,
-      "chance": 1.875,
-      "exp": 1800,
-      "rarity": "R"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 74",
-      "value": 52000,
-      "chance": 1.7647058823529411,
-      "exp": 2600,
-      "rarity": "E"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 75",
-      "value": 70000,
-      "chance": 1.6666666666666667,
-      "exp": 3500,
-      "rarity": "L"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 76",
-      "value": 90000,
-      "chance": 1.5789473684210527,
-      "exp": 4500,
-      "rarity": "M"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 77",
-      "value": 112000,
-      "chance": 1.5,
-      "exp": 5600,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 78",
-      "value": 136000,
-      "chance": 0.09523809523809523,
-      "exp": 6800,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 79",
-      "value": 162000,
-      "chance": 0.09090909090909091,
-      "exp": 8100,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 80",
-      "value": 19000,
-      "chance": 1.3043478260869565,
-      "exp": 950,
-      "rarity": "C"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 81",
-      "value": 40000,
-      "chance": 1.25,
-      "exp": 2000,
-      "rarity": "U"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 82",
-      "value": 63000,
-      "chance": 1.2,
-      "exp": 3150,
-      "rarity": "R"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 83",
-      "value": 88000,
-      "chance": 1.1538461538461537,
-      "exp": 4400,
-      "rarity": "E"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 84",
-      "value": 115000,
-      "chance": 1.1111111111111112,
-      "exp": 5750,
-      "rarity": "L"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 85",
-      "value": 144000,
-      "chance": 1.0714285714285714,
-      "exp": 7200,
-      "rarity": "M"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 86",
-      "value": 175000,
-      "chance": 1.0344827586206897,
-      "exp": 8750,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 87",
-      "value": 208000,
-      "chance": 0.06666666666666667,
-      "exp": 10400,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 88",
-      "value": 243000,
-      "chance": 0.06451612903225806,
-      "exp": 12150,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 89",
-      "value": 28000,
-      "chance": 0.9375,
-      "exp": 1400,
-      "rarity": "C"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 90",
-      "value": 58000,
-      "chance": 0.9090909090909091,
-      "exp": 2900,
-      "rarity": "U"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 91",
-      "value": 90000,
-      "chance": 0.8823529411764706,
-      "exp": 4500,
-      "rarity": "R"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 92",
-      "value": 124000,
-      "chance": 0.8571428571428571,
-      "exp": 6200,
-      "rarity": "E"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 93",
-      "value": 160000,
-      "chance": 0.8333333333333334,
-      "exp": 8000,
-      "rarity": "L"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 94",
-      "value": 198000,
-      "chance": 0.8108108108108109,
-      "exp": 9900,
-      "rarity": "M"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 95",
-      "value": 238000,
-      "chance": 0.7894736842105263,
-      "exp": 11900,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 96",
-      "value": 280000,
-      "chance": 0.05128205128205128,
-      "exp": 14000,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 97",
-      "value": 324000,
-      "chance": 0.05,
-      "exp": 16200,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 98",
-      "value": 37000,
-      "chance": 0.7317073170731707,
-      "exp": 1850,
-      "rarity": "C"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 99",
-      "value": 76000,
-      "chance": 0.7142857142857143,
-      "exp": 3800,
-      "rarity": "U"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 100",
-      "value": 117000,
-      "chance": 0.6976744186046512,
-      "exp": 5850,
-      "rarity": "R"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 101",
-      "value": 160000,
-      "chance": 0.6818181818181818,
-      "exp": 8000,
-      "rarity": "E"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 102",
-      "value": 205000,
-      "chance": 0.6666666666666666,
-      "exp": 10250,
-      "rarity": "L"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 103",
-      "value": 252000,
-      "chance": 0.6521739130434783,
-      "exp": 12600,
-      "rarity": "M"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 104",
-      "value": 301000,
-      "chance": 0.6382978723404256,
-      "exp": 15050,
-      "rarity": "S"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 105",
-      "value": 352000,
-      "chance": 0.041666666666666664,
-      "exp": 17600,
-      "rarity": "X"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 106",
-      "value": 405000,
-      "chance": 0.04081632653061224,
-      "exp": 20250,
-      "rarity": "Z"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 107",
-      "value": 46000,
-      "chance": 0.6,
-      "exp": 2300,
-      "rarity": "C"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 108",
-      "value": 94000,
-      "chance": 0.5882352941176471,
-      "exp": 4700,
-      "rarity": "U"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 109",
-      "value": 144000,
-      "chance": 0.5769230769230769,
-      "exp": 7200,
-      "rarity": "R"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 110",
-      "value": 196000,
-      "chance": 0.5660377358490566,
-      "exp": 9800,
-      "rarity": "E"
-    },
-    {
-      "name": "🐟 Cá Bí Ẩn 111",
-      "value": 250000,
-      "chance": 0.5555555555555556,
-      "exp": 12500,
-      "rarity": "L"
-    }
+    {"name": "🍤 Tép", "value": 5, "chance": 30.0, "exp": 1, "rarity": "C"},
+    {"name": "🦐 Tôm", "value": 10, "chance": 28.0, "exp": 2, "rarity": "C"},
+    {"name": "🐟 Cá nhỏ", "value": 15, "chance": 26.0, "exp": 3, "rarity": "C"},
+    {"name": "🐠 Cá vàng", "value": 20, "chance": 24.0, "exp": 4, "rarity": "C"},
+    {"name": "🦀 Cua", "value": 25, "chance": 22.0, "exp": 5, "rarity": "C"},
+    {"name": "🐚 Sò", "value": 30, "chance": 20.0, "exp": 6, "rarity": "C"},
+    {"name": "🦪 Hến", "value": 35, "chance": 19.0, "exp": 7, "rarity": "C"},
+    {"name": "🐙 Mực nhỏ", "value": 40, "chance": 18.0, "exp": 8, "rarity": "C"},
+    {"name": "🦑 Mực nang", "value": 45, "chance": 17.0, "exp": 9, "rarity": "C"},
+    {"name": "🐡 Cá bóng", "value": 50, "chance": 16.0, "exp": 10, "rarity": "C"},
+    {"name": "🐢 Rùa nhỏ", "value": 55, "chance": 15.5, "exp": 11, "rarity": "C"},
+    {"name": "🦐 Tôm tít", "value": 60, "chance": 15.0, "exp": 12, "rarity": "C"},
+    {"name": "🦴 Xương cá", "value": 65, "chance": 14.5, "exp": 13, "rarity": "C"},
+    {"name": "🐠 Cá dĩa", "value": 70, "chance": 14.0, "exp": 14, "rarity": "C"},
+    {"name": "🦑 Bạch tuộc nhỏ", "value": 75, "chance": 13.5, "exp": 15, "rarity": "C"},
+    {"name": "🐟 Cá trích", "value": 80, "chance": 13.0, "exp": 16, "rarity": "C"},
+    {"name": "🦀 Ghẹ", "value": 85, "chance": 12.5, "exp": 17, "rarity": "C"},
+    {"name": "🐚 Ốc", "value": 90, "chance": 12.0, "exp": 18, "rarity": "C"},
+    {"name": "🦐 Tôm càng", "value": 95, "chance": 11.5, "exp": 19, "rarity": "C"},
+    {"name": "🐠 Cá neon", "value": 100, "chance": 11.0, "exp": 20, "rarity": "C"},
+    {"name": "🐡 Cá nóc", "value": 150, "chance": 10.0, "exp": 25, "rarity": "U"},
+    {"name": "🦑 Mực ống", "value": 200, "chance": 9.5, "exp": 30, "rarity": "U"},
+    {"name": "🦈 Cá mập nhỏ", "value": 250, "chance": 9.0, "exp": 35, "rarity": "U"},
+    {"name": "🐢 Rùa biển", "value": 300, "chance": 8.5, "exp": 40, "rarity": "U"},
+    {"name": "🦞 Tôm sú", "value": 350, "chance": 8.0, "exp": 45, "rarity": "U"},
+    {"name": "🦭 Hải cẩu", "value": 400, "chance": 7.5, "exp": 50, "rarity": "U"},
+    {"name": "🐙 Bạch tuộc", "value": 450, "chance": 7.0, "exp": 55, "rarity": "U"},
+    {"name": "🦦 Rái cá", "value": 500, "chance": 6.5, "exp": 60, "rarity": "U"},
+    {"name": "🐟 Cá thu", "value": 600, "chance": 6.0, "exp": 70, "rarity": "U"},
+    {"name": "🦀 Cua hoàng đế", "value": 700, "chance": 5.5, "exp": 80, "rarity": "U"},
+    {"name": "🐠 Cá hề", "value": 800, "chance": 5.0, "exp": 90, "rarity": "U"},
+    {"name": "🦑 Mực khổng lồ", "value": 900, "chance": 4.8, "exp": 100, "rarity": "U"},
+    {"name": "🐡 Cá đuối", "value": 1000, "chance": 4.6, "exp": 110, "rarity": "U"},
+    {"name": "🦈 Cá nhám", "value": 1200, "chance": 4.4, "exp": 120, "rarity": "U"},
+    {"name": "🐢 Ba ba", "value": 1400, "chance": 4.2, "exp": 130, "rarity": "U"},
+    {"name": "🦞 Tôm càng xanh", "value": 1600, "chance": 4.0, "exp": 140, "rarity": "U"},
+    {"name": "🦭 Sư tử biển", "value": 1800, "chance": 3.8, "exp": 150, "rarity": "U"},
+    {"name": "🐙 Mực nang lớn", "value": 2000, "chance": 3.6, "exp": 160, "rarity": "U"},
+    {"name": "🦦 Hải ly", "value": 2200, "chance": 3.4, "exp": 170, "rarity": "U"},
+    {"name": "🐟 Cá ngừ", "value": 2500, "chance": 3.2, "exp": 180, "rarity": "U"},
+    {"name": "🦞 Tôm hùm", "value": 5000, "chance": 3.0, "exp": 200, "rarity": "R"},
+    {"name": "🐋 Cá voi xanh", "value": 7000, "chance": 2.5, "exp": 250, "rarity": "R"},
+    {"name": "🦈 Cá mập trắng", "value": 9000, "chance": 2.2, "exp": 300, "rarity": "R"},
+    {"name": "🐊 Cá sấu", "value": 12000, "chance": 2.0, "exp": 350, "rarity": "R"},
+    {"name": "🦩 Hồng hạc", "value": 15000, "chance": 1.8, "exp": 400, "rarity": "R"},
+    {"name": "🦢 Thiên nga", "value": 18000, "chance": 1.6, "exp": 450, "rarity": "R"},
+    {"name": "🐠 Cá thần tiên", "value": 22000, "chance": 1.4, "exp": 500, "rarity": "R"},
+    {"name": "🦜 Vẹt biển", "value": 26000, "chance": 1.2, "exp": 550, "rarity": "R"},
+    {"name": "🐙 Kraken nhỏ", "value": 30000, "chance": 1.0, "exp": 600, "rarity": "R"},
+    {"name": "🦑 Mực ma", "value": 35000, "chance": 0.9, "exp": 650, "rarity": "R"},
+    {"name": "🐟 Cá kiếm", "value": 40000, "chance": 0.8, "exp": 700, "rarity": "R"},
+    {"name": "🦈 Megalodon", "value": 45000, "chance": 0.7, "exp": 750, "rarity": "R"},
+    {"name": "🐋 Cá voi sát thủ", "value": 50000, "chance": 0.6, "exp": 800, "rarity": "R"},
+    {"name": "🦭 Voi biển", "value": 55000, "chance": 0.5, "exp": 850, "rarity": "R"},
+    {"name": "🐢 Rùa khổng lồ", "value": 60000, "chance": 0.4, "exp": 900, "rarity": "R"},
+    {"name": "🐉 Rồng biển", "value": 100000, "chance": 0.3, "exp": 1000, "rarity": "E"},
+    {"name": "💎 Kim cương biển", "value": 150000, "chance": 0.25, "exp": 1200, "rarity": "E"},
+    {"name": "🦄 Kỳ lân biển", "value": 200000, "chance": 0.2, "exp": 1400, "rarity": "E"},
+    {"name": "🌟 Sao biển vàng", "value": 250000, "chance": 0.18, "exp": 1600, "rarity": "E"},
+    {"name": "🔮 Pha lê biển", "value": 300000, "chance": 0.16, "exp": 1800, "rarity": "E"},
+    {"name": "👑 Vua cá", "value": 350000, "chance": 0.14, "exp": 2000, "rarity": "E"},
+    {"name": "🦚 Công lục bảo", "value": 400000, "chance": 0.12, "exp": 2200, "rarity": "E"},
+    {"name": "🌺 Hoa sen biển", "value": 450000, "chance": 0.1, "exp": 2400, "rarity": "E"},
+    {"name": "🏵️ Mẫu đơn biển", "value": 500000, "chance": 0.09, "exp": 2600, "rarity": "E"},
+    {"name": "🦸 Siêu cá", "value": 550000, "chance": 0.08, "exp": 2800, "rarity": "E"},
+    {"name": "🧜‍♀️ Tiên cá", "value": 600000, "chance": 0.07, "exp": 3000, "rarity": "E"},
+    {"name": "🧙 Pháp sư biển", "value": 650000, "chance": 0.06, "exp": 3200, "rarity": "E"},
+    {"name": "🐲 Long vương", "value": 700000, "chance": 0.05, "exp": 3400, "rarity": "E"},
+    {"name": "🌈 Cầu vồng biển", "value": 750000, "chance": 0.04, "exp": 3600, "rarity": "E"},
+    {"name": "⚡ Sấm sét biển", "value": 800000, "chance": 0.03, "exp": 3800, "rarity": "E"},
+    {"name": "🔱 Thủy thần", "value": 1000000, "chance": 0.02, "exp": 5000, "rarity": "L"},
+    {"name": "🌊 Hải hoàng", "value": 1500000, "chance": 0.015, "exp": 6000, "rarity": "L"},
+    {"name": "💫 Tinh tú biển", "value": 2000000, "chance": 0.01, "exp": 7000, "rarity": "L"},
+    {"name": "🌌 Ngân hà biển", "value": 2500000, "chance": 0.008, "exp": 8000, "rarity": "L"},
+    {"name": "🎆 Pháo hoa biển", "value": 3000000, "chance": 0.006, "exp": 9000, "rarity": "L"},
+    {"name": "🏆 Quán quân biển", "value": 3500000, "chance": 0.005, "exp": 10000, "rarity": "L"},
+    {"name": "🎯 Thần xạ thủ", "value": 4000000, "chance": 0.004, "exp": 11000, "rarity": "L"},
+    {"name": "🛡️ Thần chiến binh", "value": 4500000, "chance": 0.003, "exp": 12000, "rarity": "L"},
+    {"name": "⚔️ Kiếm thần", "value": 5000000, "chance": 0.002, "exp": 13000, "rarity": "L"},
+    {"name": "🌠 Sao băng biển", "value": 5500000, "chance": 0.001, "exp": 14000, "rarity": "L"},
+    {"name": "🔥 Hỏa phụng", "value": 10000000, "chance": 0.0008, "exp": 20000, "rarity": "M"},
+    {"name": "❄️ Băng long", "value": 15000000, "chance": 0.0006, "exp": 25000, "rarity": "M"},
+    {"name": "⚡ Lôi thần", "value": 20000000, "chance": 0.0004, "exp": 30000, "rarity": "M"},
+    {"name": "🌪️ Phong thần", "value": 25000000, "chance": 0.0003, "exp": 35000, "rarity": "M"},
+    {"name": "🌋 Hỏa thần", "value": 30000000, "chance": 0.0002, "exp": 40000, "rarity": "M"},
+    {"name": "🏔️ Sơn thần", "value": 35000000, "chance": 0.00015, "exp": 45000, "rarity": "M"},
+    {"name": "🌊 Thủy tổ", "value": 40000000, "chance": 0.0001, "exp": 50000, "rarity": "M"},
+    {"name": "☄️ Thiên thạch", "value": 45000000, "chance": 0.00008, "exp": 55000, "rarity": "M"}, 
+    {"name": "💠 Vĩnh hằng", "value": 100000000, "chance": 0.00005, "exp": 100000, "rarity": "S"},
+    {"name": "🌌 Vũ trụ", "value": 150000000, "chance": 0.00003, "exp": 150000, "rarity": "S"},
+    {"name": "♾️ Vô cực", "value": 200000000, "chance": 0.00002, "exp": 200000, "rarity": "S"},
+    {"name": "🎇 Kỳ tích", "value": 250000000, "chance": 0.000015, "exp": 250000, "rarity": "S"},
+    {"name": "🌟 Siêu tân tinh", "value": 300000000, "chance": 0.00001, "exp": 300000, "rarity": "S"},
+    {"name": "🕳️ Hố đen", "value": 350000000, "chance": 0.000008, "exp": 350000, "rarity": "S"},
+    {"name": "🌀 Xoáy không gian", "value": 400000000, "chance": 0.000005, "exp": 400000, "rarity": "S"},
+    {"name": "⭐ Sáng tạo", "value": 1000000000, "chance": 0.000002, "exp": 1000000, "rarity": "X"},
+    {"name": "🔮 Hư không", "value": 2000000000, "chance": 0.000001, "exp": 2000000, "rarity": "X"},
+    {"name": "💫 Ánh sáng vĩnh cửu", "value": 3000000000, "chance": 0.0000005, "exp": 3000000, "rarity": "X"},
+    {"name": "🌠 Thiên mệnh", "value": 4000000000, "chance": 0.0000002, "exp": 4000000, "rarity": "X"},  
+    {"name": "👑 Chúa tể", "value": 10000000000, "chance": 0.0000001, "exp": 10000000, "rarity": "Z"},
+    {"name": "🏆 Tối thượng", "value": 25000000000, "chance": 0.00000005, "exp": 25000000, "rarity": "Z"},
+    {"name": "💎 Tuyệt đối", "value": 50000000000, "chance": 0.00000001, "exp": 50000000, "rarity": "Z"}
   ],
   "FISHING_RODS": [
-    {
-      "id": "1",
-      "name": "🎣 Cần Tân Thủ",
-      "price": 0,
-      "speed": 3.0,
-      "auto_speed": 1.5,
-      "bonus": 1.0,
-      "exp_bonus": 1.0,
-      "coin_multiplier": 1.0,
-      "desc": "x1.0 xu, x1.0 exp"
-    },
-    {
-      "id": "2",
-      "name": "🎋 Cần Tre Xanh",
-      "price": 100,
-      "speed": 2.8,
-      "auto_speed": 1.5,
-      "bonus": 3.2,
-      "exp_bonus": 4.3,
-      "coin_multiplier": 3.2,
-      "desc": "x3.2 xu, x4.3 exp"
-    },
-    {
-      "id": "3",
-      "name": "🪵 Cần Gỗ Cứng",
-      "price": 500,
-      "speed": 2.5,
-      "auto_speed": 1.5,
-      "bonus": 5.4,
-      "exp_bonus": 7.6,
-      "coin_multiplier": 5.4,
-      "desc": "x5.4 xu, x7.6 exp"
-    },
-    {
-      "id": "4",
-      "name": "🥉 Cần Đồng Rèn",
-      "price": 2000,
-      "speed": 2.3,
-      "auto_speed": 1.5,
-      "bonus": 7.6,
-      "exp_bonus": 10.9,
-      "coin_multiplier": 7.6,
-      "desc": "x7.6 xu, x10.9 exp"
-    },
-    {
-      "id": "5",
-      "name": "⚙️ Cần Sắt Bền",
-      "price": 8000,
-      "speed": 2.0,
-      "auto_speed": 1.5,
-      "bonus": 9.8,
-      "exp_bonus": 14.2,
-      "coin_multiplier": 9.8,
-      "desc": "x9.8 xu, x14.2 exp"
-    },
-    {
-      "id": "6",
-      "name": "🥈 Cần Bạc Sáng",
-      "price": 30000,
-      "speed": 1.8,
-      "auto_speed": 1.5,
-      "bonus": 12.0,
-      "exp_bonus": 17.6,
-      "coin_multiplier": 12.0,
-      "desc": "x12.0 xu, x17.6 exp"
-    },
-    {
-      "id": "7",
-      "name": "🥇 Cần Vàng Rực",
-      "price": 120000,
-      "speed": 1.5,
-      "auto_speed": 1.5,
-      "bonus": 14.2,
-      "exp_bonus": 20.9,
-      "coin_multiplier": 14.2,
-      "desc": "x14.2 xu, x20.9 exp"
-    },
-    {
-      "id": "8",
-      "name": "💍 Cần Bạch Kim",
-      "price": 500000,
-      "speed": 1.3,
-      "auto_speed": 1.5,
-      "bonus": 16.4,
-      "exp_bonus": 24.2,
-      "coin_multiplier": 16.4,
-      "desc": "x16.4 xu, x24.2 exp"
-    },
-    {
-      "id": "9",
-      "name": "💎 Cần Kim Cương",
-      "price": 2000000,
-      "speed": 1.0,
-      "auto_speed": 1.5,
-      "bonus": 18.6,
-      "exp_bonus": 27.5,
-      "coin_multiplier": 18.6,
-      "desc": "x18.6 xu, x27.5 exp"
-    },
-    {
-      "id": "10",
-      "name": "🗿 Cần Hắc Thạch",
-      "price": 8000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 20.8,
-      "exp_bonus": 30.8,
-      "coin_multiplier": 20.8,
-      "desc": "x20.8 xu, x30.8 exp"
-    },
-    {
-      "id": "11",
-      "name": "⚔️ Cần Mythril",
-      "price": 35000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 23.0,
-      "exp_bonus": 34.1,
-      "coin_multiplier": 23.0,
-      "desc": "x23.0 xu, x34.1 exp"
-    },
-    {
-      "id": "12",
-      "name": "✨ Cần Thiên Thần",
-      "price": 150000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 25.2,
-      "exp_bonus": 37.4,
-      "coin_multiplier": 25.2,
-      "desc": "x25.2 xu, x37.4 exp"
-    },
-    {
-      "id": "13",
-      "name": "🌌 Cần Vũ Trụ",
-      "price": 600000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 27.4,
-      "exp_bonus": 40.7,
-      "coin_multiplier": 27.4,
-      "desc": "x27.4 xu, x40.7 exp"
-    },
-    {
-      "id": "14",
-      "name": "♾️ Cần Vĩnh Hằng",
-      "price": 2500000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 29.6,
-      "exp_bonus": 44.0,
-      "coin_multiplier": 29.6,
-      "desc": "x29.6 xu, x44.0 exp"
-    },
-    {
-      "id": "15",
-      "name": "🔮 Cần Toàn Năng",
-      "price": 10000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 31.8,
-      "exp_bonus": 47.4,
-      "coin_multiplier": 31.8,
-      "desc": "x31.8 xu, x47.4 exp"
-    },
-    {
-      "id": "16",
-      "name": "🌟 Cần Thần Thoại",
-      "price": 50000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 34.0,
-      "exp_bonus": 50.7,
-      "coin_multiplier": 34.0,
-      "desc": "x34.0 xu, x50.7 exp"
-    },
-    {
-      "id": "17",
-      "name": "⚡ Cần Lôi Thần",
-      "price": 200000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 36.2,
-      "exp_bonus": 54.0,
-      "coin_multiplier": 36.2,
-      "desc": "x36.2 xu, x54.0 exp"
-    },
-    {
-      "id": "18",
-      "name": "🏆 Cần Tối Cao",
-      "price": 1000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 38.4,
-      "exp_bonus": 57.3,
-      "coin_multiplier": 38.4,
-      "desc": "x38.4 xu, x57.3 exp"
-    },
-    {
-      "id": "19",
-      "name": "👑 Cần Chúa Tể",
-      "price": 5000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 40.6,
-      "exp_bonus": 60.6,
-      "coin_multiplier": 40.6,
-      "desc": "x40.6 xu, x60.6 exp"
-    },
-    {
-      "id": "20",
-      "name": "💠 Cần Cực Phẩm",
-      "price": 20000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 42.8,
-      "exp_bonus": 63.9,
-      "coin_multiplier": 42.8,
-      "desc": "x42.8 xu, x63.9 exp"
-    },
-    {
-      "id": "21",
-      "name": "🎨 Cần Huyền Bí",
-      "price": 80000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 45.0,
-      "exp_bonus": 67.2,
-      "coin_multiplier": 45.0,
-      "desc": "x45.0 xu, x67.2 exp"
-    },
-    {
-      "id": "22",
-      "name": "🌺 Cần Thiên Nhiên",
-      "price": 350000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 47.2,
-      "exp_bonus": 70.5,
-      "coin_multiplier": 47.2,
-      "desc": "x47.2 xu, x70.5 exp"
-    },
-    {
-      "id": "23",
-      "name": "🔶 Cần Hỗn Mang",
-      "price": 1500000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 49.4,
-      "exp_bonus": 73.8,
-      "coin_multiplier": 49.4,
-      "desc": "x49.4 xu, x73.8 exp"
-    },
-    {
-      "id": "24",
-      "name": "🎭 Cần Ảo Thuật",
-      "price": 6000000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 51.6,
-      "exp_bonus": 77.2,
-      "coin_multiplier": 51.6,
-      "desc": "x51.6 xu, x77.2 exp"
-    },
-    {
-      "id": "25",
-      "name": "🪐 Cần Hành Tinh",
-      "price": 25000000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 53.8,
-      "exp_bonus": 80.5,
-      "coin_multiplier": 53.8,
-      "desc": "x53.8 xu, x80.5 exp"
-    },
-    {
-      "id": "26",
-      "name": "🌠 Cần Ngân Hà",
-      "price": 100000000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 56.0,
-      "exp_bonus": 83.8,
-      "coin_multiplier": 56.0,
-      "desc": "x56.0 xu, x83.8 exp"
-    },
-    {
-      "id": "27",
-      "name": "🕳️ Cần Hố Đen",
-      "price": 400000000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 58.2,
-      "exp_bonus": 87.1,
-      "coin_multiplier": 58.2,
-      "desc": "x58.2 xu, x87.1 exp"
-    },
-    {
-      "id": "28",
-      "name": "🌈 Cần Cầu Vồng",
-      "price": 1600000000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 60.4,
-      "exp_bonus": 90.4,
-      "coin_multiplier": 60.4,
-      "desc": "x60.4 xu, x90.4 exp"
-    },
-    {
-      "id": "29",
-      "name": "☄️ Cần Sao Băng",
-      "price": 6500000000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 62.6,
-      "exp_bonus": 93.7,
-      "coin_multiplier": 62.6,
-      "desc": "x62.6 xu, x93.7 exp"
-    },
-    {
-      "id": "30",
-      "name": "🌀 Cần Siêu Không Gian",
-      "price": 25000000000000000000,
-      "speed": 0.8,
-      "auto_speed": 1.5,
-      "bonus": 64.8,
-      "exp_bonus": 97.0,
-      "coin_multiplier": 64.8,
-      "desc": "x64.8 xu, x97.0 exp"
-    },
-    {
-      "id": "31",
-      "name": "⚔️ Cần Hắc Ám",
-      "price": 100000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 67.0,
-      "exp_bonus": 100.3,
-      "coin_multiplier": 67.0,
-      "desc": "x67.0 xu, x100.3 exp"
-    },
-    {
-      "id": "32",
-      "name": "🛡️ Cần Thánh Hộ",
-      "price": 400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 69.2,
-      "exp_bonus": 103.6,
-      "coin_multiplier": 69.2,
-      "desc": "x69.2 xu, x103.6 exp"
-    },
-    {
-      "id": "33",
-      "name": "🌌 Cần Vũ Trụ",
-      "price": 1600000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 71.4,
-      "exp_bonus": 107.0,
-      "coin_multiplier": 71.4,
-      "desc": "x71.4 xu, x107.0 exp"
-    },
-    {
-      "id": "34",
-      "name": "🌀 Cần Thời Không",
-      "price": 6400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 73.6,
-      "exp_bonus": 110.3,
-      "coin_multiplier": 73.6,
-      "desc": "x73.6 xu, x110.3 exp"
-    },
-    {
-      "id": "35",
-      "name": "🔥 Cần Viêm Long",
-      "price": 25600000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 75.8,
-      "exp_bonus": 113.6,
-      "coin_multiplier": 75.8,
-      "desc": "x75.8 xu, x113.6 exp"
-    },
-    {
-      "id": "36",
-      "name": "❄️ Cần Băng Thần",
-      "price": 102400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 78.0,
-      "exp_bonus": 116.9,
-      "coin_multiplier": 78.0,
-      "desc": "x78.0 xu, x116.9 exp"
-    },
-    {
-      "id": "37",
-      "name": "⚡ Cần Lôi Giới",
-      "price": 409600000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 80.2,
-      "exp_bonus": 120.2,
-      "coin_multiplier": 80.2,
-      "desc": "x80.2 xu, x120.2 exp"
-    },
-    {
-      "id": "38",
-      "name": "🌈 Cần Ảo Quang",
-      "price": 1638400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 82.4,
-      "exp_bonus": 123.5,
-      "coin_multiplier": 82.4,
-      "desc": "x82.4 xu, x123.5 exp"
-    },
-    {
-      "id": "39",
-      "name": "☄️ Cần Sao Băng",
-      "price": 6553600000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 84.6,
-      "exp_bonus": 126.8,
-      "coin_multiplier": 84.6,
-      "desc": "x84.6 xu, x126.8 exp"
-    },
-    {
-      "id": "40",
-      "name": "🌑 Cần Hư Không",
-      "price": 26214400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 86.8,
-      "exp_bonus": 130.1,
-      "coin_multiplier": 86.8,
-      "desc": "x86.8 xu, x130.1 exp"
-    },
-    {
-      "id": "41",
-      "name": "💠 Cần Tuyệt Đối",
-      "price": 104857600000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 89.0,
-      "exp_bonus": 133.4,
-      "coin_multiplier": 89.0,
-      "desc": "x89.0 xu, x133.4 exp"
-    },
-    {
-      "id": "42",
-      "name": "👑 Cần Vương Giả",
-      "price": 419430400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 91.2,
-      "exp_bonus": 136.8,
-      "coin_multiplier": 91.2,
-      "desc": "x91.2 xu, x136.8 exp"
-    },
-    {
-      "id": "43",
-      "name": "🏆 Cần Vinh Quang",
-      "price": 1677721600000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 93.4,
-      "exp_bonus": 140.1,
-      "coin_multiplier": 93.4,
-      "desc": "x93.4 xu, x140.1 exp"
-    },
-    {
-      "id": "44",
-      "name": "♾️ Cần Vô Cực",
-      "price": 6710886400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 95.6,
-      "exp_bonus": 143.4,
-      "coin_multiplier": 95.6,
-      "desc": "x95.6 xu, x143.4 exp"
-    },
-    {
-      "id": "45",
-      "name": "🔮 Cần Ma Pháp",
-      "price": 26843545600000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 97.8,
-      "exp_bonus": 146.7,
-      "coin_multiplier": 97.8,
-      "desc": "x97.8 xu, x146.7 exp"
-    },
-    {
-      "id": "46",
-      "name": "🌟 Cần Thần Quang",
-      "price": 107374182400000000000000000000,
-      "speed": 0.7,
-      "auto_speed": 1.5,
-      "bonus": 100.0,
-      "exp_bonus": 150.0,
-      "coin_multiplier": 100.0,
-      "desc": "x100.0 xu, x150.0 exp"
-    }
-  ]
+{"id":"1","name":"🎣 Cần Tân Thủ","price":0,"speed":3.0,"auto_speed":1.5,"bonus":1.0,"exp_bonus":1.0,"coin_multiplier":1.0,"desc":"x1.0 xu, x1.0 exp"}
+{"id":"2","name":"🎋 Cần Tre Xanh","price":100,"speed":2.8,"auto_speed":1.5,"bonus":3.2,"exp_bonus":4.3,"coin_multiplier":3.2,"desc":"x3.2 xu, x4.3 exp"}
+{"id":"3","name":"🪵 Cần Gỗ Cứng","price":500,"speed":2.5,"auto_speed":1.5,"bonus":5.4,"exp_bonus":7.6,"coin_multiplier":5.4,"desc":"x5.4 xu, x7.6 exp"}
+{"id":"4","name":"🥉 Cần Đồng Rèn","price":2000,"speed":2.3,"auto_speed":1.5,"bonus":7.6,"exp_bonus":10.9,"coin_multiplier":7.6,"desc":"x7.6 xu, x10.9 exp"}
+{"id":"5","name":"⚙️ Cần Sắt Bền","price":8000,"speed":2.0,"auto_speed":1.5,"bonus":9.8,"exp_bonus":14.2,"coin_multiplier":9.8,"desc":"x9.8 xu, x14.2 exp"}
+{"id":"6","name":"🥈 Cần Bạc Sáng","price":30000,"speed":1.8,"auto_speed":1.5,"bonus":12.0,"exp_bonus":17.6,"coin_multiplier":12.0,"desc":"x12.0 xu, x17.6 exp"}
+{"id":"7","name":"🥇 Cần Vàng Rực","price":120000,"speed":1.5,"auto_speed":1.5,"bonus":14.2,"exp_bonus":20.9,"coin_multiplier":14.2,"desc":"x14.2 xu, x20.9 exp"}
+{"id":"8","name":"💍 Cần Bạch Kim","price":500000,"speed":1.3,"auto_speed":1.5,"bonus":16.4,"exp_bonus":24.2,"coin_multiplier":16.4,"desc":"x16.4 xu, x24.2 exp"}
+{"id":"9","name":"💎 Cần Kim Cương","price":2000000,"speed":1.0,"auto_speed":1.5,"bonus":18.6,"exp_bonus":27.5,"coin_multiplier":18.6,"desc":"x18.6 xu, x27.5 exp"}
+{"id":"10","name":"🗿 Cần Hắc Thạch","price":8000000,"speed":0.8,"auto_speed":1.5,"bonus":20.8,"exp_bonus":30.8,"coin_multiplier":20.8,"desc":"x20.8 xu, x30.8 exp"}
+{"id":"11","name":"⚔️ Cần Mythril","price":35000000,"speed":0.8,"auto_speed":1.5,"bonus":23.0,"exp_bonus":34.1,"coin_multiplier":23.0,"desc":"x23.0 xu, x34.1 exp"}
+{"id":"12","name":"✨ Cần Thiên Thần","price":150000000,"speed":0.8,"auto_speed":1.5,"bonus":25.2,"exp_bonus":37.4,"coin_multiplier":25.2,"desc":"x25.2 xu, x37.4 exp"}
+{"id":"13","name":"🌌 Cần Vũ Trụ","price":600000000,"speed":0.8,"auto_speed":1.5,"bonus":27.4,"exp_bonus":40.7,"coin_multiplier":27.4,"desc":"x27.4 xu, x40.7 exp"}
+{"id":"14","name":"♾️ Cần Vĩnh Hằng","price":2500000000,"speed":0.8,"auto_speed":1.5,"bonus":29.6,"exp_bonus":44.0,"coin_multiplier":29.6,"desc":"x29.6 xu, x44.0 exp"}
+{"id":"15","name":"🔮 Cần Toàn Năng","price":10000000000,"speed":0.8,"auto_speed":1.5,"bonus":31.8,"exp_bonus":47.4,"coin_multiplier":31.8,"desc":"x31.8 xu, x47.4 exp"}
+{"id":"16","name":"🌟 Cần Thần Thoại","price":50000000000,"speed":0.8,"auto_speed":1.5,"bonus":34.0,"exp_bonus":50.7,"coin_multiplier":34.0,"desc":"x34.0 xu, x50.7 exp"}
+{"id":"17","name":"⚡ Cần Lôi Thần","price":200000000000,"speed":0.8,"auto_speed":1.5,"bonus":36.2,"exp_bonus":54.0,"coin_multiplier":36.2,"desc":"x36.2 xu, x54.0 exp"}
+{"id":"18","name":"🏆 Cần Tối Cao","price":1000000000000,"speed":0.8,"auto_speed":1.5,"bonus":38.4,"exp_bonus":57.3,"coin_multiplier":38.4,"desc":"x38.4 xu, x57.3 exp"}
+{"id":"19","name":"👑 Cần Chúa Tể","price":5000000000000,"speed":0.8,"auto_speed":1.5,"bonus":40.6,"exp_bonus":60.6,"coin_multiplier":40.6,"desc":"x40.6 xu, x60.6 exp"}
+{"id":"20","name":"💠 Cần Cực Phẩm","price":20000000000000,"speed":0.8,"auto_speed":1.5,"bonus":42.8,"exp_bonus":63.9,"coin_multiplier":42.8,"desc":"x42.8 xu, x63.9 exp"}
+{"id":"21","name":"🎨 Cần Huyền Bí","price":80000000000000,"speed":0.8,"auto_speed":1.5,"bonus":45.0,"exp_bonus":67.2,"coin_multiplier":45.0,"desc":"x45.0 xu, x67.2 exp"}
+{"id":"22","name":"🌺 Cần Thiên Nhiên","price":350000000000000,"speed":0.8,"auto_speed":1.5,"bonus":47.2,"exp_bonus":70.5,"coin_multiplier":47.2,"desc":"x47.2 xu, x70.5 exp"}
+{"id":"23","name":"🔶 Cần Hỗn Mang","price":1500000000000000,"speed":0.8,"auto_speed":1.5,"bonus":49.4,"exp_bonus":73.8,"coin_multiplier":49.4,"desc":"x49.4 xu, x73.8 exp"}
+{"id":"24","name":"🎭 Cần Ảo Thuật","price":6000000000000000,"speed":0.8,"auto_speed":1.5,"bonus":51.6,"exp_bonus":77.2,"coin_multiplier":51.6,"desc":"x51.6 xu, x77.2 exp"}
+{"id":"25","name":"🪐 Cần Hành Tinh","price":25000000000000000,"speed":0.8,"auto_speed":1.5,"bonus":53.8,"exp_bonus":80.5,"coin_multiplier":53.8,"desc":"x53.8 xu, x80.5 exp"}
+{"id":"26","name":"🌠 Cần Ngân Hà","price":100000000000000000,"speed":0.8,"auto_speed":1.5,"bonus":56.0,"exp_bonus":83.8,"coin_multiplier":56.0,"desc":"x56.0 xu, x83.8 exp"}
+{"id":"27","name":"🕳️ Cần Hố Đen","price":400000000000000000,"speed":0.8,"auto_speed":1.5,"bonus":58.2,"exp_bonus":87.1,"coin_multiplier":58.2,"desc":"x58.2 xu, x87.1 exp"}
+{"id":"28","name":"🌈 Cần Cầu Vồng","price":1600000000000000000,"speed":0.8,"auto_speed":1.5,"bonus":60.4,"exp_bonus":90.4,"coin_multiplier":60.4,"desc":"x60.4 xu, x90.4 exp"}
+{"id":"29","name":"☄️ Cần Sao Băng","price":6500000000000000000,"speed":0.8,"auto_speed":1.5,"bonus":62.6,"exp_bonus":93.7,"coin_multiplier":62.6,"desc":"x62.6 xu, x93.7 exp"}
+{"id":"30","name":"🌀 Cần Siêu Không Gian","price":25000000000000000000,"speed":0.8,"auto_speed":1.5,"bonus":64.8,"exp_bonus":97.0,"coin_multiplier":64.8,"desc":"x64.8 xu, x97.0 exp"}
+{"id":"31","name":"⚔️ Cần Hắc Ám","price":100000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":67.0,"exp_bonus":100.3,"coin_multiplier":67.0,"desc":"x67.0 xu, x100.3 exp"}
+{"id":"32","name":"🛡️ Cần Thánh Hộ","price":400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":69.2,"exp_bonus":103.6,"coin_multiplier":69.2,"desc":"x69.2 xu, x103.6 exp"}
+{"id":"33","name":"🌌 Cần Vũ Trụ","price":1600000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":71.4,"exp_bonus":107.0,"coin_multiplier":71.4,"desc":"x71.4 xu, x107.0 exp"}
+{"id":"34","name":"🌀 Cần Thời Không","price":6400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":73.6,"exp_bonus":110.3,"coin_multiplier":73.6,"desc":"x73.6 xu, x110.3 exp"}
+{"id":"35","name":"🔥 Cần Viêm Long","price":25600000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":75.8,"exp_bonus":113.6,"coin_multiplier":75.8,"desc":"x75.8 xu, x113.6 exp"}
+{"id":"36","name":"❄️ Cần Băng Thần","price":102400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":78.0,"exp_bonus":116.9,"coin_multiplier":78.0,"desc":"x78.0 xu, x116.9 exp"}
+{"id":"37","name":"⚡ Cần Lôi Giới","price":409600000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":80.2,"exp_bonus":120.2,"coin_multiplier":80.2,"desc":"x80.2 xu, x120.2 exp"}
+{"id":"38","name":"🌈 Cần Ảo Quang","price":1638400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":82.4,"exp_bonus":123.5,"coin_multiplier":82.4,"desc":"x82.4 xu, x123.5 exp"}
+{"id":"39","name":"☄️ Cần Sao Băng","price":6553600000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":84.6,"exp_bonus":126.8,"coin_multiplier":84.6,"desc":"x84.6 xu, x126.8 exp"}
+{"id":"40","name":"🌑 Cần Hư Không","price":26214400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":86.8,"exp_bonus":130.1,"coin_multiplier":86.8,"desc":"x86.8 xu, x130.1 exp"}
+{"id":"41","name":"💠 Cần Tuyệt Đối","price":104857600000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":89.0,"exp_bonus":133.4,"coin_multiplier":89.0,"desc":"x89.0 xu, x133.4 exp"}
+{"id":"42","name":"👑 Cần Vương Giả","price":419430400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":91.2,"exp_bonus":136.8,"coin_multiplier":91.2,"desc":"x91.2 xu, x136.8 exp"}
+{"id":"43","name":"🏆 Cần Vinh Quang","price":1677721600000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":93.4,"exp_bonus":140.1,"coin_multiplier":93.4,"desc":"x93.4 xu, x140.1 exp"}
+{"id":"44","name":"♾️ Cần Vô Cực","price":6710886400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":95.6,"exp_bonus":143.4,"coin_multiplier":95.6,"desc":"x95.6 xu, x143.4 exp"}
+{"id":"45","name":"🔮 Cần Ma Pháp","price":26843545600000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":97.8,"exp_bonus":146.7,"coin_multiplier":97.8,"desc":"x97.8 xu, x146.7 exp"}
+{"id":"46","name":"🌟 Cần Thần Quang","price":107374182400000000000000000000,"speed":0.7,"auto_speed":1.5,"bonus":100.0,"exp_bonus":150.0,"coin_multiplier":100.0,"desc":"x100.0 xu, x150.0 exp"}
+]
 }
