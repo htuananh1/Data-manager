@@ -191,5 +191,19 @@ PETS = {
 }
 
 # Initialize data
-FISH_TYPES = generate_fish_types()
+# Try to load from fish_data.txt first, otherwise generate
+try:
+    import os
+    fish_data_file = os.path.join(os.path.dirname(__file__), "fish_data.txt")
+    if os.path.exists(fish_data_file):
+        # Load from file
+        with open(fish_data_file, "r", encoding="utf-8") as f:
+            exec(f.read())
+    else:
+        # Generate if file doesn't exist
+        FISH_TYPES = generate_fish_types()
+except Exception as e:
+    # Fallback to generation if loading fails
+    FISH_TYPES = generate_fish_types()
+
 FISHING_RODS = generate_rods()
