@@ -1,7 +1,7 @@
 {
   "economy": {
     "1227179158816292875": {
-      "balance": 99999999972049,
+      "balance": 99999999972057,
       "lastWork": 0,
       "lastDaily": 1768222417387,
       "dailyStreak": 0
@@ -13,7 +13,36 @@
     "pokemon_channel": "1236337879962226690",
     "fishing_channel": "1387667309585236009"
   },
-  "rpg": {},
+  "rpg": {
+    "1227179158816292875": {
+      "level": 1,
+      "xp": 15,
+      "hp": 87,
+      "maxHp": 100,
+      "mp": 20,
+      "maxMp": 50,
+      "atk": 10,
+      "def": 5,
+      "spd": 5,
+      "crit": 5,
+      "luck": 5,
+      "weapon": null,
+      "armor": null,
+      "ring": null,
+      "accessory": null,
+      "skills": [],
+      "inventory": [],
+      "quests": [],
+      "wins": 0,
+      "losses": 0,
+      "bossKills": 0,
+      "gold": 0,
+      "prestige": 0,
+      "lastDaily": 0,
+      "streak": 0,
+      "achievements": []
+    }
+  },
   "pokemon": {},
   "fishing": {
     "1227179158816292875": {
