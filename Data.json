@@ -18,13 +18,14 @@
   "fishing": {
     "1227179158816292875": {
       "level": 1,
-      "xp": 11,
+      "xp": 31,
       "inventory": {
-        "Cá lóc": 1
+        "Cá lóc": 1,
+        "Cá chạch biển": 1
       },
       "rod": "super_rod",
-      "bait": 9,
-      "lastFish": 1768243103046,
+      "bait": 8,
+      "lastFish": 1768243118205,
       "coins": 0
     }
   }
