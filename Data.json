@@ -1,9 +1,9 @@
 {
   "economy": {
     "1227179158816292875": {
-      "balance": 1000,
+      "balance": 2000,
       "lastWork": 0,
-      "lastDaily": 0,
+      "lastDaily": 1768222417387,
       "dailyStreak": 0
     }
   },
