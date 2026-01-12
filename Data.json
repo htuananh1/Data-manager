@@ -15,5 +15,15 @@
   },
   "rpg": {},
   "pokemon": {},
-  "fishing": {}
+  "fishing": {
+    "1227179158816292875": {
+      "level": 1,
+      "xp": 0,
+      "inventory": {},
+      "rod": "basic_rod",
+      "bait": 0,
+      "lastFish": 0,
+      "coins": 0
+    }
+  }
 }
